@@ -1,0 +1,103 @@
+{
+  "import_batch": {
+    "_validation": {
+      "allowed_difficulty": [
+        "easy",
+        "medium",
+        "hard"
+      ],
+      "allowed_category_ids": [
+        "proeven",
+        "vinificatie",
+        "serveren",
+        "wetgeving",
+        "bordeaux",
+        "frankrijk_algemeen",
+        "italie",
+        "spanje_portugal",
+        "duitsland",
+        "nieuwe_wereld",
+        "overig"
+      ],
+      "required_fields": [
+        "id",
+        "category",
+        "difficulty",
+        "source",
+        "question",
+        "answer",
+        "explanation",
+        "tags"
+      ],
+      "optional_answer_fields": [
+        "answer_short",
+        "answer_core_points",
+        "answer_why",
+        "answer_pitfall",
+        "answer_memory_hook"
+      ]
+    },
+    "metadata": {
+      "created_at": "2026-02-13",
+      "source": "your_source_name",
+      "notes": "Copy only flashcards[] items into sden3_flashcards_database.json -> flashcards[]. Keep ids stable and unique."
+    },
+    "flashcards": [
+      {
+        "id": "unique_card_id_001",
+        "category": "vinificatie",
+        "difficulty": "easy",
+        "source": "your_source_name",
+        "question": "Your question here?",
+        "answer": "Short direct answer",
+        "explanation": "Longer explanation used in study mode.",
+        "tags": [
+          "tag_one",
+          "tag_two"
+        ],
+        "answer_short": "Short direct answer.",
+        "answer_core_points": [
+          "Core point 1",
+          "Core point 2"
+        ],
+        "answer_why": "Why this is correct. If omitted, app falls back to explanation.",
+        "answer_pitfall": "Common mistake to avoid.",
+        "answer_memory_hook": "Mnemonic or memory hook."
+      }
+    ]
+  },
+  "minimal_card_template": {
+    "id": "unique_card_id_minimal",
+    "category": "vinificatie",
+    "difficulty": "easy",
+    "source": "your_source_name",
+    "question": "Your question here?",
+    "answer": "Short direct answer",
+    "explanation": "Longer explanation used in study mode.",
+    "tags": [
+      "tag_one",
+      "tag_two"
+    ]
+  },
+  "single_item_template": {
+    "id": "unique_card_id_002",
+    "category": "vinificatie",
+    "difficulty": "medium",
+    "source": "your_source_name",
+    "question": "Your question here?",
+    "answer": "Short direct answer",
+    "explanation": "Longer explanation used in study mode.",
+    "tags": [
+      "tag_one",
+      "tag_two"
+    ],
+    "answer_short": "Short direct answer.",
+    "answer_core_points": [
+      "Core point 1",
+      "Core point 2"
+    ],
+    "answer_why": "Why this is correct.",
+    "answer_pitfall": "Common mistake to avoid.",
+    "answer_memory_hook": "Mnemonic or memory hook."
+  }
+}

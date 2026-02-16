@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modern Web App Design"
+  short_description: "Design and build clean, modern, high-performance web apps"
+  default_prompt: "Use this skill to design and implement beautiful, minimal, and performant web applications with strong UX and scalable component architecture."

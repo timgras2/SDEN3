@@ -1,0 +1,334 @@
+{
+  "flashcards": [
+    {
+      "id": "unique_card_id_006",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination",
+      "question": "Wat is de belangrijkste kwaliteitsfactor voor wijnbouw in de Argentijnse regio Mendoza?",
+      "answer": "De hoogte (altitude) van de wijngaarden in de Andes.",
+      "explanation": "De grote hoogte zorgt voor veel zonlicht voor de rijping, terwijl de koele nachten (grote diurnale range) helpen om de zuren en aroma's in de druiven (vooral Malbec) te behouden.",
+      "tags": ["argentinie", "mendoza", "hoogte", "malbec"]
+    },
+    {
+      "id": "unique_card_id_007",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination",
+      "question": "Welke druif is de signatuurdruif van Chili en wat is een uniek viticultureel kenmerk van dit land?",
+      "answer": "Carmenère; Chili is nagenoeg Phylloxera-vrij.",
+      "explanation": "Carmenère werd herontdekt in Chili nadat men dacht dat het Merlot was. Chili is een van de weinige landen waar de druifluis (Phylloxera) nooit de wijngaarden heeft vernietigd, waardoor veel stokken niet geënt hoeven te worden op Amerikaanse onderstammen.",
+      "tags": ["chili", "carmenere", "phylloxera"]
+    },
+    {
+      "id": "unique_card_id_008",
+      "category": "nieuwe_wereld",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination",
+      "question": "Wat is de genetische oorsprong van de Zuid-Afrikaanse druif Pinotage en hoe wordt Chenin Blanc daar lokaal vaak genoemd?",
+      "answer": "Pinotage is een kruising tussen Pinot Noir en Cinsault; Chenin Blanc wordt 'Steen' genoemd.",
+      "explanation": "Pinotage is in 1925 ontwikkeld om de finesse van Pinot Noir te combineren met de robuustheid van Cinsault (vroeger Hermitage genoemd). Chenin Blanc is de meest aangeplante druif van het land.",
+      "tags": ["zuid-afrika", "pinotage", "steen", "chenin_blanc"]
+    },
+    {
+      "id": "unique_card_id_009",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination",
+      "question": "Welke regio in Nieuw-Zeeland is wereldberoemd om zijn Sauvignon Blanc en wat zijn de typische aroma's?",
+      "answer": "Marlborough; passievrucht, kruisbes en gemaaid gras.",
+      "explanation": "De Sauvignon Blanc uit Marlborough staat bekend om zijn hoge zuurgraad en zeer uitgesproken, stuivende tropische en groene aroma's.",
+      "tags": ["nieuw-zeeland", "marlborough", "sauvignon_blanc"]
+    },
+    {
+      "id": "unique_card_id_010",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination",
+      "question": "Welke Australische regio staat bekend om zijn krachtige Shiraz en welk specifiek aroma wordt hier vaak aan gekoppeld?",
+      "answer": "Barossa Valley; chocolade, specerijen en rijp zwart fruit.",
+      "explanation": "Door het warme klimaat in Barossa Valley ontwikkelt de Shiraz-druif veel suikers, wat resulteert in wijnen met een hoog alcoholpercentage, volle body en jammy aroma's.",
+      "tags": ["australie", "shiraz", "barossa"]
+    },
+    {
+      "id": "unique_card_id_011",
+      "category": "nieuwe_wereld",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination",
+      "question": "Wat is het verschil in focus tussen de Californische regio's Napa Valley en Sonoma?",
+      "answer": "Napa focust op krachtige Cabernet Sauvignon; Sonoma is diverser met ook koelere pockets voor Pinot Noir en Chardonnay.",
+      "explanation": "Napa Valley is het epicentrum voor premium Cabernet Sauvignon. Sonoma is uitgestrekter en heeft door de invloed van de oceaan meer variatie in microklimaten, waardoor het ook zeer geschikt is voor koelere druivenrassen.",
+      "answer_pitfall": "Denk niet dat Napa alleen Cabernet maakt, maar voor het examen is dit de primaire associatie.",
+      "tags": ["vsa", "californie", "napa", "sonoma"]
+    },
+    {
+      "id": "unique_card_id_012",
+      "category": "italie",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke druif is de basis voor Barolo en Barbaresco, en wat zijn de drie meest typerende structuur- en aromakenmerken?",
+      "answer": "100% Nebbiolo; hoge zuren, hoge tannines en aroma's van rozen en teer.",
+      "explanation": "Piemonte wordt vaak de 'Bourgogne van Italië' genoemd vanwege de focus op terroir. De Nebbiolo-druif geeft wijnen met een relatief lichte kleur, maar een zeer krachtige structuur en complexe tertiaire tonen bij oudering [1, 2].",
+      "tags": ["piemonte", "nebbiolo", "barolo", "barbaresco"]
+    },
+    {
+      "id": "unique_card_id_013",
+      "category": "italie",
+      "difficulty": "easy",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke druif vormt de kern van de wijnen in Toscane (zoals Chianti en Brunello) en wat is het smaakprofiel?",
+      "answer": "Sangiovese; aroma's van zure kers, kruiden en aardse tonen met hoge zuren.",
+      "explanation": "Sangiovese is de trots van Toscane. In Chianti Classico moet dit ras voor minimaal 80% aanwezig zijn, terwijl Brunello di Montalcino uit 100% Sangiovese (lokaal Brunello genoemd) bestaat [1, 3].",
+      "answer_pitfall": "Verwar Sangiovese niet met Nebbiolo; hoewel beide hoog zuur hebben, is Sangiovese vaak minder extreem in tannine en heeft het meer kersenfruit in plaats van rozen/teer [4].",
+      "tags": ["toscane", "sangiovese", "chianti", "brunello"]
+    },
+    {
+      "id": "unique_card_id_014",
+      "category": "italie",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat houdt de 'appassimento'-methode in die voor Amarone della Valpolicella wordt gebruikt?",
+      "answer": "Het indrogen van druiven vóór de vergisting voor een hogere concentratie.",
+      "explanation": "Door de druiven (meestal Corvina) na de oogst in te drogen, verdampt water en concentreren suikers en aroma's zich. Dit resulteert in een zware, alcoholrijke wijn met tonen van gedroogd fruit [1, 5].",
+      "tags": ["veneto", "amarone", "appassimento", "corvina"]
+    },
+    {
+      "id": "unique_card_id_015",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is het verschil tussen de Italiaanse kwalificaties DOC en DOCG?",
+      "answer": "DOCG is de hoogste aanduiding met de strengste regels en een gegarandeerde kwaliteitstest.",
+      "explanation": "DOC (Denominazione di Origine Controllata) stelt regels voor herkomst en druiven. DOCG (Garantita) voegt daar een extra keuring aan toe en is herkenbaar aan de genummerde banderol om de hals van de fles [6-9].",
+      "tags": ["italie", "wetgeving", "DOC", "DOCG"]
+    },
+    {
+      "id": "unique_card_id_016",
+      "category": "italie",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke twee factoren zorgen ervoor dat wijnen uit Sicilië en Alto Adige, ondanks hun verschillende ligging, beide een fris profiel kunnen hebben?",
+      "answer": "Hoogte (altitude) en in Sicilië tevens de invloed van de kust.",
+      "explanation": "In Alto Adige zorgt de koelere Alpenlucht voor frisheid. Op Sicilië compenseert de hoogte van wijngaarden (bijv. rond de Etna) en de zeebries voor de mediterrane hitte, waardoor zuren en aroma's behouden blijven [3, 10].",
+      "answer_memory_hook": "Denk aan de 'dubbele koeling': de bergen (hoogte) en de zee (water) [11].",
+      "tags": ["sicilie", "alto_adige", "klimaat", "hoogte"]
+    },
+    {
+      "id": "unique_card_id_017",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is het kenmerkende smaakprofiel van Shiraz uit Barossa Valley?",
+      "answer": "Krachtig en vol met aroma's van chocolade, leer, specerijen en jammy zwart fruit.",
+      "explanation": "Door het warme klimaat in Barossa Valley ontwikkelt de Shiraz-druif veel suikers en extractie. Dit resulteert in wijnen met een volle body, hoog alcoholpercentage en rijpe, kruidige tonen.",
+      "tags": ["australie", "shiraz", "barossa"]
+    },
+    {
+      "id": "unique_card_id_018",
+      "category": "nieuwe_wereld",
+      "difficulty": "easy",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke aroma's en structuur zijn typerend voor Sauvignon Blanc uit Marlborough?",
+      "answer": "Aroma's van passievrucht, kruisbes en gemaaid gras met een hoge zuurgraad.",
+      "explanation": "Marlborough is het wereldwijde anker voor Sauvignon Blanc. De wijnen staan bekend om hun stuivende, aromatische karakter dat zowel tropische vruchten als 'groene' tonen (zoals buxus of asperge) bevat.",
+      "answer_memory_hook": "Denk aan de 'M' van Marlborough voor 'Meest aromatisch' en 'Massa's passievrucht'.",
+      "tags": ["nieuw-zeeland", "marlborough", "sauvignon_blanc"]
+    },
+    {
+      "id": "unique_card_id_019",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke regio op het Zuidereiland van Nieuw-Zeeland staat bekend om zijn kwaliteits-Pinot Noir?",
+      "answer": "Central Otago.",
+      "explanation": "Central Otago is een van de meest zuidelijk gelegen wijngebieden ter wereld. Het koelere klimaat daar is ideaal voor de Pinot Noir-druif, wat resulteert in elegante wijnen met aroma's van rood fruit (kers, aardbei) en aardse tonen.",
+      "tags": ["nieuw-zeeland", "pinot_noir", "central_otago"]
+    },
+    {
+      "id": "unique_card_id_020",
+      "category": "nieuwe_wereld",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat typeert de wijnstijl van Margaret River in vergelijking met andere Australische regio's?",
+      "answer": "Een maritiem klimaat dat zorgt voor een strakke, klassieke stijl Cabernet Sauvignon en Chardonnay.",
+      "explanation": "In tegenstelling tot de zeer hete gebieden in het binnenland, zorgt de invloed van de oceaan in Margaret River voor gematigde temperaturen. Dit leidt tot wijnen met meer verfijning, hogere zuren en een structuur die vaak met Bordeaux wordt vergeleken.",
+      "tags": ["australie", "margaret_river", "klimaat"]
+    },
+    {
+      "id": "unique_card_id_021",
+      "category": "nieuwe_wereld",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Voor welk specifiek druivenras en unieke stijl staat Hunter Valley bekend?",
+      "answer": "Semillon.",
+      "explanation": "Hunter Valley Semillon is een unieke Australische specialiteit. De wijnen worden vaak jong geoogst met een laag alcoholpercentage en hoge zuren. Hoewel ze in hun jeugd neutraal zijn, ontwikkelen ze na jaren flesrijping complexe aroma's van honing en toast.",
+      "answer_pitfall": "Verwar de Hunter Valley-stijl niet met de houtgerijpte Semillons uit andere landen; hier komt de complexiteit puur door flesrijping.",
+      "tags": ["australie", "hunter_valley", "semillon"]
+    },
+    {
+      "id": "unique_card_id_022",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke Australische regio staat bekend om zijn aromatische Riesling met hoge zuren?",
+      "answer": "Clare Valley (of Eden Valley).",
+      "explanation": "Hoewel Australië vaak geassocieerd wordt met warmte, produceren koelere subregio's zoals Clare Valley uitstekende Rieslings met strakke zuren en aroma's van limoen en bloemen.",
+      "tags": ["australie", "riesling", "clare_valley"]
+    },
+    {
+      "id": "vin_001",
+      "category": "vinificatie",
+      "difficulty": "easy",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is de basisformule voor alcoholische gisting?",
+      "answer": "Suiker + Gist = Alcohol + CO2 + Warmte + Aroma's.",
+      "explanation": "Tijdens de fermentatie zetten gistcellen (meestal Saccharomyces cerevisiae) de natuurlijke suikers uit de druif om in ethanol en koolzuurgas. Hierbij komt energie vrij in de vorm van warmte [1, 2].",
+      "tags": ["gisting", "alcohol", "fermentatie"]
+    },
+    {
+      "id": "vin_002",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is het doel van malolactische gisting (BSA) en wanneer wordt dit toegepast?",
+      "answer": "Het omzetten van hard appelzuur in mild melkzuur; bijna standaard bij rode wijnen en optioneel bij witte wijnen.",
+      "explanation": "BSA verlaagt de zuurgraad, verhoogt de pH en zorgt voor een zachter mondgevoel en meer stabiliteit. Bij witte wijnen zoals Chardonnay kan het ook boterachtige aroma's (diacetyl) toevoegen [2-4].",
+      "answer_pitfall": "Verwar BSA niet met alcoholische gisting; het is een microbiologisch proces door bacteriën, niet door gisten [3].",
+      "tags": ["BSA", "appelzuur", "melkzuur"]
+    },
+    {
+      "id": "vin_003",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is het fundamentele verschil in het persmoment tussen witte en rode wijnproductie?",
+      "answer": "Witte wijn wordt geperst vóór de gisting; rode wijn na (of tijdens) de gisting op de schillen.",
+      "explanation": "Bij witte wijn wil men enkel het sap vergisten om primaire fruitaroma's te behouden. Bij rode wijn is maceratie (schilcontact) tijdens de gisting nodig om kleur en tannines uit de schillen te extraheren [4, 5].",
+      "tags": ["persen", "maceratie", "extractie"]
+    },
+    {
+      "id": "vin_004",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Noem de twee belangrijkste functies van zwaveldioxide (SO2) in het vinificatieproces.",
+      "answer": "Bescherming tegen oxidatie en bescherming tegen bacterieel bederf (antimicrobieel).",
+      "explanation": "SO2 voorkomt dat de wijn bruin wordt en gewenste aroma's verliest, en het remt de groei van ongewenste gisten en bacteriën [6-8].",
+      "tags": ["sulfiet", "SO2", "stabilisatie"]
+    },
+    {
+      "id": "vin_005",
+      "category": "vinificatie",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke drie effecten heeft het gebruik van eikenhouten vaten op de rijping van wijn?",
+      "answer": "Toevoeging van aroma's, gecontroleerde zuurstofinflux (micro-oxidatie) en structurele verandering (tanninepolymerisatie).",
+      "explanation": "Hout geeft smaken zoals vanille en toast. Door de poriën komt een minimale hoeveelheid zuurstof binnen, wat de wijn zachter maakt en de kleur stabiliseert. Hoe kleiner het vat, hoe groter de impact [9-11].",
+      "answer_memory_hook": "De drie O's van hout: Ontwikkeling (zuurstof), Opvoeding (structuur) en Overdracht (aroma).",
+      "tags": ["eikenhout", "rijping", "oxidatie"]
+    },
+    {
+      "id": "vin_006",
+      "category": "vinificatie",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat houdt 'Macération Carbonique' in en welke wijnstijl levert dit op?",
+      "answer": "Vergisting van hele, ongekneusde druiven in een koolzuurgasomgeving; levert fruitige wijnen met weinig tannines.",
+      "explanation": "De gisting vindt deels binnenin de druif plaats zonder tussenkomst van gist. Dit geeft typerende aroma's van banaan of snoepgoed en een soepele structuur, zoals bij Beaujolais Nouveau [6, 12, 13].",
+      "tags": ["koolzuurmaceratie", "beaujolais", "techniek"]
+    },
+    {
+      "id": "vin_007",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is het doel van rijping 'sur lie' en de bijbehorende 'bâtonnage'?",
+      "answer": "Het verkrijgen van een vollere smaak en romige textuur door contact met dode gistcellen.",
+      "explanation": "Tijdens de autolyse geven dode gistcellen (lie) stoffen af aan de wijn. Bâtonnage is het doorroeren van deze cellen om het contactoppervlak te vergroten en de smaakafgifte te stimuleren [9, 11, 14].",
+      "tags": ["sur lie", "batonnage", "textuur"]
+    },
+    {
+      "id": "vin_008",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is 'chaptalisatie' en wat is het beoogde resultaat?",
+      "answer": "Het toevoegen van suiker aan de most vóór de gisting om het alcoholgehalte te verhogen.",
+      "explanation": "Dit wordt vaak toegepast in koelere jaren wanneer druiven niet voldoende suiker hebben ontwikkeld. Het doel is extra alcohol voor de balans, niet om de wijn zoet te maken [6, 15, 16].",
+      "answer_pitfall": "Denk niet dat chaptalisatie de wijn zoet maakt; de toegevoegde suiker wordt volledig vergist tot alcohol [17].",
+      "tags": ["chaptalisatie", "suiker", "alcohol"]
+    },
+    {
+      "id": "druif_001",
+      "category": "proeven",
+      "difficulty": "easy",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat zijn de typische aroma's en structuurkenmerken van Chardonnay?",
+      "answer": "Aroma's van appel, peer en citrus; een medium tot volle body met een medium zuurgraad.",
+      "explanation": "Chardonnay is een 'kameleon'. In koelere klimaten (zoals Chablis) is hij strak en mineraal met citrus, terwijl hij in warme klimaten tonen van perzik en ananas krijgt. Houtrijping voegt vanille en toast toe, en malolactische gisting (BSA) zorgt voor een boterachtig karakter.",
+      "tags": ["chardonnay", "wit", "aroma"],
+      "answer_memory_hook": "Denk aan de 'B' van Chardonnay: Boter, Bourgogne en Breed inzetbaar."
+    },
+    {
+      "id": "druif_002",
+      "category": "proeven",
+      "difficulty": "easy",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke drie 'groene' aroma's zijn typerend voor Sauvignon Blanc en wat is het belangrijkste structuurkenmerk?",
+      "answer": "Gras, kruisbes en asperge (of buxus); een hoge zuurgraad.",
+      "explanation": "Sauvignon Blanc is een aromatisch ras dat gedijt in koelere klimaten zoals de Loire (Sancerre) en Nieuw-Zeeland (Marlborough). De wijn is bijna altijd droog, fris en fruitig.",
+      "tags": ["sauvignon_blanc", "wit", "aroma"]
+    },
+    {
+      "id": "druif_003",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Hoe herken je een Pinot Noir op basis van kleur, zuur en tannine?",
+      "answer": "Lichte kleur, hoge zuren en lage tannines.",
+      "explanation": "Pinot Noir is 'De Diva': een lastig te verbouwen druif met een dunne schil. Dit levert elegante wijnen op met aroma's van rood fruit (kers, aardbei) en bij oudering tertiaire tonen van stal, paddenstoelen en 'forest floor'.",
+      "tags": ["pinot_noir", "rood", "structuur"],
+      "answer_pitfall": "Verwar Pinot Noir niet met Nebbiolo; hoewel beide een lichte kleur en hoog zuur hebben, heeft Pinot Noir veel lagere tannines."
+    },
+    {
+      "id": "druif_004",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is het signatuuraroma van Cabernet Sauvignon en welke structuur heeft deze wijn?",
+      "answer": "Zwarte bes (cassis); een volle body, hoge tannines en een medium tot hoge zuurgraad.",
+      "explanation": "Door de dikke schil bevat de druif veel kleur en tannine, wat houtrijping noodzakelijk maakt om de wijn te verzachten. Naast cassis zijn cederhout en potloodslijpsel (grafiet) typische kenmerken van deze 'koning der druiven'.",
+      "tags": ["cabernet_sauvignon", "rood", "cassis"]
+    },
+    {
+      "id": "druif_005",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welk uniek tertiair aroma ontwikkelt Riesling vaak bij oudering en wat is het zuurprofiel?",
+      "answer": "Petrol (benzine); een zeer hoge zuurgraad.",
+      "explanation": "Riesling behoudt zijn zuren uitstekend, zelfs in zoetere stijlen. Het ras is zeer aromatisch (limoen, bloemen) en sterk terroir-gedreven. Het komt voor in stijlen variërend van kurkdroog tot edelzoet.",
+      "tags": ["riesling", "wit", "petrol"]
+    },
+    {
+      "id": "druif_006",
+      "category": "proeven",
+      "difficulty": "hard",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Welke druif uit Piemonte heeft een relatief lichte kleur maar extreem hoge tannines en zuren, met aroma's van rozen en teer?",
+      "answer": "Nebbiolo.",
+      "explanation": "Nebbiolo is de basis voor Barolo en Barbaresco. De druif heeft veel tijd nodig om de krachtige tannines te laten versmelten. De kleur neigt bij oudering vaak snel naar oranje of taan (garnet).",
+      "tags": ["nebbiolo", "piemonte", "tannine"]
+    },
+    {
+      "id": "druif_007",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "Mastering the SDEN 3 Wine Examination; SDEN 3 Wijnbrevet Guide",
+      "question": "Wat is het verschil in aromaprofiel tussen een Syrah uit een koel klimaat en een Shiraz uit een warm klimaat?",
+      "answer": "Koel (Syrah): peper en olijf; Warm (Shiraz): chocolade en jammy zwart fruit.",
+      "explanation": "Syrah uit de Noord-Rhône is vaak eleganter en kruidiger. De Australische Shiraz (vooral uit Barossa) is veel krachtiger met een volle body, hoger alcoholpercentage en rijpere specerijen.",
+      "tags": ["syrah", "shiraz", "peper"]
+    }
+  ]
+}

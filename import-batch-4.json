@@ -1,0 +1,312 @@
+{
+  "flashcards": [
+    {
+      "id": "batch4_001",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat betekent AOP op een Frans etiket?",
+      "answer": "Appellation d'Origine Protegee: beschermde oorsprongsbenaming.",
+      "explanation": "AOP is de Franse invulling van het Europese PDO-systeem met strikte regels voor herkomst en productie.",
+      "tags": ["wetgeving", "frankrijk", "aop", "pdo"],
+      "answer_short": "AOP is beschermde oorsprong met strikte herkomstregels."
+    },
+    {
+      "id": "batch4_002",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waar staat IGP voor op Franse wijnetiketten?",
+      "answer": "Indication Geographique Protegee.",
+      "explanation": "IGP is de PGI-categorie met minder strikte regels dan AOP.",
+      "tags": ["wetgeving", "frankrijk", "igp", "pgi"],
+      "answer_short": "IGP is de Franse PGI-aanduiding."
+    },
+    {
+      "id": "batch4_003",
+      "category": "wetgeving",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het verschil tussen DOC en DOCG in Italie in een zin?",
+      "answer": "DOCG is de strengere, hoger gepositioneerde categorie boven DOC.",
+      "explanation": "Beide regelen herkomst en productie, maar DOCG kent strengere kwaliteitscontrole.",
+      "tags": ["wetgeving", "italie", "doc", "docg"],
+      "answer_short": "DOCG is strenger en hoger dan DOC."
+    },
+    {
+      "id": "batch4_004",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat betekent DO in Spanje?",
+      "answer": "Denominacion de Origen: beschermde herkomstbenaming met productieregels.",
+      "explanation": "DO geeft aan dat wijn aan regels voor gebied, rassen en productie voldoet.",
+      "tags": ["wetgeving", "spanje", "do", "herkomst"],
+      "answer_short": "DO is Spaanse beschermde herkomstbenaming."
+    },
+    {
+      "id": "batch4_005",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is DOCA in Spanje?",
+      "answer": "Denominacion de Origen Calificada: hoogste Spaanse herkomstcategorie.",
+      "explanation": "DOCA kent extra strenge eisen en is voor een beperkt aantal topregio's.",
+      "tags": ["wetgeving", "spanje", "doca", "classificatie"],
+      "answer_short": "DOCA is de hoogste Spaanse kwaliteitscategorie voor herkomst."
+    },
+    {
+      "id": "batch4_006",
+      "category": "wetgeving",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waar staat AVA voor in de VS?",
+      "answer": "American Viticultural Area.",
+      "explanation": "AVA is de geografische herkomstaanduiding voor Amerikaanse wijngebieden.",
+      "tags": ["wetgeving", "vsa", "ava", "herkomst"],
+      "answer_short": "AVA betekent American Viticultural Area."
+    },
+    {
+      "id": "batch4_007",
+      "category": "wetgeving",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het praktische verschil tussen Vin de France en AOP?",
+      "answer": "Vin de France heeft geen beschermde regionale oorsprongsregels zoals AOP.",
+      "explanation": "AOP koppelt wijn aan een strikt afgebakend gebied en regels; Vin de France is veel vrijer.",
+      "tags": ["wetgeving", "frankrijk", "vin_de_france", "aop"],
+      "answer_short": "AOP is streekgebonden en strikt; Vin de France is vrijer."
+    },
+    {
+      "id": "batch4_008",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is de functie van een herkomstbenaming op een etiket?",
+      "answer": "Herkomst garanderen en productievoorwaarden vastleggen.",
+      "explanation": "Herkomstbenamingen beschermen regio-identiteit en bieden consument houvast over stijl en kwaliteit.",
+      "tags": ["wetgeving", "etiket", "herkomstbenaming", "kwaliteit"],
+      "answer_short": "Een herkomstbenaming borgt herkomst en productieregels."
+    },
+    {
+      "id": "batch4_009",
+      "category": "proeven",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat zegt de kleurintensiteit van een rode wijn bij blindproeven vaak over?",
+      "answer": "Onder meer druivenras, extractie en leeftijdsstadium.",
+      "explanation": "Kleur is geen bewijs op zichzelf, maar wel een belangrijk eerste diagnostisch signaal.",
+      "tags": ["proeven", "kleur", "blindproeven", "rode_wijn"],
+      "answer_short": "Kleurintensiteit helpt bij inschatting van ras, stijl en leeftijd."
+    },
+    {
+      "id": "batch4_010",
+      "category": "proeven",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is meestal het verschil tussen primaire en tertiaire aroma's?",
+      "answer": "Primair komt van druif/fermentatie, tertiair ontstaat door rijping.",
+      "explanation": "Tertiaire tonen ontwikkelen zich op vat en/of fles en geven complexiteit zoals leer of noten.",
+      "tags": ["proeven", "aroma", "primair", "tertiair"],
+      "answer_short": "Primair = jong fruit; tertiair = rijpingsaroma."
+    },
+    {
+      "id": "batch4_011",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Welke structuurfactoren noteer je minimaal bij smaakbeoordeling?",
+      "answer": "Zuur, zoet, tannine, alcohol en body.",
+      "explanation": "Deze factoren vormen de ruggengraat van een objectieve proefbeschrijving.",
+      "tags": ["proeven", "structuur", "zuur", "tannine"],
+      "answer_short": "Minimaal: zuur, zoet, tannine, alcohol en body."
+    },
+    {
+      "id": "batch4_012",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat betekent 'stuivend' in een proefnotitie?",
+      "answer": "Een zeer expressief en direct aromatisch profiel.",
+      "explanation": "De term wordt vaak gebruikt voor jonge, aromatische witte wijnen met uitgesproken neus.",
+      "tags": ["proeven", "proefnotities", "aroma", "terminologie"],
+      "answer_short": "Stuivend betekent aromatisch zeer expressief."
+    },
+    {
+      "id": "batch4_013",
+      "category": "proeven",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom is een conclusie pas na geur en smaak zinvol?",
+      "answer": "Omdat je zonder structuur- en aroma-informatie te snel op kleur of vooroordeel stuurt.",
+      "explanation": "Systematisch proeven voorkomt tunnelvisie en verhoogt de betrouwbaarheid van de identificatie.",
+      "tags": ["proeven", "methodiek", "conclusie", "blindproeven"],
+      "answer_short": "Conclusie hoort pas na volledige observatie om bias te vermijden."
+    },
+    {
+      "id": "batch4_014",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is een typisch verschil tussen koele en warme klimaatstijl in wit?",
+      "answer": "Koel: hoger zuur en frisser fruit; warm: rijper fruit en vaak voller mondgevoel.",
+      "explanation": "Klimaat stuurt rijping en daardoor direct de stijl van de wijn.",
+      "tags": ["proeven", "klimaat", "witte_wijn", "stijl"],
+      "answer_short": "Koel = frisser; warm = rijper en voller."
+    },
+    {
+      "id": "batch4_015",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is een veelvoorkomende valkuil bij blindproeven van Pinot Noir en Nebbiolo?",
+      "answer": "Te veel sturen op kleur alleen; tanninestructuur en aroma-profiel zijn doorslaggevend.",
+      "explanation": "Beide kunnen relatief lichte kleur tonen, maar structuur en geurontwikkeling verschillen duidelijk.",
+      "tags": ["proeven", "pinot_noir", "nebbiolo", "valkuil"],
+      "answer_short": "Kijk niet alleen naar kleur; structuur maakt het verschil."
+    },
+    {
+      "id": "batch4_016",
+      "category": "serveren",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom serveer je witte wijn meestal koeler dan rode wijn?",
+      "answer": "Om frisheid en zuren beter te laten uitkomen en alcohol minder dominant te maken.",
+      "explanation": "Temperatuur beinvloedt waarneming van zuren, alcohol en aroma-intensiteit.",
+      "tags": ["serveren", "temperatuur", "witte_wijn", "rode_wijn"],
+      "answer_short": "Koeler serveren houdt wit frisser en beter in balans."
+    },
+    {
+      "id": "batch4_017",
+      "category": "serveren",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het doel van decanteren bij jonge tanninerijke rode wijn?",
+      "answer": "Beluchten om aroma's te openen en tannines zachter te laten overkomen.",
+      "explanation": "Door contact met zuurstof kan de wijn toegankelijker en expressiever worden.",
+      "tags": ["serveren", "decanteren", "rode_wijn", "tannine"],
+      "answer_short": "Decanteren opent jonge rode wijn en verzacht de indruk."
+    },
+    {
+      "id": "batch4_018",
+      "category": "serveren",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is een basisprincipe bij wijn-spijs en zout?",
+      "answer": "Zout kan de fruitindruk versterken en tannine scherper of juist ronder laten lijken afhankelijk van stijl.",
+      "explanation": "Daarom werkt zoute cuisine vaak beter met sappige, niet te harde wijnen.",
+      "tags": ["serveren", "wijn_spijs", "zout", "balans"],
+      "answer_short": "Zout verandert structuurbeleving; kies wijn met voldoende sappigheid."
+    },
+    {
+      "id": "batch4_019",
+      "category": "serveren",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom past mousserende wijn vaak goed als aperitief?",
+      "answer": "Door hoge frisheid en koolzuur die de eetlust prikkelen.",
+      "explanation": "De combinatie van zuren en mousse geeft een verfrissend, opwekkend effect.",
+      "tags": ["serveren", "mousserend", "aperitief", "wijn_spijs"],
+      "answer_short": "Mousserend prikkelt door zuur en bubbels."
+    },
+    {
+      "id": "batch4_020",
+      "category": "serveren",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het voordeel van een groter glas bij complexe rode wijn?",
+      "answer": "Meer oppervlak en ruimte voor aroma-ontwikkeling.",
+      "explanation": "Een ruimer glas ondersteunt beluchting en nuance in geurwaarneming.",
+      "tags": ["serveren", "glaswerk", "rode_wijn", "aroma"],
+      "answer_short": "Een groter glas helpt complexe geuren beter vrijkomen."
+    },
+    {
+      "id": "batch4_021",
+      "category": "serveren",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom is te warm serveren van rode wijn vaak nadelig?",
+      "answer": "Alcohol domineert sneller en frisheid verdwijnt, waardoor de wijn log lijkt.",
+      "explanation": "Te hoge serveertemperatuur verstoort de balans tussen fruit, zuur en alcohol.",
+      "tags": ["serveren", "temperatuur", "rode_wijn", "balans"],
+      "answer_short": "Te warm maakt rood vaak alcoholisch en minder in balans."
+    },
+    {
+      "id": "batch4_022",
+      "category": "vinificatie",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is de kernfunctie van sulfiet in wijn?",
+      "answer": "Bescherming tegen oxidatie en ongewenste microbiologie.",
+      "explanation": "SO2 helpt wijn stabiel en fris te houden tijdens opfok en bewaring.",
+      "tags": ["vinificatie", "sulfiet", "so2", "stabilisatie"],
+      "answer_short": "Sulfiet beschermt tegen oxidatie en bederf."
+    },
+    {
+      "id": "batch4_023",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het doel van malolactische omzetting in veel rode wijnen?",
+      "answer": "Hard appelzuur omzetten naar zachter melkzuur voor een ronder mondgevoel.",
+      "explanation": "Malolactische omzetting verlaagt de scherpe zuurinzet en maakt de structuur zachter.",
+      "tags": ["vinificatie", "malolactisch", "zuren", "rode_wijn"],
+      "answer_short": "Malolactisch maakt wijn ronder door zuuromzetting."
+    },
+    {
+      "id": "batch4_024",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het belangrijkste effect van schilcontact bij rode wijn?",
+      "answer": "Extractie van kleur, tannine en smaakstoffen.",
+      "explanation": "Tijdens maceratie lossen fenolen uit schillen op in de most/wijn.",
+      "tags": ["vinificatie", "maceratie", "tannine", "kleur"],
+      "answer_short": "Schilcontact geeft kleur, tannine en structuur."
+    },
+    {
+      "id": "batch4_025",
+      "category": "vinificatie",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom kan batonnage de textuur van witte wijn vergroten?",
+      "answer": "Door contact met gistcellen (lies) die romigheid en volume geven.",
+      "explanation": "Roeren van de lies bevordert autolyse-effecten en mondgevoel.",
+      "tags": ["vinificatie", "batonnage", "sur_lie", "textuur"],
+      "answer_short": "Batonnage geeft wit meer romigheid en volume."
+    },
+    {
+      "id": "batch4_026",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is chaptalisatie?",
+      "answer": "Suiker toevoegen aan most voor de gisting om potentieel alcohol te verhogen.",
+      "explanation": "Het doel is alcoholverhoging in koele jaren, niet restzoetheid toevoegen.",
+      "tags": ["vinificatie", "chaptalisatie", "suiker", "alcohol"],
+      "answer_short": "Chaptalisatie verhoogt potentieel alcohol via suiker in de most."
+    },
+    {
+      "id": "batch4_027",
+      "category": "vinificatie",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het effect van eikenhoutrijping op wijn in hoofdlijnen?",
+      "answer": "Extra aroma's plus gecontroleerde micro-oxidatie en structuurontwikkeling.",
+      "explanation": "Eiken kan tonen als vanille/toast geven en de tanninestructuur laten evolueren.",
+      "tags": ["vinificatie", "eikenhout", "rijping", "oxidatie"],
+      "answer_short": "Eikenhout geeft aroma en helpt structuur rijpen."
+    },
+    {
+      "id": "batch4_028",
+      "category": "vinificatie",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het kenmerk van traditionele methode voor mousserende wijn?",
+      "answer": "Tweede gisting op fles.",
+      "explanation": "Bij de traditionele methode ontstaat de mousse door hergisting in de fles zelf.",
+      "tags": ["vinificatie", "mousserend", "traditionele_methode", "tweede_gisting"],
+      "answer_short": "Traditionele methode = tweede gisting op fles."
+    }
+  ]
+}
