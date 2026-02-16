@@ -254,7 +254,9 @@ function renderDashboard() {
   const reviewedToday = Number(state.progress.meta.dailyReviews?.[today] || 0);
   const dailyGoal = Math.max(12, dailyQueue.length || 0);
   const progressPct = Math.min(100, Math.round((reviewedToday / Math.max(1, dailyGoal)) * 100));
-  const weakestText = stats.weakest ? `${stats.weakest.icon} ${stats.weakest.name}` : "Nog geen data";
+  const weakestText = stats.weakest
+    ? `<span class="emoji">${escapeHtml(stats.weakest.icon)}</span> ${escapeHtml(stats.weakest.name)}`
+    : "Nog geen data";
   const knownCards = stats.mastered;
   const todoCards = Math.max(0, stats.totalCards - knownCards);
 
@@ -301,7 +303,7 @@ function renderDashboard() {
       <details class="card exam-brief">
         <summary>Examenbriefing</summary>
         <div class="exam-brief-content">
-          <p><strong>Zwakste domein:</strong> ${escapeHtml(weakestText)}</p>
+          <p><strong>Zwakste domein:</strong> ${weakestText}</p>
           <p><strong>Totaal herhalingen:</strong> ${stats.totalReviews}</p>
           <p><strong>Tip:</strong> start met geplande kaarten, sluit af met 5 minuten sprint.</p>
         </div>
@@ -323,7 +325,7 @@ function renderSetup() {
     `<button class="chip ${state.setup.category === "all" ? "active" : ""}" data-action="set_category" data-value="all">Alle categorieen</button>`,
     ...state.db.categories.map(
       (cat) =>
-        `<button class="chip ${state.setup.category === cat.id ? "active" : ""}" data-action="set_category" data-value="${cat.id}">${cat.icon} ${escapeHtml(cat.name)} (${counts[cat.id]})</button>`
+        `<button class="chip ${state.setup.category === cat.id ? "active" : ""}" data-action="set_category" data-value="${cat.id}"><span class="emoji">${escapeHtml(cat.icon)}</span> ${escapeHtml(cat.name)} (${counts[cat.id]})</button>`
     ),
   ].join("");
 
@@ -412,7 +414,7 @@ function renderStudy() {
     <section class="study-layout fade-in">
       <article class="card study-card" style="--category-color:${categoryColor};">
         <div class="row space-between">
-          <span class="badge">${category ? `${category.icon} ${escapeHtml(category.name)}` : escapeHtml(card.category)}</span>
+          <span class="badge">${category ? `<span class="emoji">${escapeHtml(category.icon)}</span> ${escapeHtml(category.name)}` : escapeHtml(card.category)}</span>
           <span class="badge">${escapeHtml(card.difficulty)}</span>
         </div>
 

@@ -2,7 +2,8 @@
   color-scheme: light;
 
   --font-display: "Cormorant Garamond", "Times New Roman", serif;
-  --font-body: "Outfit", "Segoe UI", sans-serif;
+  --font-body: "Outfit", "Segoe UI", "Noto Sans", sans-serif;
+  --font-emoji: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", "Android Emoji", sans-serif;
 
   --space-1: 4px;
   --space-2: 8px;

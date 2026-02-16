@@ -13,6 +13,10 @@ body {
     linear-gradient(180deg, var(--color-bg-gradient-top), var(--color-bg-gradient-bottom));
 }
 
+.emoji {
+  font-family: var(--font-emoji);
+}
+
 .skip-link {
   position: absolute;
   left: -999px;
