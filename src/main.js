@@ -642,7 +642,9 @@ function onKeydown(event) {
 async function init() {
   try {
     loadState();
-    const response = await fetch("./sden3_flashcards_database.json");
+    // Bust CDN/browser cache for the dataset so new imports appear immediately.
+    const dbUrl = `./sden3_flashcards_database.json?v=${Date.now()}`;
+    const response = await fetch(dbUrl, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     const db = await response.json();
