@@ -23,17 +23,25 @@ $batch = Get-Content -LiteralPath $BatchFile -Raw | ConvertFrom-Json
 
 $hasImportBatch = $batch.PSObject.Properties.Name -contains "import_batch"
 $hasFlashcards = $batch.PSObject.Properties.Name -contains "flashcards"
+$hasCards = $batch.PSObject.Properties.Name -contains "cards"
 
-$newCards = if ($hasImportBatch -and $null -ne $batch.import_batch -and ($batch.import_batch.PSObject.Properties.Name -contains "flashcards")) {
-  @($batch.import_batch.flashcards)
+$newCards = @()
+if ($hasImportBatch -and $null -ne $batch.import_batch) {
+  $hasImportBatchFlashcards = $batch.import_batch.PSObject.Properties.Name -contains "flashcards"
+  $hasImportBatchCards = $batch.import_batch.PSObject.Properties.Name -contains "cards"
+  if ($hasImportBatchFlashcards) {
+    $newCards = @($batch.import_batch.flashcards)
+  } elseif ($hasImportBatchCards) {
+    $newCards = @($batch.import_batch.cards)
+  }
 } elseif ($hasFlashcards) {
-  @($batch.flashcards)
-} else {
-  throw "No flashcards array found in $BatchFile"
+  $newCards = @($batch.flashcards)
+} elseif ($hasCards) {
+  $newCards = @($batch.cards)
 }
 
 if ($newCards.Count -eq 0) {
-  throw "No cards found in batch file: $BatchFile"
+  throw "No cards array found in $BatchFile. Expected 'flashcards' or 'cards' at root or under 'import_batch'."
 }
 
 $requiredFields = @("id", "category", "difficulty", "source", "question", "answer", "explanation", "tags")
