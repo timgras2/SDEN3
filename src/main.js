@@ -68,7 +68,9 @@ function setupStats() {
     const p = getCardProgress(state.progress, card.id);
     if (!byCategory[card.category]) continue;
     byCategory[card.category].seen += p.seenCount;
-    byCategory[card.category].correct += p.correctCount;
+    // Count only "good"/"easy" as correct; "hard" ratings inflate correctCount but shouldn't mask weakness
+    const strongCount = p.correctCount - Number(p.hardCount || 0) + (p.lapseCount || 0);
+    byCategory[card.category].correct += Math.max(0, strongCount);
   }
 
   const weakest = Object.values(byCategory)
@@ -105,6 +107,7 @@ function startSession(mode = state.setup.mode) {
     ratings: { again: 0, hard: 0, good: 0, easy: 0 },
     uniqueReviewed: new Set(),
     undoStack: [],
+    initialQueueSize: queue.length,
   };
 
   state.view = "study";
@@ -252,7 +255,7 @@ function renderDashboard() {
   const hardMarked = Object.values(state.progress.cards).filter((p) => Number(p.hardCount || 0) > 0).length;
   const today = localDateKey();
   const reviewedToday = Number(state.progress.meta.dailyReviews?.[today] || 0);
-  const dailyGoal = Math.max(12, dailyQueue.length || 0);
+  const dailyGoal = Math.max(12, reviewedToday + (dailyQueue.length || 0));
   const progressPct = Math.min(100, Math.round((reviewedToday / Math.max(1, dailyGoal)) * 100));
   const weakestText = stats.weakest
     ? `<span class="emoji">${escapeHtml(stats.weakest.icon)}</span> ${escapeHtml(stats.weakest.name)}`
@@ -399,12 +402,14 @@ function renderStudy() {
   const categoryColor = safeColor(category?.color || "#2b7a46");
   const progress = getCardProgress(state.progress, card.id);
   const nextPreview = previewIntervals(progress);
-  const pct = Math.round(((state.queueIndex + 1) / state.queue.length) * 100);
+  const initialQueueSize = state.session?.initialQueueSize || state.queue.length;
+  const sessionDone = state.session?.reviewed ?? state.queueIndex;
+  const pct = initialQueueSize > 0 ? Math.round((sessionDone / initialQueueSize) * 100) : 0;
 
   app.innerHTML = `
     <section class="row space-between fade-in" style="margin-bottom:12px;">
       <button class="btn-ghost" data-action="go_dashboard">Sessie verlaten</button>
-      <span class="badge" aria-label="Sessievoortgang">Kaart ${state.queueIndex + 1} van ${state.queue.length}</span>
+      <span class="badge" aria-label="Sessievoortgang">Kaart ${sessionDone + 1} van ${initialQueueSize}</span>
     </section>
 
     <section class="progress-shell fade-in" style="margin-bottom:14px;">
@@ -564,6 +569,7 @@ function onClick(event) {
       ratings: { again: 0, hard: 0, good: 0, easy: 0 },
       uniqueReviewed: new Set(),
       undoStack: [],
+      initialQueueSize: hardQueue.length,
     };
     state.view = "study";
     persist();
