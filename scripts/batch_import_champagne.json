@@ -1,0 +1,289 @@
+{
+  "batch_name": "Champagne & Mousserende Wijnen",
+  "description": "13 vragen over Champagne, dosage, Grand Cru/Premier Cru, en vergelijkbare mousserende wijnen",
+  "created_date": "2026-02-17",
+  "cards": [
+    {
+      "id": "batch_champagne_1",
+      "category": "frankrijk_algemeen",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019); Comité Champagne",
+      "question": "Beschrijf de Méthode Champenoise/Traditionnelle: alle stappen van tirage tot dosage",
+      "answer": "Tirage (bottelen + gist/suiker) → tweede gisting in fles → rijping op gist (minimum 15mnd NV, 36mnd Vintage) → remuage (flessen draaien) → dégorgement (bevroren nek eruit) → dosage (bepaalt zoetheid)",
+      "explanation": "MÉTHODE CHAMPENOISE/TRADITIONNELLE stappen: (1) BASIS WIJN maken (stilwijn, blend), (2) TIRAGE: bottelen + toevoegen suiker + gist (prise de mousse = mousseux maken), (3) TWEEDE GISTING in fles (CO2 ontstaat in gesloten fles), (4) RIJPING OP GIST (sur lie): minimum 15 maanden NV/non-vintage, 36 maanden Vintage. Gist geeft complexiteit, brood/toast smaak. (5) REMUAGE: flessen draaien/schudden in U-vorm zodat gist naar nek zakt (traditioneel handwerk, nu machines), (6) DÉGORGEMENT: flesnek bevriezen, dop eruit, gist/ijs eruit (geven gezondheid), (7) DOSAGE: toevoegen suiker (liqueur) bepaalt eindstijl. Geconcentreerd op droge stijl (Brut Nature < 3g/L) tot zoet (Doux > 50g/L). Gebruikt in Champagne, Cava (Spanjes), Franciacorta (Italië), Duitse Sekt (Klassik).",
+      "tags": ["champagne", "méthode_champenoise", "mousserende_wijn", "vinificatie", "tirage", "remuage", "dégorgement"],
+      "answer_short": "Tirage → tweede gisting → rijping op gist (15-36 mnd) → remuage → dégorgement → dosage",
+      "answer_core_points": [
+        "Méthode Champenoise = flessengisting met rijping op gist",
+        "TIRAGE: bottelen met suiker/gist",
+        "Minimum 15 maanden NV, 36 maanden Vintage rijping",
+        "REMUAGE: flessen draaien zodat gist naar nek zakt",
+        "DÉGORGEMENT: gist verwijderen",
+        "DOSAGE: suiker bepaalt Brut Nature/Brut/Sec/Demi-Sec/Doux"
+      ],
+      "answer_why": "De stappen zorgen voor fijne, stabiele bubbels door gisting in fles, en gistsmaken (brood, toast) door lange rijping. Dégorgement verwijdert gist zonder stijlverlies.",
+      "answer_pitfall": "Velen denken dat alleen Champagne deze methode mag gebruiken - FOUT, het heet nu 'Traditionnelle' en andere regio's gebruiken het ook (Cava, Franciacorta, Crémant).",
+      "answer_memory_hook": "TRPRD = Tirage, Rijping, remuage, Dégorgement, Dosage. Of: 'Tirage-Rijp-Remuage-Dégorgement-Dosage' = 5 stappen."
+    },
+    {
+      "id": "batch_champagne_2",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; Champagne Comité",
+      "question": "Welke Champagne regio's zijn Grand Cru, en welke zijn Premier Cru?",
+      "answer": "GRAND CRU (100% prijs): Épernay, Reims, Avize, Oiry, Cramant, Le Mesnil-sur-Oger. PREMIER CRU (90% prijs): Ay, Tours-sur-Marne, Mareuil-sur-Ay, en ongeveer 40 anderen.",
+      "explanation": "CHAMPAGNE dorpen KLASSERING op basis van terroir/kwaliteit: GRAND CRU (17 dorpen, 100% referentieprijs): Montagne de Reims: Ambonnay, Beaumont-sur-Vesle, Mailly Champagne, Puisieulx, Sillery, Verzy, Verzenay. Côte des Blancs: Avize, Cramant, Oiry, Le Mesnil-sur-Oger. Vallée de la Marne: Ay, Tours-sur-Marne. Epernay (hulpkantoor). PREMIER CRU (ca. 40 dorpen, 90% referentieprijs): Mareuil-sur-Ay, Avenay Val d'Or, Bergères-lès-Vertus, etc. Niet alle GC-druiven ≠ betere Champagne (huisstijl telt ook!). NV-blends often mixt Grand Cru + Premier Cru + gewone druiven.",
+      "tags": ["champagne", "grand_cru", "premier_cru", "appellatie", "terroir", "druivenorigin"],
+      "answer_short": "Grand Cru = Épernay/Reims/Avize/Cramant/Le Mesnil/Ay (17 dorpen). Premier Cru = ca. 40 dorpen (Mareuil/Tours-sur-Marne).",
+      "answer_core_points": [
+        "GRAND CRU = 17 dorpen op 100% referentieprijs",
+        "Epernay, Reims dorpen zijn Grand Cru",
+        "Côte des Blancs (Avize, Cramant, Oiry, Le Mesnil) = vooral Chardonnay",
+        "Montagne de Reims = vooral Pinot Noir",
+        "Vallée de la Marne = vooral Pinot Meunier",
+        "PREMIER CRU = ca. 40 dorpen op 90% prijs"
+      ],
+      "answer_why": "De klassering bepaalt druifprijs en prestige. Grand Cru dorpen hebben betere terroir (krijtbodem, ligging). Premier Cru is volgende klasse.",
+      "answer_pitfall": "Veel mensen denken dat alle Champagne met 'Grand Cru' dorpen op etiket ook beter smaakt - NIET waar! De huisstijl/blending van huizen telt meer dan alleen GC-druiven. NV's van grote huizen zijn vaak beter dan kleinere Grower Champagnes met GC-druiven.",
+      "answer_memory_hook": "GRAND CRU = 17. 17 topnamen onthouden? Épernay, Reims, Ay zijn de grootste. Côte des Blancs = Avize/Cramant/Le Mesnil."
+    },
+    {
+      "id": "batch_champagne_3",
+      "category": "frankrijk_algemeen",
+      "difficulty": "hard",
+      "source": "web_research; Champagne regulations",
+      "question": "Wat zijn de Champagne dosage niveaus (van droog naar zoet) en hun zoetheidsdrempel?",
+      "answer": "Brut Nature (< 3g/L) → Extra Brut (0-6g/L) → Brut (< 12g/L) → Extra Dry/Sec (12-17g/L) → Demi-Sec (17-32g/L) → Doux (> 32g/L)",
+      "explanation": "DOSAGE NIVEAUS (restzuiker per liter) bepalen zoetheid na dégorgement: (1) BRUT NATURE (non-dosé): < 3g/L, ULTRA DRY. Heel rare, alleen voor minimale manipulatie filosofie. (2) EXTRA BRUT (extra dry): 0-6g/L, DRY, heel streng. (3) BRUT (standaard): < 12g/L, droog, MEEST gebruikelijk. Balans zuurheid/fruit/mineraal. (4) EXTRA DRY (Extra Sec, verwarrend naam!): 12-17g/L, HALF-DRY! veel verwarring over naam. (5) DEMI-SEC (half-sweet): 17-32g/L, LICHT ZOET, dessertwijnen. (6) DOUX (sweet): > 32g/L, ZOET, aperitief/dessert. Modernetrend = BRUT (balans). Oude voorraad = EXTRA DRY (toen normaal zoet). Testtruc: Brut Nature/Extra Brut voelen harder/ziltig; Doux voelt echt zoet.",
+      "tags": ["champagne", "dosage", "zoetheid", "brut", "demi-sec", "doux", "residual_sugar"],
+      "answer_short": "Brut Nature < 3g/L → Extra Brut 0-6g/L → Brut < 12g/L → Extra Dry 12-17g/L → Demi-Sec 17-32g/L → Doux > 32g/L",
+      "answer_core_points": [
+        "DOSAGE = toevoegen restzuiker bepaalt zoetheid",
+        "Brut Nature = ultra-droog (< 3g/L)",
+        "BRUT = standaard, meest gebruikt (< 12g/L)",
+        "EXTRA DRY = half-droog (12-17g/L), verwarrend!"
+      ],
+      "answer_why": "Dosage compenseert hoge zuurheid van jong mousserende wijn. Droog Brut benadrukt mineraaliteit; Doux is voor dessert.",
+      "answer_pitfall": "GROTE VALKUIL: 'Extra Dry' klinkt droog maar is HALF-DRY (12-17g/L suiker)! Veel deelnemers kiezen Brut in plaats van Extra Dry als droogste. FOUT: Brut Nature is nog droger!",
+      "answer_memory_hook": "Dosage VOLGORDE onthouden: 'Brut Nature Brut Sec' = laagste naar hoogste droog. Dan EXTRA-DRY voelt onlogisch! Of: BNED = Brut Nature (3) / Extra Brut (6) / Brut (12) / Extra Dry (17) = getallen stijgen."
+    },
+    {
+      "id": "batch_champagne_4",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; Champagne prestige cuvées",
+      "question": "Noem 5 beroemde Champagne prestige cuvées en hun producenten",
+      "answer": "Dom Pérignon (Moët & Chandon), Cristal (Louis Roederer), Krug Clos d'Ambonnay (Krug), Taittinger Comtes de Champagne (Taittinger), Salon (Salon/Billecart-Salmon)",
+      "explanation": "PRESTIGE CUVÉES = duurste, beste wijnen van huizen. (1) DOM PÉRIGNON (Moët & Chandon): Vintage only, Chardonnay+Pinot dominant, beroemd logo witte monniken. (2) CRISTAL (Louis Roederer): Vintage, helder glas (oorspronkelijk tsaar-bescherming tegen bommetjes!), mineraal, elegant. (3) KRUG CLOS D'AMBONNAY (Krug): Vintage, Grand Cru, rijke, volle stijl. (4) TAITTINGER COMTES DE CHAMPAGNE (Taittinger): Vintage, wit (Blanc de Blancs), elegantie/fijne bubbels. (5) SALON (Salon/Billecart-Salmon): Blanc de Blancs (100% Chardonnay, Le Mesnil GC), ultra-elegant, zeldzaam (alleen goede jaren). Andere top: Philipponnat Clos des Goisses, Krug Klosaceva, Selosse, Jacquesson. Prijs/prestige relatie ≠ smaak kwaliteit altijd.",
+      "tags": ["champagne", "prestige_cuvée", "vintage", "dom_pérignon", "cristal", "krug", "taittinger", "salon"],
+      "answer_short": "Dom Pérignon, Cristal, Krug Clos d'Ambonnay, Taittinger Comtes, Salon = beroemdste prestige cuvées.",
+      "answer_core_points": [
+        "Prestige Cuvée = luxe vintage wijnen van tophuizen",
+        "DOM PÉRIGNON (Moët & Chandon) = meest verkocht prestige",
+        "CRISTAL (Louis Roederer) = helder glas, geschiedenis tsaar",
+        "KRUG CLOS (Krug) = volle rijke stijl",
+        "TAITTINGER COMTES (Taittinger) = elegante Blanc de Blancs",
+        "SALON (Le Mesnil GC Chardonnay) = ultra-rare/duur"
+      ],
+      "answer_why": "Prestige cuvées worden alleen in beste jaren gemaakt, met beste druiven, langste rijping. Zij definiëren huisstijl.",
+      "answer_pitfall": "Niet alle prestige cuvées smaken beter dan goede NV-blends van dezelfde huizen! Betalende voor naam/geschiedenis.",
+      "answer_memory_hook": "Onthoud de top 3: Dom Pérignon (Moët), Cristal (Roederer), Krug Clos. Alle drie zijn Vintage & duur."
+    },
+    {
+      "id": "batch_champagne_5",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; Spanish Cava, Prosecco comparison",
+      "question": "Wat zijn de belangrijkste verschillen tussen Champagne, Cava en Prosecco?",
+      "answer": "Champagne = Frankrijk, Méthode Traditionnelle, fijne bubbels, droog. Cava = Spanje, Traditionnelle, fijne bubbels, iets lichter. Prosecco = Italië, tank-gisting, grotere bubbels, fruity, goedkoper.",
+      "explanation": "VERGELIJKING MOUSSERENDE WIJNEN: CHAMPAGNE (Frankrijk): Méthode Traditionnelle, flessengisting min 15mnd. Druiven Chardonnay/Pinot Noir/Pinot Meunier. STIJL = elegant, mineraal, brood/toast, fijne perlage. DRY (Brut norm). PRIJS = hoog. CAVA (Spanje, vooral Penedès): Méthode Traditionnelle, flessengisting min 9 maanden. Druiven Macabeo/Xarel.lo/Parellada (+ Chardonnay/Pinot Noir). STIJL = elegant, soortgelijk fijne bubbels, iets fruitiger/lichter dan Champagne. DROOG. PRIJS = medium (goedkoper dan Champagne). PROSECCO (Italië, vooral Veneto): TANK-GISTING (Charmat methode): gisting in grote tanks, dan bottelen. DRUIF = Glera (vroeger Prosecco genoemd). STIJL = fruity (appel, peer, bloem), grotere bubbels (minder fijne perlage), frisse. ZOET-FRUITIG (Brut/Extra Dry norm). PRIJS = laag-medium. FRANCIACORTA (Italië, Lombardije) = 'Cava van Italië', Traditionnelle, Chardonnay/Pinot dominant, elegant, droog, duur.",
+      "tags": ["champagne", "cava", "prosecco", "franciacorta", "mousserende_wijn", "methode_charmat", "tank_gisting", "spanje", "italie"],
+      "answer_short": "Champagne (Traditionnelle/fijne/droog/duur) > Cava (Traditionnelle/fijne/droog/medium) > Prosecco (Tank/grof/fruity/goedkoop)",
+      "answer_core_points": [
+        "Champagne = Frankrijk, Méthode Traditionnelle, min 15mnd rijping",
+        "Cava = Spanje, Méthode Traditionnelle, min 9 mnd, goedkoper",
+        "Prosecco = Italië, TANK-GISTING (Charmat), fruity, goedkoop",
+        "Champagne/Cava = fijne bubbels; Prosecco = grotter",
+        "Champagne/Cava droog; Prosecco fruity-zoet"
+      ],
+      "answer_why": "Verschillende methoden geven verschillende bubbel- en smakprofiel. Traditionnelle geeft fijne bubbels via lange gisting; Tank geeft grof via korte gisting.",
+      "answer_pitfall": "Veel denken Prosecco is 'slechter' - NIET waar, het is ander producttype. Prosecco is fruitig/toegankelijk; Champagne elegant/mineral. Kies naar occasion!",
+      "answer_memory_hook": "TANK = Prosecco (Charmat/snelle gisting). TRADITIONNELLE = Champagne/Cava (lange gisting)."
+    },
+    {
+      "id": "batch_champagne_6",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; Champagne methode variations",
+      "question": "Wat is tank-gisting (Charmat-methode) en welke wijnen gebruiken dit?",
+      "answer": "Tweede gisting gebeurt in grote RVS tanks i.p.v. flessen, gisting duurt 20-30 dagen, gevolgd door bottelen. Gebruikt door Prosecco, veel goedkope mousserende wijnen, sommige Moscato's.",
+      "explanation": "CHARMAT-METHODE (tank-gisting): (1) BASIS WIJN maken (stilwijn/blend). (2) TIRAGE in GROTE RVS TANKS (niet fles!). (3) TWEEDE GISTING in tanks (20-30 dagen, gecontroleerde temperatuur). CO2 ontstaat in tank. (4) KOELING = gisting stopt. (5) BOTTELEN onder druk (CO2 behouden). VOORDELEN: sneller (30 dagen vs 15+ maanden), goedkoper, fruitage behouden, grote bubbels. NADELEN: geen gistsmaken, minder finesse, kortere shelf-life. GEBRUIKERS: Prosecco (standaard), Duitse Sekt (Charmat), veel goedkope mousserende wijnen, Moscato d'Asti (halfdry). VERSCHIL: Traditionelle = fijne perlage + brood/toast; Charmat = grovere bubbels + fris fruit. PRIJS = Charmat veel goedkoper. Niet inferieur, maar ander producttype!",
+      "tags": ["charmat_methode", "tank_gisting", "prosecco", "mousserende_wijn", "vinificatie", "bubbels"],
+      "answer_short": "Charmat = gisting in RVS tanks (30 dagen), dan bottelen. Prosecco, Moscato, goedkope mousserende wijnen.",
+      "answer_core_points": [
+        "CHARMAT = tank-gisting (20-30 dagen), niet flessengisting",
+        "Gisting gebeurt in GROTE RVS TANKS met temperatuurcontrole",
+        "Sneller, goedkoper dan Traditionnelle",
+        "PROSECCO = standaard Charmat",
+        "Grovere bubbels dan Traditionnelle",
+        "Behoud fruitage, geen gistsmaken/toast"
+      ],
+      "answer_why": "Tank-gisting is efficiënter. Geen lange rijping nodig. Fruitage blijft vers. Goedkoper.",
+      "answer_pitfall": "Mensen dachten Charmat = 'slechter' - VEROUDERD! Het is gewoon ander systeem. Charmat voor fruity/frisse; Traditionnelle voor elegant/complex.",
+      "answer_memory_hook": "TANK = Charmat (groot). FLES = Traditionnelle (klein). Charmat = Snel (30 dagen) + Simpel + Goedkoop."
+    },
+    {
+      "id": "batch_champagne_7",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; Champagne styles",
+      "question": "Wat zijn Blanc de Blancs, Blanc de Noirs en Rosé Champagne? Welke druiven gebruiken ze?",
+      "answer": "Blanc de Blancs = 100% witte druiven (Chardonnay), elegant/mineraal. Blanc de Noirs = 100% rode druiven (Pinot Noir/Meunier), voller/krachtiger. Rosé = rode druiven + toevoegen rode wijn of saignée, salmon/copper kleur.",
+      "explanation": "CHAMPAGNE STIJLEN op basis druivensoort: (1) BLANC DE BLANCS (witte druiven): 100% CHARDONNAY. STIJL = elegant, mineraal, citrus, groene appel, ziltig. LICHTER body. KLEUR = pale geel/groen-geel. TERROIR = Côte des Blancs (Avize, Cramant, Oiry, Le Mesnil-sur-Oger) = premium. RIJPING = langer mogelijk (fijne zuurheid). (2) BLANC DE NOIRS (rode druiven): 100% PINOT NOIR en/of PINOT MEUNIER (wit geperst, rood sap nooit contact schil). STIJL = voller, structuur, rood fruit, brood, rijper. LICHTER kleur dan stille rode wijn (omdat sap snel afgescheiden). TERROIR = Montagne de Reims (Ambonnay, Mailly, Verzy). (3) ROSÉ (blended): Rode druiven (meestal Pinot Noir) + toevoegen rode stilwijn (10-15%) OF saignée methode (kort huidcontact). STIJL = fruity (aardbeien, frambozen), halfzwaar tussen blanc/rode. KLEUR = salmon/koperen tint. DROOG. TREND = Vintage Rosé duurder geworden. CHAMPAGNE ROSÉ = exclusief (alleen regio mag dit noemen).",
+      "tags": ["champagne", "blanc_de_blancs", "blanc_de_noirs", "rosé", "chardonnay", "pinot_noir", "stijl"],
+      "answer_short": "Blanc de Blancs = 100% Chardonnay (elegant). Blanc de Noirs = 100% Pinot (voller). Rosé = Pinot + rode wijn (fruity).",
+      "answer_core_points": [
+        "BLANC DE BLANCS = 100% Chardonnay, elegant/mineraal",
+        "Côte des Blancs terroir = Avize, Cramant, Oiry",
+        "BLANC DE NOIRS = 100% Pinot Noir/Meunier, voller/structuur",
+        "Montagne de Reims terroir = Ambonnay, Mailly",
+        "ROSÉ = Pinot + rode wijn of saignée, fruity/salmon kleur"
+      ],
+      "answer_why": "Verschillende druiven geven verschillende profiel. Chardonnay = zuur/mineraal; Pinot = fruit/structuur. Rosé combineert beiden.",
+      "answer_pitfall": "Veel denken Blanc de Noirs = rode Champagne - FOUT, het is wit! Alleen kleur iets donkerder omdat Pinot donkerdere schil. ROSÉ is echt roze/copper.",
+      "answer_memory_hook": "BBB = Blanc de Blancs (Blond, fijn). BNL = Blanc de Noirs (Bold, voller). R = Rosé (Rood-fruit)."
+    },
+    {
+      "id": "batch_champagne_8",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; Champagne age statements",
+      "question": "Wat betekenen NV (non-vintage) en Vintage op Champagne etiket? Wat zijn de rijpingsverschillen?",
+      "answer": "NV = blend van meerdere jaren (meestal meerderheid niet-huidige oogst), standaard stijl. Minimum 15 maanden rijping. Vintage = wijnen uit enkel goede jaar, minimum 36 maanden rijping, komplexer/ouder.",
+      "explanation": "CHAMPAGNE LEEFTIJD AANDUIDINGEN: (1) NON-VINTAGE (NV, geen jaargang): BLEND van meerdere jaren (meestal basis 80% huidigjaar + 20% reserves voorgaande jaren). RIJPING = minimum 15 maanden sur lie. DOEL = consistente huisstijl jaar na jaar. STIJL = fruitig, jong, licht, toegankelijk. TYPISCH voor mass-production huizen (Veuve Clicquot NV, Moet NV). VOORDEEL = betaalbaar, consistent. (2) VINTAGE (enkel jaar, bv. 2012, 2015): Wijnen uit ENKEL GOEDE JAAR (huizen selecteren). BLEND = nog meerdere vaten/druiven, maar ALLE uit enkel jaar. RIJPING = minimum 36 MAANDEN sur lie (2x langer!). DOEL = complex/oud karakter, oogstkarakter weerspiegelen. STIJL = komplexer, rijper, mineraler, meer smaakdiepte. TYPISCH = prestige cuvées, grower Champagne. PRIJS = hoger. VERSCHIL RIJPING: NV licht/fruity; Vintage mineraal/brood/toast. SELECTIE: Niet alle jaren zijn Vintage (bv. 2017 was lastig, niet veel Vintage). 2012, 2008, 2006 = klassieke vintage jaren.",
+      "tags": ["champagne", "non_vintage", "vintage", "nv", "rijping", "jaargang", "blend"],
+      "answer_short": "NV = blend jaren, 15 mnd rijping, consistent. Vintage = enkel jaar, 36 mnd rijping, komplex.",
+      "answer_core_points": [
+        "NV = multi-year blend (meestal 80% huidig + 20% reserves)",
+        "NV minimum 15 maanden rijping",
+        "VINTAGE = single year, minimum 36 maanden rijping",
+        "NV = consistente huisstijl; Vintage = oogstkarakter",
+        "NV goedkoper/vroeger drinkbaar; Vintage complex/aging"
+      ],
+      "answer_why": "NV geeft huizen controle over stijl; Vintage toont terroir/jaar. Langere rijping = meer gistsmaken/complexiteit.",
+      "answer_pitfall": "Veel denken Vintage ALTIJD beter = ONWAAR! Goede NV van Krug kan beter zijn dan zwakke Vintage van ander huis.",
+      "answer_memory_hook": "NV = NeVer years (meerdere). Vintage = Vast jaar (enkel). Vintage = 3x rijping (36mnd vs 15mnd)."
+    },
+    {
+      "id": "batch_champagne_9",
+      "category": "frankrijk_algemeen",
+      "difficulty": "hard",
+      "source": "web_research; Champagne regulations, Franciacorta",
+      "question": "Wat is Franciacorta en hoe verschilt het van Champagne?",
+      "answer": "Franciacorta (Italië, Lombardije) = DOCG status, Méthode Traditionnelle (min 18 mnd rijping), druiven Chardonnay/Pinot, duur als Champagne, elegant.",
+      "explanation": "FRANCIACORTA (Italië, Lombardije regio, Brescia): STATUS = DOCG (strengste Italië kwaliteit). METHODE = Méthode Traditionnelle (flessengisting) MINIMUM 18 MAANDEN (langer dan Champagne NV/15mnd!). DRUIVEN = Chardonnay (dominant), Pinot Noir, Pinot Blanc, GEEN Pinot Meunier (anders dan Champagne). TERROIR = heuvel zone nabij Lago d'Iseo, kontinentaal klimaat (kouder dan Champagne!). STIJL = ELEGANT, mineraal, citrus, brood/toast, slinkt aan Champagne, fijne bubbels. DROOG (Brut norm). DOSAGE = Brut Nature/Extra Brut/Brut/Satèn (halfdry). PRIJS = hoog (vergelijkbaar Champagne), RESPECT gekregen vorig decennium. VERGELIJKING: FRANCIACORTA = 'Cava's klassieke overgrootvader', meer elegant dan Cava, net zo fijn als Champagne, ander terroir (kouder, mineraler). ANDERE ITALIANEN = Asti (Moscato, zoet, licht), Prosecco (Charmat, fruity).",
+      "tags": ["franciacorta", "italië", "docg", "méthode_traditionnelle", "mousserende_wijn", "lombardije"],
+      "answer_short": "Franciacorta = Italië DOCG, Traditionnelle (18 mnd), Chardonnay/Pinot, elegant = Champagne-equivalent.",
+      "answer_core_points": [
+        "FRANCIACORTA = Lombardije DOCG (toppunt Italië)",
+        "Méthode Traditionnelle, MINIMUM 18 maanden rijping",
+        "Druiven = Chardonnay/Pinot Noir/Pinot Blanc (geen Meunier)",
+        "ELEGANT stijl, fijne bubbels, mineraal/citrus",
+        "DROOG, prestige-niveau",
+        "Prijs = hoog, vergelijkbaar Champagne"
+      ],
+      "answer_why": "Franciacorta toont dat Traditionnelle niet uniek is voor Champagne. Andere terroirs (kouder/mineraal) geven soortgelijke finesse.",
+      "answer_pitfall": "Veel denken Franciacorta = goedkoper/minder goed dan Champagne - ONWAAR! Het is vergelijkbare DOCG kwaliteit, andere terroir, andere druiven.",
+      "answer_memory_hook": "Franciacorta = Familienaam (F = Italiaans, elegant). DOCG + Traditionnelle + 18 maanden = Champagne-equivalent."
+    },
+    {
+      "id": "batch_champagne_10",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; German Sekt",
+      "question": "Wat is Duitse Sekt en wat zijn de verschilpunten met Champagne?",
+      "answer": "Sekt (Duitse mousserende wijn) = kan met Charmat of Traditionnelle gemaakt. 'Klassik' Sekt = Traditionnelle. Basis-Sekt = goedkoop, Charmat/kurk. Druiven = Riesling, Pinot dominant. Goedkoper dan Champagne.",
+      "explanation": "Duitse SEKT (mousserende wijn): STATUS = geen AOC (appelation contrôl), gewoon 'Sekt'. METHODE: (1) SEKT KLASSIK = Méthode Traditionnelle (9 mnd minimum rijping), fijne bubbels, elegant. (2) BASIS SEKT = CHARMAT (tank), goedkoop, fruity. DRUIVEN = Riesling (wit, zoet/fris), Pinot Noir/Meunier (rood, als Champagne). HERKOMST = Duitsland (Mosel, Rheingau, Pfalz) of IMPORT (Frankrijk, Italië). JA, Duitse Sekt MAG basiswijn importeren! TERROIR = kontinentaal (koeler). STIJL = FRIS, fruit-forward, mineraal (Riesling-karakter). PRIJS = LAAG-MEDIUM (veel goedkoper dan Champagne). KWALITEIT = variabel. Top SEKT (Klassik) = zeer goed; basis = 'mousserende drankje'. VERGELIJKING: Sekt = informeler dan Champagne, goedkoper, meer fruitig (Riesling-invloed), tank-versies veel gunstiger dan Champagne.",
+      "tags": ["duitsland", "sekt", "charmat", "traditionnelle", "riesling", "mousserende_wijn"],
+      "answer_short": "Sekt (Duitse mousserende wijn) = Klassik (Traditionnelle) of basis Charmat, Riesling/Pinot, goedkoop.",
+      "answer_core_points": [
+        "SEKT = Duitse mousserende wijn (geen AOC)",
+        "SEKT KLASSIK = Traditionnelle (min 9 mnd rijping)",
+        "Basis Sekt = Charmat (tank-gisting), veel goedkoper",
+        "DRUIVEN = Riesling (fris), Pinot (struktuur)",
+        "PRIJS = laag-medium (veel goedkoper dan Champagne)"
+      ],
+      "answer_why": "Duitsland produceerde Sekt goedkoop; Riesling-tradities maken frisvriendiger. Charmat = kostenbesparing.",
+      "answer_pitfall": "Veel denken Duitse Sekt = inferieur - SOMS waar (basis Charmat), maar Sekt Klassik = heel goed, lager prijs dan vergelijkbare Champagne.",
+      "answer_memory_hook": "SEKT = Simpel, Economisch, Klassik/Charmat, Tradition. Riesling-frisheid = karakteristiek."
+    },
+    {
+      "id": "batch_champagne_11",
+      "category": "frankrijk_algemeen",
+      "difficulty": "hard",
+      "source": "web_research; Champagne regulations, aging",
+      "question": "Hoe ouder Champagne bewaren? Wat zijn de optimale voorwaarden?",
+      "answer": "Champagne liggend bewaren (fles hori), 10-15°C constant, 50-80% RV, duisternis, weg van trillingen. NV 5-10 jaar, Vintage 20-30+ jaar mogelijk. Kurk droogt uit = CO2 verlies.",
+      "explanation": "CHAMPAGNE BEWARING: LIGGING = LIGGENDE positie (horizontaal), zodat kurk NAT blijft. DRY kurk = CO2 ontsnapt, wijn oxideert. TEMPERATUUR = CONSTANT 10-15°C (geen fluctuatie!). Warmer = snellere rijping + oxidatie. LICHT = DUISTERNIS (UV-licht = oxidatie). TRILLINGEN = gering (gisting herstart!). RV = 50-80% (niet te droog, niet nat/schimmel). LIFESPAN NV: 5-10 jaar, sommige tot 15 jaar (goede voorwaarde). LIFESPAN VINTAGE: 20-30+ jaar common, sommige 50+ jaar. STIJL VERANDERING: Jong Champagne = fruitig/bubbels prominent. Oud Champagne = goudkleur, brood/toast, minder bubbels (CO2 verliest), rijper/teerig. RUST PERIODE = Minimum 3 maanden COOL voor transportrecover (Jet lag wijn!). NOTA: Niet alle Champagne verbetert met leeftijd! Base Prosecco/Sekt = drink jong. Champagne Vintage = kan oud worden mooi.",
+      "tags": ["champagne", "bewaring", "opslag", "temperatuur", "kurk", "oxidatie", "rijping"],
+      "answer_short": "Liggende bewaring, 10-15°C constant, duisternis. NV 5-10 jaar, Vintage 20-30+ jaar, kurk NAT houden.",
+      "answer_core_points": [
+        "LIGGEND bewaren (horizontaal), kurk contact wijn",
+        "Constant 10-15°C temperatuur (geen schommelingen)",
+        "DUISTERNIS, gering trillingen",
+        "50-80% RV (noch te droog, noch nat)",
+        "NV levensduur 5-10 jaar",
+        "VINTAGE levensduur 20-30+ jaar",
+        "Oude Champagne = goudkleur, rijper, minder bubbels"
+      ],
+      "answer_why": "Liggende positie = kurk nat = gasdicht. Koude & duisternis = trage oxidatie. Lange rijping = gistsmaken verdiepen.",
+      "answer_pitfall": "Veel bewaren Champagne VERTICAAL (fout!) = kurk droogt uit. Of warmte = snelle oxidatie. Champagne = voorzichtige opslag nodig!",
+      "answer_memory_hook": "LID = Liggende (horizontaal), Ij-koud (10-15), Duisternis. Kurk = Koud = Kamerlicht (duister)."
+    },
+    {
+      "id": "batch_champagne_12",
+      "category": "frankrijk_algemeen",
+      "difficulty": "hard",
+      "source": "web_research; Champagne production, yield",
+      "question": "Welke wettelijke vereisten gelden voor Champagne druiven oogsten, verwerking en productie?",
+      "answer": "Max oogstrendement 160 kg druiven/are (160:100 ratio), minimum 100 g suiker/L moet, Chardonnay/Pinot/Meunier enkel, max 15,5% alcohol (verhot), hand of machine oogsten toegestaan.",
+      "explanation": "CHAMPAGNE WETTELIJKE EISEN: OOGST: (1) RENDEMENT = Max 160 kg druiven per are (are = 100 m²). Strikt! = geen overproductie van slechte druiven. (2) HAND/MACHINE = beide ok (handoogst premium). DRUIVEN: (1) CHARDONNAY, PINOT NOIR, PINOT MEUNIER ENKEL. (2) Enkel AOC-regio druiven. (3) GEZONDHEID: geen rotte/zieke druiven. VERWERKING: (1) PERSEN: max 100 liter most van 160 kg druiven = 'Vin de Pressoir' (2de snit = lager kwaliteit). (2) MOET GEWICHT: minimum 100 g suiker/liter (mostgewicht voorvader; 'coulures'). ALCOHOL: (1) Minimum 15,5% POTENTIAL (met chaptalisatie bereikt - wordt niet altijd 15,5% werkelijk!). PRODUCTIE: (1) Méthode Traditionnelle VERPLICHT. (2) Minimum 15 maanden NV, 36 maanden Vintage rijping op gist. (3) Dosage geregeld. COMMERCIEEL: Geen goedkope import-wijnen, alles moet IN CHAMPAGNE gemaakt zijn (transport NIET). LABEL: Producent type vermeld (Grandes Marques, Grower, Coöperatief).",
+      "tags": ["champagne", "wetgeving", "rendement", "alcoholgehalte", "moet_gewicht", "productie_eisen", "druivensoort"],
+      "answer_short": "Max 160 kg/are oogst, 100g/L moet-gewicht, 15,5% alcohol-potentiaal, Chardonnay/Pinot/Meunier enkel, Traditionnelle verplicht.",
+      "answer_core_points": [
+        "OOGST rendement = max 160 kg druiven/are (strikt!)",
+        "DRUIVEN = Chardonnay, Pinot Noir, Pinot Meunier ENKEL",
+        "MOET gewicht = min 100 g suiker/liter",
+        "ALCOHOL = min 15,5% potentieel",
+        "PERSEN = max 100 liter/160 kg druiven",
+        "METHODE = Traditionnelle verplicht",
+        "RIJPING = min 15 mnd NV, 36 mnd Vintage"
+      ],
+      "answer_why": "Strenge eisen garanderen Champagne-kwaliteit en terroir-integriteit. Rendement-limiet = geen overproductie slechte wijnen.",
+      "answer_pitfall": "Veel denken Champagne = alle Fransen mousserende - FOUT! Enkel AOC-regio, exacte druiven, Traditionnelle, streng gekeurd.",
+      "answer_memory_hook": "CMPN = Chardonnay/Meunier/Pinot (druiven), Max 160 kg/are, Potentieel 15,5%, MOET 100g/L, Naw 15+ mnd rijping."
+    },
+    {
+      "id": "batch_champagne_13",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "web_research; Champagne vs spuiten serveren",
+      "question": "Wat is het verschil tussen spuiten (bubbelvorming) en Champagne in glas? Hoe serveren?",
+      "answer": "Spuiten = ontspanning CO2 in glas/mond (sensorisch bruisen). Champagne in glas = perlage (fijne luchtbelletjes opstijgen). Serveer in flute of coupe, gekoeld (8-10°C), fles in ijsemmer.",
+      "explanation": "CHAMPAGNE SERVERING: GLAS KEUS: (1) FLUTE glas = hoog, smal, perlage zichtbaar, bubbels stijgen langer. (2) COUPE (couphette) = plat, breed, romantisch maar perlage verliest snel. (3) WINE GLASS = neutraal, alle druiven-noten voelbaar. FLUTE = voorkeur (perlage stijl). TEMPERATUUR: Gekoeld 8-10°C (NIET ijskoud!). Warm = CO2 ontsnapt, bubbels verloren. IJskoud = geur-/smaak-onderdrukking. OPENING: (1) KURK ER UIT = druk langzaam loslaten (geen 'poppen'). (2) HOREN = zacht 'zzzsh', geen knalgeluid. (3) SPUITERS = gist-restanten uit bottle, goede teken of fout, afhankelijk dosage/ouderdom. SERVERING: (1) FLES = IJsemmer met water+ijs (niet alleen ijs, contact koelwerkend). (2) GLAS = half vol (niet naar rand). PERLAGE = fijne bubbels drijven omhoog (= finesse teken). GROF perlage = mindere kwaliteit of Charmat. NEUS: Eerste neus = bubbels maskers geur. Na 5 min = geur openvouwen. SMAAK: Eerst fruit/fris, dan brood/toast/mineraal. AFWERKING = lang (long finish = kwaliteit).",
+      "tags": ["champagne", "servering", "glas", "temperatuur", "perlage", "etiquette", "kurk", "open"],
+      "answer_short": "Flute glas (niet coupe), gekoeld 8-10°C, half vol, fles in ijsemmer, kurk voorzichtig open, perlage observeren.",
+      "answer_core_points": [
+        "FLUTE glas = voorkeur (perlage zichtbaar, bubbels lang)",
+        "TEMPERATUUR = 8-10°C (niet ijskoud, niet warm)",
+        "KURK = voorzichtig openen, druk langzaam loslaten",
+        "FLES = ijsemmer water+ijs",
+        "GLAS = half vol",
+        "PERLAGE = fijne bubbels = kwaliteit"
+      ],
+      "answer_why": "Flute geeft visueel genot perlage. Koude = CO2 behouden. Voorzichtige opening = bubbels + respect.",
+      "answer_pitfall": "Veel openen Champagne OUD/Vintage zonder voorzichtigheid = CO2 verliest snel. Coupe verliest perlage snel (romantisch maar praktisch slecht).",
+      "answer_memory_hook": "TEMP = 8 (Acht graden). GLAS = Flute (hoog). KURK = Zacht (zzzzsh). EMMER = water+ijs (niet ijsblokken alleen)."
+    }
+  ]
+}

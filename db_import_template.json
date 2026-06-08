@@ -27,7 +27,9 @@
         "question",
         "answer",
         "explanation",
-        "tags",
+        "tags"
+      ],
+      "optional_answer_fields": [
         "answer_short",
         "answer_core_points",
         "answer_why",
@@ -62,6 +64,19 @@
         "answer_pitfall": "Common mistake to avoid.",
         "answer_memory_hook": "Mnemonic or memory hook."
       }
+    ]
+  },
+  "minimal_card_template": {
+    "id": "unique_card_id_minimal",
+    "category": "vinificatie",
+    "difficulty": "easy",
+    "source": "your_source_name",
+    "question": "Your question here?",
+    "answer": "Short direct answer",
+    "explanation": "Longer explanation used in study mode.",
+    "tags": [
+      "tag_one",
+      "tag_two"
     ]
   },
   "single_item_template": {
