@@ -1,0 +1,279 @@
+{
+  "flashcards": [
+    {
+      "id": "batch5_001",
+      "category": "spanje_portugal",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019); SDEN 3 oefenexamen 2019",
+      "question": "Wat betekent de term 'Tinto Joven' in Spanje?",
+      "answer": "Jonge rode wijn met weinig of geen houtrijping.",
+      "explanation": "Tinto Joven staat voor een fruitgedreven stijl die snel na productie wordt uitgebracht.",
+      "tags": ["spanje", "tinto_joven", "etiket", "stijl"],
+      "answer_short": "Tinto Joven is jonge rode wijn zonder zware houtrijping."
+    },
+    {
+      "id": "batch5_002",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Noem de drie klassieke subregio's van Rioja.",
+      "answer": "Rioja Alta, Rioja Alavesa en Rioja Oriental.",
+      "explanation": "Deze subregio's hebben elk een eigen klimaat- en stijlprofiel binnen Rioja.",
+      "tags": ["rioja", "spanje", "subregio", "rioja_alta"],
+      "answer_short": "Rioja Alta, Alavesa en Oriental."
+    },
+    {
+      "id": "batch5_003",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Welke druif vormt meestal de basis van Rioja rood?",
+      "answer": "Tempranillo.",
+      "explanation": "Tempranillo is de kern van de meeste Rioja-assemblages en bepaalt vaak het stijlprofiel.",
+      "tags": ["rioja", "tempranillo", "spanje", "rode_wijn"],
+      "answer_short": "Tempranillo is de hoofdruif van Rioja rood."
+    },
+    {
+      "id": "batch5_004",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019); Cava D.O. references",
+      "question": "Welke productiemethode is verplicht voor Cava?",
+      "answer": "Traditionele methode met tweede gisting op fles.",
+      "explanation": "Cava wordt volgens de metodo tradicional gemaakt, vergelijkbaar met Champagne qua productiestap.",
+      "tags": ["cava", "spanje", "traditionele_methode", "mousserend"],
+      "answer_short": "Cava gebruikt tweede gisting op fles."
+    },
+    {
+      "id": "batch5_005",
+      "category": "spanje_portugal",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het hoofdverschil tussen Ruby en Tawny Port?",
+      "answer": "Ruby is fruitiger en minder oxidatief; Tawny is oxidatiever en nootachtiger.",
+      "explanation": "Ruby rijpt doorgaans met minder oxidatieve invloed, Tawny juist met meer vatoxidatie en rijpingsaroma's.",
+      "tags": ["port", "ruby", "tawny", "stijl"],
+      "answer_short": "Ruby = fruitig; Tawny = oxidatiever en nootachtig."
+    },
+    {
+      "id": "batch5_006",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat betekent LBV bij Port?",
+      "answer": "Late Bottled Vintage.",
+      "explanation": "LBV is Port uit een enkel oogstjaar die later wordt gebotteld dan klassieke Vintage Port.",
+      "tags": ["port", "lbv", "versterkte_wijn", "etiket"],
+      "answer_short": "LBV staat voor Late Bottled Vintage."
+    },
+    {
+      "id": "batch5_007",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Welke vier Sherry-stijlen worden op SDEN 3-niveau vaak onderscheiden?",
+      "answer": "Fino, Amontillado, Oloroso en Pedro Ximenez (PX).",
+      "explanation": "Deze stijlen laten de band zien tussen rijpingswijze, oxidatiegraad en zoetheid.",
+      "tags": ["sherry", "fino", "amontillado", "px"],
+      "answer_short": "Fino, Amontillado, Oloroso en PX."
+    },
+    {
+      "id": "batch5_008",
+      "category": "spanje_portugal",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is het belangrijkste verschil tussen Fino en Oloroso Sherry?",
+      "answer": "Fino rijpt biologisch onder flor; Oloroso rijpt oxidatief zonder flor.",
+      "explanation": "Flor beschermt Fino tegen zuurstof en geeft een drogere, ziltige stijl. Oloroso ontwikkelt juist oxidatieve notigheid.",
+      "tags": ["sherry", "fino", "oloroso", "flor"],
+      "answer_short": "Fino onder flor, Oloroso oxidatief zonder flor."
+    },
+    {
+      "id": "batch5_009",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat typeert Pedro Ximenez (PX) als Sherry-stijl?",
+      "answer": "Zeer zoet en geconcentreerd met tonen van rozijnen en stroop.",
+      "explanation": "PX wordt vaak gemaakt van sterk ingedroogde druiven en geeft een intens dessertachtig profiel.",
+      "tags": ["sherry", "px", "zoet", "spanje"],
+      "answer_short": "PX is zeer zoete, geconcentreerde Sherry."
+    },
+    {
+      "id": "batch5_010",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "In welke Franse hoofdregio liggen Cote Rotie en Hermitage?",
+      "answer": "In de Noord-Rhone.",
+      "explanation": "Beide appellaties behoren tot het noordelijke deel van de Rhone en zijn sterk verbonden met Syrah.",
+      "tags": ["rhone", "cote_rotie", "hermitage", "frankrijk"],
+      "answer_short": "Cote Rotie en Hermitage liggen in Noord-Rhone."
+    },
+    {
+      "id": "batch5_011",
+      "category": "frankrijk_algemeen",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Welke druif domineert rode wijnen uit Cote Rotie en Hermitage?",
+      "answer": "Syrah.",
+      "explanation": "Noord-Rhone rood is klassiek Syrah-gedreven en vormt een kernreferentie in SDEN 3.",
+      "tags": ["rhone", "syrah", "hermitage", "cote_rotie"],
+      "answer_short": "Syrah is de kernruif van Noord-Rhone rood."
+    },
+    {
+      "id": "batch5_012",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waar ligt Jurancon in brede zin?",
+      "answer": "In Zuidwest-Frankrijk (Sud-Ouest).",
+      "explanation": "Jurancon is een bekende appellatie uit de Sud-Ouest en komt in examenvragen vaak terug als regioherkenning.",
+      "tags": ["jurancon", "sud_ouest", "frankrijk", "regio"],
+      "answer_short": "Jurancon ligt in Sud-Ouest."
+    },
+    {
+      "id": "batch5_013",
+      "category": "frankrijk_algemeen",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Tot welke Franse regio wordt Corbieres doorgaans gerekend?",
+      "answer": "Languedoc-Roussillon.",
+      "explanation": "Corbieres is een belangrijke appellatie in het zuiden van Frankrijk.",
+      "tags": ["corbieres", "languedoc", "frankrijk", "appellatie"],
+      "answer_short": "Corbieres hoort bij Languedoc-Roussillon."
+    },
+    {
+      "id": "batch5_014",
+      "category": "duitsland",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is Spatburgunder?",
+      "answer": "De Duitse naam voor Pinot Noir.",
+      "explanation": "Synoniemen van druivenrassen zijn examengevoelig bij etiketten en regioherkenning.",
+      "tags": ["duitsland", "spatburgunder", "pinot_noir", "synoniem"],
+      "answer_short": "Spatburgunder is Pinot Noir."
+    },
+    {
+      "id": "batch5_015",
+      "category": "duitsland",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is de juiste volgorde van laag naar hoog binnen Kabinett, Spatlese en Auslese?",
+      "answer": "Kabinett, Spatlese, Auslese.",
+      "explanation": "Deze volgorde volgt de stijgende rijpheid/mostgewicht binnen de klassieke Duitse indeling.",
+      "tags": ["duitsland", "kabinett", "spatlese", "auslese"],
+      "answer_short": "Volgorde: Kabinett -> Spatlese -> Auslese."
+    },
+    {
+      "id": "batch5_016",
+      "category": "serveren",
+      "difficulty": "easy",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019); SDEN 3 oefenexamen 2019",
+      "question": "Welke wijnstijl past in de basis vaak goed bij een koude visschotel?",
+      "answer": "Droge, frisse witte wijn met hoge zuren.",
+      "explanation": "Hoge zuren ondersteunen frisheid en sluiten meestal goed aan bij lichte visbereidingen.",
+      "tags": ["wijn_spijs", "vis", "witte_wijn", "serveren"],
+      "answer_short": "Bij koude vis past meestal frisse droge witte wijn."
+    },
+    {
+      "id": "batch5_017",
+      "category": "serveren",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom werkt mousserende wijn vaak goed bij gefrituurde hapjes?",
+      "answer": "Door koolzuur en zuren die vet en mondgevoel opfrissen.",
+      "explanation": "Bubbels en zuur geven contrast tegen vettigheid en houden de combinatie licht.",
+      "tags": ["wijn_spijs", "mousserend", "vet", "balans"],
+      "answer_short": "Bubbels en zuur frissen vetrijke gerechten op."
+    },
+    {
+      "id": "batch5_018",
+      "category": "serveren",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is een nuttige basisregel bij pittig gekruid eten en wijn?",
+      "answer": "Vermijd te veel alcohol en harde tannines; kies liever fruitig en fris.",
+      "explanation": "Hoge alcohol en stevige tannine kunnen scherpte van pikant eten versterken.",
+      "tags": ["wijn_spijs", "pittig", "alcohol", "tannine"],
+      "answer_short": "Bij pittig eten liever fris en fruitig dan heet en tanninerijk."
+    },
+    {
+      "id": "batch5_019",
+      "category": "serveren",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom is serveertemperatuur cruciaal voor balans in wijn?",
+      "answer": "Temperatuur verandert de waarneming van zuur, alcohol, aroma en bitterheid.",
+      "explanation": "Te warm kan alcohol domineren; te koud kan aroma's en textuur onderdrukken.",
+      "tags": ["serveren", "temperatuur", "balans", "proeven"],
+      "answer_short": "Temperatuur stuurt direct hoe zuur, alcohol en aroma worden ervaren."
+    },
+    {
+      "id": "batch5_020",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat zegt een combinatie van hoge zuren en laag alcohol vaak over klimaatstijl?",
+      "answer": "Vaak een koelere klimaatstijl.",
+      "explanation": "In koelere omstandigheden rijpen suikers trager, waardoor alcohol lager kan blijven terwijl zuren hoger zijn.",
+      "tags": ["proeven", "klimaat", "zuren", "alcohol"],
+      "answer_short": "Hoge zuren + laag alcohol wijst vaak op koel klimaat."
+    },
+    {
+      "id": "batch5_021",
+      "category": "proeven",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Welke stijlverwachting hoort klassiek bij GSM-blend?",
+      "answer": "Warme-klimaat rode blend met rijp fruit, kruidigheid en ronde textuur.",
+      "explanation": "GSM staat voor Grenache, Syrah en Mourvedre en komt vaak voor in Rhone-achtige stijlen.",
+      "tags": ["gsm", "grenache", "syrah", "mourvedre"],
+      "answer_short": "GSM geeft vaak rijpe kruidige rode blendstijl."
+    },
+    {
+      "id": "batch5_022",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Welke druif wordt sterk geassocieerd met Californië en heet in Italië vaak Primitivo?",
+      "answer": "Zinfandel.",
+      "explanation": "Zinfandel is een kernnaam in de VS en een belangrijke herkenningsterm in SDEN-context.",
+      "tags": ["zinfandel", "california", "primitivo", "nieuwe_wereld"],
+      "answer_short": "Zinfandel (VS) correspondeert met Primitivo (Italië)."
+    },
+    {
+      "id": "batch5_023",
+      "category": "nieuwe_wereld",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Waarom is irrigatie een terugkerend thema bij Chileense wijnbouw?",
+      "answer": "Door droge omstandigheden in veel wijngebieden is watermanagement vaak essentieel.",
+      "explanation": "Irrigatie bepaalt in zulke regio's opbrengst, rijping en stijlbalans.",
+      "tags": ["chili", "irrigatie", "wijnbouw", "klimaat"],
+      "answer_short": "In Chili is irrigatie vaak cruciaal door droge omstandigheden."
+    },
+    {
+      "id": "batch5_024",
+      "category": "spanje_portugal",
+      "difficulty": "hard",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is een kernverschil tussen vintage Port en LBV in positionering?",
+      "answer": "Vintage Port is doorgaans exclusiever en bedoeld voor langere flesrijping; LBV is toegankelijker bij release.",
+      "explanation": "Beide komen uit een enkel oogstjaar, maar de opvoeding en marktpositionering verschillen duidelijk.",
+      "tags": ["port", "vintage_port", "lbv", "stijl"],
+      "answer_short": "Vintage Port is exclusiever; LBV is vaak eerder drinkbaar."
+    },
+    {
+      "id": "batch5_025",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "question": "Wat is de kernfunctie van wettelijke rijpingstermen zoals Crianza, Reserva en Gran Reserva?",
+      "answer": "Ze leggen minimale rijpingseisen vast en helpen stijl/verwachting op etiketniveau duiden.",
+      "explanation": "Deze termen zijn juridisch gedefinieerd en ondersteunen zowel kwaliteitscontrole als consumentinformatie.",
+      "tags": ["wetgeving", "spanje", "crianza", "reserva"],
+      "answer_short": "Rijpingstermen geven wettelijke minimumrijping en stijlverwachting."
+    }
+  ]
+}

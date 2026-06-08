@@ -1,0 +1,950 @@
+{
+  "metadata": {
+    "title": "SDEN3 Oefenexamen — Volledige Examen Simulatie",
+    "version": "1.0",
+    "created_at": "2026-06-08",
+    "total_questions": 60,
+    "exam_structure": {
+      "total_questions": 60,
+      "theorie_vragen": 54,
+      "proefvragen": 6,
+      "tijdsduur_minuten": 75,
+      "slagingscriterium": "36/60 (60%) waarvan minimaal 2 proefvragen goed"
+    },
+    "question_distribution": {
+      "vinificatie_technieken": 8,
+      "frankrijk": 12,
+      "italie": 6,
+      "spanje_portugal": 6,
+      "duitsland_oostenrijk": 3,
+      "nieuwe_wereld": 6,
+      "wijnbouw_druif": 4,
+      "wetgeving_etikettering": 4,
+      "wijnfouten": 3,
+      "serveren_wijn_spijs": 4,
+      "overig_europa": 2,
+      "proefvragen_stijlherkenning": 2
+    },
+    "sources": [
+      "SDEN Toelichting toetstermen niveau 3 (2019)",
+      "SDEN Oefenexamen 2019",
+      "Wijnexamenhulp.nl oefenexamen",
+      "Wijnexamentraining.nl oefenvragen",
+      "JeDeWijn oefenvragen",
+      "SDEN3 Studiecoach",
+      "Analyse bestaande SDEN3 flashcards database"
+    ]
+  },
+  "instructions": {
+    "header": "SDEN3 Wijnbrevet — Oefenexamen",
+    "description": "Dit oefenexamen bevat 60 multiple-choice vragen die de structuur en moeilijkheidsgraad van het echte SDEN3 examen simuleren. Beantwoord alle vragen binnen 75 minuten. Na afloop zie je direct je score en uitgebreide uitleg per vraag.",
+    "tips": [
+      "Lees elke vraag zorgvuldig — let op woorden als 'onjuist', 'niet', 'uitzondering'",
+      "Bij twijfel: elimineer eerst de antwoorden die zeker fout zijn",
+      "Proefvragen (vraag 55-60) gaan over blinde stijlherkenning van wijnen",
+      "Minimaal 2 van de 6 proefvragen goed is verplicht om te slagen"
+    ]
+  },
+  "questions": [
+    {
+      "id": "oe_001",
+      "category": "wijnbouw",
+      "difficulty": "medium",
+      "topic": "Wijnstok & Teelt",
+      "question": "De Europese wijnstok waarvan de meeste wijnen worden gemaakt, behoort tot welke soort?",
+      "options": [
+        "Vitis Labrusca",
+        "Vitis Vinifera",
+        "Vitis Riparia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vitis Vinifera is de Europees-Aziatische wijnstok die verantwoordelijk is voor vrijwel alle kwaliteitswijnen. Vitis Labrusca is een Amerikaanse soort, Vitis Riparia wordt vaak als onderstam gebruikt.",
+      "tags": ["wijnstok", "druivenras", "vitis_vinifera"]
+    },
+    {
+      "id": "oe_002",
+      "category": "wijnbouw",
+      "difficulty": "medium",
+      "topic": "Wijnstok & Teelt",
+      "question": "Welke catastrofale ziekte teisterde de Europese wijngaarden in de tweede helft van de 19e eeuw?",
+      "options": [
+        "Echte meeldauw (Oidium)",
+        "Druifluis (Phylloxera)",
+        "Valse meeldauw (Peronospora)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De druifluis (Phylloxera vastatrix) vernietigde in de late 19e eeuw grote delen van de Europese wijngaarden. De oplossing was het enten van Vitis Vinifera op Amerikaanse onderstammen die resistent zijn tegen de luis.",
+      "tags": ["wijnbouw", "ziekten", "phylloxera"]
+    },
+    {
+      "id": "oe_003",
+      "category": "wijnbouw",
+      "difficulty": "hard",
+      "topic": "Terroir & Klimaat",
+      "question": "Wat wordt bedoeld met de term 'terroir' in de wijnbouw?",
+      "options": [
+        "Alleen de bodemsoort waarop de wijnstokken groeien",
+        "Het unieke samenspel van bodem, klimaat, ligging en menselijke factoren",
+        "De hoeveelheid zonuren die een wijngaard per jaar ontvangt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Terroir omvat alles wat de groeiomstandigheden van de wijnstok beïnvloedt: bodem, klimaat (microklimaat), ligging (hoogte, helling, oriëntatie) en menselijke factoren zoals traditie en wijnbereiding. Het is dus veel meer dan alleen de bodem.",
+      "tags": ["terroir", "wijnbouw", "bodem"]
+    },
+    {
+      "id": "oe_004",
+      "category": "wijnbouw",
+      "difficulty": "easy",
+      "topic": "Druivenrassen",
+      "question": "Welke druif is een blauw druivenras?",
+      "options": [
+        "Riesling",
+        "Sauvignon Blanc",
+        "Cabernet Sauvignon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cabernet Sauvignon is een blauw druivenras, gebruikt voor rode wijn. Riesling en Sauvignon Blanc zijn witte druivenrassen.",
+      "tags": ["druiven", "blauw", "wit"]
+    },
+    {
+      "id": "oe_005",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "topic": "Basis Vinificatie",
+      "question": "Wanneer vindt het persen van de druiven plaats bij de vinificatie van droge witte wijn?",
+      "options": [
+        "Na de gisting",
+        "Voor de gisting",
+        "Tijdens de gisting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bij witte wijn worden de druiven eerst geperst, waarna alleen het sap vergist wordt. De schillen worden verwijderd voor de gisting om te voorkomen dat er te veel kleur, tannine en bitterheid in de wijn komt.",
+      "tags": ["vinificatie", "witte_wijn", "persen"]
+    },
+    {
+      "id": "oe_006",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "topic": "Malolactische Gisting",
+      "question": "Wat vindt er plaats tijdens de malolactische gisting (BSA)?",
+      "options": [
+        "Suiker wordt omgezet in alcohol en CO₂",
+        "Appelzuur wordt omgezet in het mildere melkzuur",
+        "Wijnsteenzuur wordt omgezet in melkzuur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tijdens de malolactische gisting (bacteriële secundaire alcoholische gisting) wordt hard appelzuur omgezet in zachter melkzuur. Dit verlaagt de totale zuurgraad en geeft een romiger mondgevoel. Het is standaard bij rode wijnen en optioneel bij witte wijnen zoals Chardonnay.",
+      "tags": ["vinificatie", "malolactisch", "melkzuur"]
+    },
+    {
+      "id": "oe_007",
+      "category": "vinificatie",
+      "difficulty": "easy",
+      "topic": "Gisting",
+      "question": "Waarom is gist essentieel bij het maken van wijn?",
+      "options": [
+        "Gist zet zuurstof om in alcohol",
+        "Gist zet suikers om in alcohol en koolzuurgas",
+        "Gist zet water om in alcohol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gist (Saccharomyces cerevisiae) zet de natuurlijke suikers in druivenmost om in alcohol en koolzuurgas. Dit proces heet alcoholische gisting of fermentatie.",
+      "tags": ["gisting", "gist", "alcohol"]
+    },
+    {
+      "id": "oe_008",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "topic": "Houtrijping",
+      "question": "Welk effect heeft rijping in nieuwe eikenhouten vaten op rode wijn?",
+      "options": [
+        "Het maakt de wijn fruitiger en lichter",
+        "Het voegt tannines en aroma's van vanille, kruiden en toast toe",
+        "Het verlaagt het alcoholpercentage van de wijn"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rijping in nieuw eikenhout geeft tannines, vanille-, kruidnagel- en toastaroma's aan de wijn. Het hout laat ook langzaam zuurstof door (micro-oxygenatie), wat de tannines verzacht en de wijn complexer maakt.",
+      "tags": ["vinificatie", "houtrijping", "eiken"]
+    },
+    {
+      "id": "oe_009",
+      "category": "vinificatie",
+      "difficulty": "hard",
+      "topic": "Mousserende Wijn",
+      "question": "Welke methode wordt gebruikt voor de productie van Champagne en Crémant?",
+      "options": [
+        "Charmat-methode (tankmethode)",
+        "Méthode traditionelle (traditionele methode)",
+        "Ancestrale methode"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Champagne en Crémant worden gemaakt volgens de méthode traditionelle (voorheen méthode champenoise). De tweede gisting vindt plaats op fles, waarna de gistcellen worden verwijderd door riddling en dégorgement. Bij de Charmat-methode (o.a. Prosecco) vindt de tweede gisting plaats in een drukvat.",
+      "tags": ["mousserend", "champagne", "methode_traditionelle"]
+    },
+    {
+      "id": "oe_010",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "topic": "Assemblage",
+      "question": "Wat verstaat men onder 'assemblage' bij wijnbereiding?",
+      "options": [
+        "Het mengen van verschillende druivenrassen tot een blend",
+        "Het overhevelen van wijn van het ene vat naar het andere",
+        "Het toevoegen van sulfiet aan de wijn"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Assemblage is het mengen van verschillende druivenrassen tot één wijn. Dit wordt veel toegepast in Bordeaux (bv. Cabernet Sauvignon + Merlot), de Rhône (Grenache + Syrah + Mourvèdre) en Champagne (Chardonnay + Pinot Noir + Pinot Meunier).",
+      "tags": ["vinificatie", "assemblage", "blend"]
+    },
+    {
+      "id": "oe_011",
+      "category": "vinificatie",
+      "difficulty": "hard",
+      "topic": "Versterkte Wijn",
+      "question": "Op welk moment wordt alcohol toegevoegd aan port om de gisting te stoppen?",
+      "options": [
+        "Voor de gisting begint",
+        "Tijdens de gisting, als er nog restsuiker aanwezig is",
+        "Na volledige vergisting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bij port wordt neutrale alcohol (aguardente) toegevoegd tijdens de gisting, wanneer ongeveer de helft van de suikers is omgezet. De alcohol doodt de gistcellen, waardoor de gisting stopt en er natuurlijke restsuiker (rond 100 g/l) in de wijn achterblijft. Dit geeft port zijn kenmerkende zoete karakter en hoge alcoholpercentage (19-21%).",
+      "tags": ["port", "versterkt", "gisting"]
+    },
+    {
+      "id": "oe_012",
+      "category": "vinificatie",
+      "difficulty": "medium",
+      "topic": "Maceratie",
+      "question": "Waarom worden bij rode wijn de druivenschillen tijdens de gisting in het sap gelaten?",
+      "options": [
+        "Om het alcoholpercentage te verhogen",
+        "Om kleur, tannines en smaakstoffen uit de schillen te extraheren",
+        "Om de gisting te versnellen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bij rode wijn vindt maceratie plaats: de schillen blijven tijdens de gisting in contact met het sap om kleur (anthocyanen), tannines en aromastoffen te extraheren. Hoe langer de maceratie, hoe intenser de kleur en structuur van de wijn.",
+      "tags": ["vinificatie", "rode_wijn", "maceratie"]
+    },
+    {
+      "id": "oe_013",
+      "category": "frankrijk",
+      "difficulty": "medium",
+      "topic": "Bordeaux",
+      "question": "Welk druivenras domineert de rode blends op de Linkeroever van Bordeaux (Médoc)?",
+      "options": [
+        "Merlot",
+        "Cabernet Sauvignon",
+        "Cabernet Franc"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Op de Linkeroever (Médoc, Graves) domineert Cabernet Sauvignon vanwege de goed drainerende kiezelbodems. Op de Rechteroever (Pomerol, Saint-Émilion) domineert Merlot vanwege de kleibodems.",
+      "tags": ["bordeaux", "cabernet_sauvignon", "linkeroever"]
+    },
+    {
+      "id": "oe_014",
+      "category": "frankrijk",
+      "difficulty": "medium",
+      "topic": "Bordeaux Classificatie",
+      "question": "In welk jaar vond de beroemde classificatie van de Médoc plaats?",
+      "options": [
+        "1855",
+        "1900",
+        "1789"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De classificatie van 1855 werd opgesteld voor de Wereldtentoonstelling in Parijs. Vijf Premier Grands Crus Classés werden aangewezen: Château Lafite-Rothschild, Château Latour, Château Margaux, Château Haut-Brion en Château Mouton-Rothschild (pas in 1973 gepromoveerd).",
+      "tags": ["bordeaux", "classificatie", "1855"]
+    },
+    {
+      "id": "oe_015",
+      "category": "frankrijk",
+      "difficulty": "easy",
+      "topic": "Bourgogne",
+      "question": "In welke Franse regio ligt de wijnstreek Chablis?",
+      "options": [
+        "Bordeaux",
+        "Bourgogne",
+        "Loire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chablis ligt in het noordelijkste deel van de Bourgogne en produceert uitsluitend witte wijn van de Chardonnay-druif. De wijnen staan bekend om hun minerale, frisse karakter door de Kimmeridge-kleibodems.",
+      "tags": ["bourgogne", "chablis", "chardonnay"]
+    },
+    {
+      "id": "oe_016",
+      "category": "frankrijk",
+      "difficulty": "medium",
+      "topic": "Bourgogne",
+      "question": "Pouilly-Fuissé is een appellation in welke regio?",
+      "options": [
+        "Champagne",
+        "Bourgogne",
+        "Loire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pouilly-Fuissé is een appellation in de Mâconnais, het zuidelijkste deel van de Bourgogne. Het produceert witte wijn van 100% Chardonnay. Verwar het niet met Pouilly-Fumé (Loire, Sauvignon Blanc).",
+      "tags": ["bourgogne", "pouilly_fuisse", "mâconnais"]
+    },
+    {
+      "id": "oe_017",
+      "category": "frankrijk",
+      "difficulty": "medium",
+      "topic": "Rhône",
+      "question": "Welke druiven zijn kenmerkend voor de Zuid-Rhône?",
+      "options": [
+        "Merlot, Cabernet Sauvignon en Malbec",
+        "Grenache, Syrah en Mourvèdre",
+        "Pinot Noir, Chardonnay en Gamay"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De Zuid-Rhône staat bekend om zijn GSM-blend: Grenache, Syrah en Mourvèdre. Grenache is vaak dominant vanwege zijn hitte- en droogtetolerantie. Bekende appellations zijn Châteauneuf-du-Pape (waar 13 druivenrassen zijn toegestaan) en Côtes du Rhône.",
+      "tags": ["rhône", "grenache", "syrah"]
+    },
+    {
+      "id": "oe_018",
+      "category": "frankrijk",
+      "difficulty": "hard",
+      "topic": "Noord-Rhône",
+      "question": "Welk druivenras is dominant in de Noord-Rhône appellation Côte-Rôtie?",
+      "options": [
+        "Merlot",
+        "Syrah",
+        "Grenache"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Côte-Rôtie in de Noord-Rhône produceert wijn van 100% Syrah (soms met een kleine toevoeging van Viognier). De steile, terrasvormige wijngaarden liggen op het zuidoosten, wat optimale zoninstraling geeft. De wijnen zijn elegant met aroma's van violet, framboos en peper.",
+      "tags": ["rhône", "cote_rotie", "syrah"]
+    },
+    {
+      "id": "oe_019",
+      "category": "frankrijk",
+      "difficulty": "easy",
+      "topic": "Loire",
+      "question": "In welk wijngebied ligt de wijnstreek Touraine?",
+      "options": [
+        "Bordeaux",
+        "Loire",
+        "Champagne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Touraine is een appellation in het centrale deel van de Loire-vallei. De Loire produceert een breed scala aan wijnen: van droge witte wijnen (Sancerre, Vouvray) tot zoete wijnen (Coteaux du Layon) en rosé- en rode wijnen (Chinon, Bourgueil).",
+      "tags": ["loire", "touraine", "frankrijk"]
+    },
+    {
+      "id": "oe_020",
+      "category": "frankrijk",
+      "difficulty": "medium",
+      "topic": "Loire",
+      "question": "Welke druif is voorgeschreven voor de witte wijnen van Vouvray?",
+      "options": [
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Chenin Blanc"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vouvray in de Loire produceert wijn van 100% Chenin Blanc (ook wel Pineau de la Loire genoemd). Chenin Blanc kan alle stijlen produceren: van droog tot zoet en mousserend, afhankelijk van de oogstomstandigheden en vinificatiemethode.",
+      "tags": ["loire", "vouvray", "chenin_blanc"]
+    },
+    {
+      "id": "oe_021",
+      "category": "frankrijk",
+      "difficulty": "medium",
+      "topic": "Champagne",
+      "question": "Welke drie druivenrassen zijn toegestaan voor de productie van Champagne?",
+      "options": [
+        "Chardonnay, Sauvignon Blanc en Sémillon",
+        "Chardonnay, Pinot Noir en Pinot Meunier",
+        "Pinot Noir, Gamay en Chardonnay"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De drie toegestane druivenrassen voor Champagne zijn: Chardonnay (wit), Pinot Noir (blauw) en Pinot Meunier (blauw). Blanc de Blancs is 100% Chardonnay, Blanc de Noirs is 100% blauwe druiven. De meeste champagnes zijn een blend van alle drie.",
+      "tags": ["champagne", "druiven", "mousserend"]
+    },
+    {
+      "id": "oe_022",
+      "category": "frankrijk",
+      "difficulty": "hard",
+      "topic": "Champagne",
+      "question": "Hoeveel maanden moet een non-vintage Champagne minimaal rijpen op de gistcellen?",
+      "options": [
+        "12 maanden",
+        "15 maanden",
+        "24 maanden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Non-vintage Champagne moet minimaal 15 maanden op de gistcellen rijpen (sur latte), waarvan 12 maanden na de dégorgement. Vintage Champagne moet minimaal 36 maanden rijpen.",
+      "tags": ["champagne", "rijping", "wetgeving"]
+    },
+    {
+      "id": "oe_023",
+      "category": "frankrijk",
+      "difficulty": "easy",
+      "topic": "Elzas",
+      "question": "Welk wit druivenras is het meest aangeplant in de Elzas?",
+      "options": [
+        "Riesling",
+        "Gewürztraminer",
+        "Pinot Gris"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Riesling is het meest aangeplante witte druivenras in de Elzas, gevolgd door Gewürztraminer, Pinot Gris, Pinot Blanc en Muscat. Elzaswijnen worden vaak op fles gebracht onder de naam van het druivenras.",
+      "tags": ["elzas", "riesling", "frankrijk"]
+    },
+    {
+      "id": "oe_024",
+      "category": "frankrijk",
+      "difficulty": "medium",
+      "topic": "Franse wijnwetgeving",
+      "question": "Welke witte druiven zijn verantwoordelijk voor de witte wijnen van Bordeaux?",
+      "options": [
+        "Chardonnay, Chenin Blanc en Muscadelle",
+        "Sauvignon Blanc, Sémillon en Muscadelle",
+        "Sauvignon Blanc, Chardonnay en Sémillon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De witte Bordeaux-blend bestaat uit Sauvignon Blanc (frisheid, citrus), Sémillon (volheid, wasachtig, botrytis) en Muscadelle (bloemige aroma's). Sauternes (zoete wijn) is voornamelijk Sémillon met Sauvignon Blanc, aangetast door edele rotting (Botrytis cinerea).",
+      "tags": ["bordeaux", "wit", "assemblage"]
+    },
+    {
+      "id": "oe_025",
+      "category": "italie",
+      "difficulty": "medium",
+      "topic": "Piemonte",
+      "question": "Van welk druivenras wordt Barolo gemaakt?",
+      "options": [
+        "Sangiovese",
+        "Nebbiolo",
+        "Barbera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Barolo wordt gemaakt van 100% Nebbiolo. Deze 'Koning der Wijnen' komt uit Piemonte en staat bekend om zijn lichte kleur, hoge tannines, hoge zuurgraad en aroma's van rozen, teer en kersen. Barolo moet minimaal 38 maanden rijpen (waarvan 18 in hout) en Riserva 62 maanden.",
+      "tags": ["italie", "nebbiolo", "barolo"]
+    },
+    {
+      "id": "oe_026",
+      "category": "italie",
+      "difficulty": "medium",
+      "topic": "Toscane",
+      "question": "Uit welke DOCG komt Brunello di Montalcino?",
+      "options": [
+        "Veneto",
+        "Toscane",
+        "Piemonte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brunello di Montalcino is een DOCG uit Toscane, gemaakt van 100% Sangiovese (lokaal Brunello genoemd). De wijn moet minimaal 4 jaar rijpen (waarvan 2 in eikenhout) en minimaal 5 jaar voor Riserva. Het is een van de meest prestigieuze Italiaanse wijnen.",
+      "tags": ["italie", "toscane", "brunello"]
+    },
+    {
+      "id": "oe_027",
+      "category": "italie",
+      "difficulty": "hard",
+      "topic": "Veneto",
+      "question": "Welk bijzonder droogproces wordt gebruikt voor de productie van Amarone della Valpolicella?",
+      "options": [
+        "Passimento (appassimento) — het drogen van druiven op matten",
+        "Cryo-extractie — het invriezen van de druiven",
+        "Botrytisering — edele rotting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Amarone wordt gemaakt via het appassimento-proces: de druiven (Corvina, Rondinella, Molinara) worden na de oogst 3-4 maanden gedroogd op fruttaio's (droogrekken). Dit concentreert de suikers en smaken. Na het persen ontstaat een krachtige, volle rode wijn met 15-17% alcohol. Recieto is de zoete variant.",
+      "tags": ["italie", "amarone", "appassimento"]
+    },
+    {
+      "id": "oe_028",
+      "category": "italie",
+      "difficulty": "easy",
+      "topic": "Italiaanse Classificatie",
+      "question": "Wat is de hoogste Italiaanse wijnclassificatie?",
+      "options": [
+        "DOC",
+        "DOCG",
+        "IGT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DOCG (Denominazione di Origine Controllata e Garantita) is de hoogste Italiaanse classificatie, met strengere regels dan DOC (Denominazione di Origine Controllata). IGT (Indicazione Geografica Tipica) is flexibeler en wordt vaak gebruikt voor Super Tuscans.",
+      "tags": ["italie", "classificatie", "DOCG"]
+    },
+    {
+      "id": "oe_029",
+      "category": "italie",
+      "difficulty": "medium",
+      "topic": "Italiaanse Wijnregio's",
+      "question": "Uit welke Italiaanse regio komt de wijn Orvieto?",
+      "options": [
+        "Veneto",
+        "Umbrië",
+        "Emilia-Romagna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Orvieto is een DOC-wijn uit Umbrië (midden-Italië). Het is een witte wijn gemaakt van Grechetto, Trebbiano en andere lokale druiven. Orvieto kan droog (secco) of zoet (abboccato) zijn en staat bekend om zijn milde, fruitige karakter.",
+      "tags": ["italie", "umbrië", "orvieto"]
+    },
+    {
+      "id": "oe_030",
+      "category": "italie",
+      "difficulty": "hard",
+      "topic": "Zuid-Italië",
+      "question": "Welk Siciliaans druivenras wordt gebruikt voor de productie van de gelijknamige rode wijn?",
+      "options": [
+        "Primitivo",
+        "Nero d'Avola",
+        "Aglianico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nero d'Avola is het belangrijkste blauwe druivenras van Sicilië en produceert krachtige, fruitige rode wijnen met aroma's van zwarte kersen en kruiden. Primitivo komt vooral uit Puglia, Aglianico uit Campanië en Basilicata.",
+      "tags": ["italie", "sicilië", "nero_davola"]
+    },
+    {
+      "id": "oe_031",
+      "category": "spanje_portugal",
+      "difficulty": "easy",
+      "topic": "Spanje — Classificatie",
+      "question": "Welk Spaans wijngebied heeft de DOCa-status (hoogste kwalificatie)?",
+      "options": [
+        "Ribera del Duero",
+        "Rioja",
+        "Rueda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rioja heeft als een van de twee Spaanse wijngebieden (samen met Priorat) de DOCa-status (Denominación de Origen Calificada). DOCa is de hoogste Spaanse classificatie, met strengere eisen dan DO.",
+      "tags": ["spanje", "rioja", "DOCa"]
+    },
+    {
+      "id": "oe_032",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "topic": "Spanje — Regio's",
+      "question": "Welke druif is dominant in de Spaanse wijnstreek Ribera del Duero?",
+      "options": [
+        "Garnacha",
+        "Tempranillo",
+        "Monastrell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Ribera del Duero wordt Tempranillo lokaal 'Tinto Fino' of 'Tinta del País' genoemd. De wijnen zijn krachtiger en donkerder dan Rioja vanwege het hogere klimaat (700-850m hoogte).",
+      "tags": ["spanje", "tempranillo", "ribera"]
+    },
+    {
+      "id": "oe_033",
+      "category": "spanje_portugal",
+      "difficulty": "hard",
+      "topic": "Sherry",
+      "question": "Wat is het fundamentele verschil tussen biologische rijping (Fino) en oxidatieve rijping (Oloroso) bij Sherry?",
+      "options": [
+        "Fino rijpingstijd is korter dan Oloroso",
+        "Fino rijpt onder een flor-gistlaag, Oloroso zonder flor met zuurstofcontact",
+        "Fino wordt gemaakt van Palomino, Oloroso van Pedro Ximénez"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fino rijpt biologisch onder een flor (gistlaag) die de wijn beschermt tegen oxidatie en ziltige, amandelachtige aroma's geeft. Oloroso rijpt oxidatief zonder flor, met direct zuurstofcontact, wat noten-, karamel- en kruidige tonen ontwikkelt. Beide worden van Palomino gemaakt.",
+      "tags": ["sherry", "flor", "oxidatie"]
+    },
+    {
+      "id": "oe_034",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "topic": "Port",
+      "question": "Wat is het alcoholpercentage van een Ruby Port?",
+      "options": [
+        "11-13%",
+        "15-17%",
+        "19-21%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Port heeft een alcoholpercentage van 19-21% omdat de gisting wordt gestopt door toevoeging van neutrale alcohol (aguardente). Ruby Port is een jonge, fruitige port die kort in beton of rvs heeft gerijpt. Tawny Port rijpt langer in hout en krijgt een bruinige, nootachtige stijl.",
+      "tags": ["port", "versterkt", "alcohol"]
+    },
+    {
+      "id": "oe_035",
+      "category": "spanje_portugal",
+      "difficulty": "medium",
+      "topic": "Madeira",
+      "question": "Welk type Madeira is het zoetst?",
+      "options": [
+        "Sercial",
+        "Bual",
+        "Malvasia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Malvasia (ook wel Malmsey) is de zoetste Madeira-stijl, gevolgd door Bual (halfzoet) en Verdelho (halfdroog). Sercial is de droogste Madeira-stijl. De zoetheidsgraad wordt bepaald door het moment waarop de gisting wordt gestopt.",
+      "tags": ["madeira", "versterkt", "zoetheid"]
+    },
+    {
+      "id": "oe_036",
+      "category": "spanje_portugal",
+      "difficulty": "easy",
+      "topic": "Portugal",
+      "question": "In welk Portugees wijngebied worden de druiven voor Port verbouwd?",
+      "options": [
+        "Dão",
+        "Douro",
+        "Alentejo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Port wordt uitsluitend geproduceerd in de Douro-vallei, een van de oudste afgebakende wijngebieden ter wereld (1756). De steile leisteenhellingen langs de rivier de Douro bieden unieke groeiomstandigheden voor de portdruiven (Touriga Nacional, Touriga Franca, Tinta Roriz e.a.).",
+      "tags": ["port", "douro", "portugal"]
+    },
+    {
+      "id": "oe_037",
+      "category": "duitsland",
+      "difficulty": "medium",
+      "topic": "Duitse Classificatie",
+      "question": "Wat betekent 'Qualitätswein mit Prädikat' (QmP) in Duitsland?",
+      "options": [
+        "Kwaliteitswijn met toevoegingen zoals suiker",
+        "Kwaliteitswijn met een speciale eigenschap op basis van mostgewicht",
+        "Tafelwijn van hoge kwaliteit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "QmP (tegenwoordig Prädikatswein) is de hoogste Duitse wijnclassificatie. De indeling is gebaseerd op het mostgewicht (Oechsle-graden): Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese en Eiswein. Hoe hoger het mostgewicht, hoe zoeter potentieel de wijn.",
+      "tags": ["duitsland", "classificatie", "prädikat"]
+    },
+    {
+      "id": "oe_038",
+      "category": "duitsland",
+      "difficulty": "medium",
+      "topic": "Duitse Regio's",
+      "question": "In welk Duits wijngebied staan de meeste wijnstokken aangeplant op steile hellingen langs de rivier?",
+      "options": [
+        "Rheingau",
+        "Mosel",
+        "Pfalz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De Moezel (Mosel) staat bekend om zijn extreem steile leisteenhellingen langs de rivier, met hellingsgraden tot 70%. Deze hellingen vangen maximaal zonlicht op en de leisteenbodem houdt warmte vast. Riesling is dominant. De steilste wijngaarden behoren tot de duurste ter wereld om te bewerken.",
+      "tags": ["duitsland", "mosel", "riesling"]
+    },
+    {
+      "id": "oe_039",
+      "category": "duitsland",
+      "difficulty": "hard",
+      "topic": "Oostenrijk",
+      "question": "Welke classificatie gebruikt de Oostenrijkse wijnregio Wachau voor zijn wijnen?",
+      "options": [
+        "Steinfeder, Federspiel, Smaragd",
+        "Kabinett, Spätlese, Auslese",
+        "Classic, Reserve, Grande Reserve"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De Wachau (Oostenrijk) gebruikt een eigen classificatie voor droge wijnen: Steinfeder (licht, max 11,5%), Federspiel (medium, 11,5-12,5%) en Smaragd (vol, min 12,5%). Smaragd is de hoogste categorie, genoemd naar de hagedis (smaragd) die op de warme terrassen leeft.",
+      "tags": ["oostenrijk", "wachau", "classificatie"]
+    },
+    {
+      "id": "oe_040",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "topic": "Australië",
+      "question": "In welk land vind je de wijnstreek Margaret River?",
+      "options": [
+        "Nieuw-Zeeland",
+        "Australië",
+        "Zuid-Afrika"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Margaret River ligt in West-Australië, ongeveer 3 uur ten zuiden van Perth. Het staat bekend om zijn hoogwaardige Cabernet Sauvignon, Chardonnay, Sauvignon Blanc en Sémillon. Het maritieme klimaat is ideaal voor wijnbouw.",
+      "tags": ["australië", "margaret_river", "nieuwe_wereld"]
+    },
+    {
+      "id": "oe_041",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "topic": "Nieuw-Zeeland",
+      "question": "Welke druif is dominant in Marlborough, Nieuw-Zeeland?",
+      "options": [
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Pinot Noir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Marlborough op het Zuidereiland van Nieuw-Zeeland is wereldberoemd om zijn Sauvignon Blanc, met kenmerkende aroma's van passievrucht, grapefruit en vers gemaaid gras. Het koel-maritieme klimaat met veel zonuren geeft intense, frisse wijnen.",
+      "tags": ["nieuw_zeeland", "sauvignon_blanc", "marlborough"]
+    },
+    {
+      "id": "oe_042",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "topic": "Zuid-Afrika",
+      "question": "In welk land vind je de wijnstreek Robertson?",
+      "options": [
+        "Australië",
+        "Zuid-Afrika",
+        "Chili"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robertson is een wijnstreek in Zuid-Afrika, in de West-Kaap (Western Cape), ongeveer 150 km ten noordoosten van Kaapstad. Het staat bekend om zijn Chardonnay en de zoete wijn van Muscat de Frontignan.",
+      "tags": ["zuid_afrika", "robertson", "nieuwe_wereld"]
+    },
+    {
+      "id": "oe_043",
+      "category": "nieuwe_wereld",
+      "difficulty": "easy",
+      "topic": "Chili",
+      "question": "Welke druif is in Chili uitgegroeid tot een ware specialiteit?",
+      "options": [
+        "Malbec",
+        "Carmenère",
+        "Merlot"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carmenère is de signatuurdruif van Chili. Het werd lange tijd verward met Merlot, maar is in 1994 'herontdekt' als eigen ras. Chileense Carmenère geeft wijnen met aroma's van zwarte kersen, groene paprika en chocolade, met zachte tannines.",
+      "tags": ["chili", "carmenere", "nieuwe_wereld"]
+    },
+    {
+      "id": "oe_044",
+      "category": "nieuwe_wereld",
+      "difficulty": "hard",
+      "topic": "Argentinië",
+      "question": "In welk Argentijns wijngebied liggen de wijngaarden op de hoogste hoogte ter wereld?",
+      "options": [
+        "Mendoza",
+        "Salta",
+        "Patagonië"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Salta (Calchaquí-vallei) in Noordwest-Argentinië heeft wijngaarden op 1500-3000 meter hoogte, de hoogste ter wereld. De grote temperatuurverschillen tussen dag en nacht geven de druiven een goede zuurgraad en intense aroma's. Mendoza is het grootste gebied, maar ligt lager (600-1500m).",
+      "tags": ["argentinie", "salta", "nieuwe_wereld"]
+    },
+    {
+      "id": "oe_045",
+      "category": "nieuwe_wereld",
+      "difficulty": "medium",
+      "topic": "Verenigde Staten",
+      "question": "Welke druif is dominant in Napa Valley, Californië?",
+      "options": [
+        "Merlot",
+        "Cabernet Sauvignon",
+        "Zinfandel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cabernet Sauvignon is de koning van Napa Valley, verantwoordelijk voor de beroemdste en duurste wijnen. Napa's mediterrane klimaat, gevarieerde bodems en innoverende wijnbouw geven krachtige, geconcentreerde Cabernets met rijpe tannines en aroma's van zwarte bessen, ceder en eikenhout.",
+      "tags": ["vs", "napa", "cabernet"]
+    },
+    {
+      "id": "oe_046",
+      "category": "wetgeving",
+      "difficulty": "easy",
+      "topic": "EU-etikettering",
+      "question": "Welke twee gegevens moeten op ieder wijnetiket in de EU staan?",
+      "options": [
+        "Druivenras en oogstjaar",
+        "Inhoud en alcoholpercentage",
+        "Smaakomschrijving en bewaaradvies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Verplichte vermeldingen op een EU-wijnetiket zijn: inhoud (cl), alcoholpercentage, herkomst, producent/bottelaar, en eventuele allergeeninformatie (sulfiet). Druivenras en oogstjaar zijn verplicht als ze worden vermeld, maar niet verplicht om te vermelden.",
+      "tags": ["wetgeving", "etikettering", "EU"]
+    },
+    {
+      "id": "oe_047",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "topic": "EU-classificatie",
+      "question": "Wat is het verschil tussen PDO (BOB) en PGI (BGA) in de EU-wijnwetgeving?",
+      "options": [
+        "PDO is strenger: alle druiven moeten uit het gebied komen; PGI is flexibeler met min. 85% uit het gebied",
+        "PGI is strenger dan PDO",
+        "PDO en PGI zijn identiek, alleen de naam verschilt per land"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PDO (Protected Designation of Origin, BOB = Beschermde Oorsprongsbenaming) vereist dat alle productiestappen in het genoemde gebied plaatsvinden. PGI (Protected Geographical Indication, BGA = Beschermde Geografische Aanduiding) is flexibeler: minimaal 85% van de druiven moet uit het gebied komen.",
+      "tags": ["wetgeving", "PDO", "PGI"]
+    },
+    {
+      "id": "oe_048",
+      "category": "wetgeving",
+      "difficulty": "medium",
+      "topic": "Duitse Classificatie",
+      "question": "Wat betekent 'VDP Grosse Lage' in Duitsland?",
+      "options": [
+        "Een wijngaard van de hoogste kwaliteit, vergelijkbaar met Grand Cru",
+        "Een regionale wijn van lage kwaliteit",
+        "Een wijn die met suiker is versterkt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "VDP (Verband Deutscher Prädikatsweingüter) is een privévereniging van topwijnproducenten. Grosse Lage is hun hoogste classificatie voor de beste wijngaarden, vergelijkbaar met Grand Cru in Bourgogne. Daaronder vallen: Erste Lage (Premier Cru) en Gutswein (domeinwijn).",
+      "tags": ["duitsland", "VDP", "classificatie"]
+    },
+    {
+      "id": "oe_049",
+      "category": "wetgeving",
+      "difficulty": "hard",
+      "topic": "Franse Classificatie",
+      "question": "Wat is het verschil tussen een AOC en een IGP in Frankrijk?",
+      "options": [
+        "AOC heeft strengere productieregels; IGP is flexibeler met minder beperkingen",
+        "AOC is voor rode wijn, IGP voor witte wijn",
+        "AOC en IGP zijn synoniemen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "AOC (Appellation d'Origine Contrôlée) heeft de strengste regels: maximaal toegestane opbrengst, verplichte druivenrassen, minimale alcohol, herkomstgebied. IGP (Indication Géographique Protégée, voorheen Vin de Pays) heeft meer vrijheid in druivenkeuze en opbrengst, maar garandeert nog steeds regionale herkomst.",
+      "tags": ["wetgeving", "AOC", "IGP"]
+    },
+    {
+      "id": "oe_050",
+      "category": "wijnfouten",
+      "difficulty": "medium",
+      "topic": "Wijnfouten",
+      "question": "Wat wordt bedoeld met 'kurk' in de wijn (cork taint)?",
+      "options": [
+        "Er zitten stukjes kurk in de wijn",
+        "De wijn heeft een fout door TCA (trichlooranisol), wat een muffe, natte karton geur geeft",
+        "De wijn heeft te lang in de fles gelegen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kurk (cork taint) wordt veroorzaakt door TCA (trichlooranisol), een chemische stof die kan ontstaan wanneer natuurlijke kurk in contact komt met schimmels en chloorhoudende schoonmaakmiddelen. De wijn krijgt een muffe geur van nat karton of een vochtige kelder. Het is een wijnfout, niet hetzelfde als stukjes kurk in de wijn.",
+      "tags": ["wijnfouten", "kurk", "TCA"]
+    },
+    {
+      "id": "oe_051",
+      "category": "wijnfouten",
+      "difficulty": "easy",
+      "topic": "Wijnfouten",
+      "question": "Wat wordt bedoeld met de term 'azijnsteek'?",
+      "options": [
+        "Het toevoegen van azijn aan de wijn voor de smaak",
+        "Een wijnfout waarbij de wijn naar azijn ruikt en smaakt",
+        "Een speciale azijn die bij wijn wordt geserveerd"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Azijnsteek (of 'picque acétique') is een wijnfout veroorzaakt door azijnzuurbacteriën (Acetobacter) die alcohol omzetten in azijnzuur. De wijn ruikt en smaakt naar azijn. Het ontstaat door te veel zuurstofcontact. Preventie: goede hygiëne en minimale blootstelling aan zuurstof.",
+      "tags": ["wijnfouten", "azijnsteek", "bacteriën"]
+    },
+    {
+      "id": "oe_052",
+      "category": "wijnfouten",
+      "difficulty": "hard",
+      "topic": "Wijnkwaliteit",
+      "question": "Welke stof in rode wijn zorgt voor een lange houdbaarheid en een droog mondgevoel?",
+      "options": [
+        "Gist",
+        "Tannine",
+        "Suiker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tannines zijn polyfenolen uit druivenschillen, pitten en steeltjes, en uit eikenhouten vaten. Ze geven structuur en een droog, wrang mondgevoel. Tannines werken als natuurlijke antioxidanten en conserveringsmiddelen, waardoor ze bijdragen aan de bewaarpotentie van rode wijn.",
+      "tags": ["wijnkwaliteit", "tannine", "rode_wijn"]
+    },
+    {
+      "id": "oe_053",
+      "category": "serveren",
+      "difficulty": "easy",
+      "topic": "Serveren",
+      "question": "Hoe noemt men het op de juiste drinktemperatuur brengen van wijn?",
+      "options": [
+        "Decanteren",
+        "Chambreren",
+        "Aereren"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chambreren betekent het op de juiste temperatuur brengen van wijn. Historisch kwam het van 'chambre' (kamer): wijn uit de koele kelder naar de kamer brengen. Tegenwoordig betekent het: wijn op de optimale drinktemperatuur brengen, of dat nu koelen of opwarmen is.",
+      "tags": ["serveren", "temperatuur", "chambreren"]
+    },
+    {
+      "id": "oe_054",
+      "category": "serveren",
+      "difficulty": "medium",
+      "topic": "Wijn & Spijs",
+      "question": "Welk glas is het meest geschikt voor het serveren van Champagne?",
+      "options": [
+        "Een brede bokaal (bolglas)",
+        "Een fluitglas (smal, hoog)",
+        "Een klein likeurglas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Een fluitglas is het meest geschikt voor mousserende wijnen. De smalle vorm behoudt de koolzuurbellen en concentreert de aroma's naar de neus. Een breed bokaal laat de bubbels te snel ontsnappen. Tegenwoordig wordt ook een tulpvormig glas aanbevolen voor betere aroma-ontwikkeling.",
+      "tags": ["serveren", "champagne", "glas"]
+    },
+    {
+      "id": "oe_055",
+      "category": "serveren",
+      "difficulty": "hard",
+      "topic": "Wijn & Spijs",
+      "question": "Welk glas is het meest geschikt voor het serveren van een jonge Bordeaux?",
+      "options": [
+        "Een klein, smal glas",
+        "Een groot, tulpvormig glas met wijde opening",
+        "Een fluitglas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Een groot, tulpvormig glas met wijde opening is ideaal voor jonge Bordeaux. Het grote oppervlak laat de wijn ademen en de wijde opening brengt de wijn naar het voorste deel van de mond, waar zoetheid wordt waargenomen, wat de tannines verzacht.",
+      "tags": ["serveren", "glas", "bordeaux"]
+    },
+    {
+      "id": "oe_056",
+      "category": "serveren",
+      "difficulty": "medium",
+      "topic": "Wijn & Spijs",
+      "question": "Wat is de gouden regel voor wijn-spijs combinaties?",
+      "options": [
+        "Rode wijn bij vis, witte wijn bij vlees",
+        "Wijn en spijs moeten elkaar aanvullen of contrasteren qua intensiteit en smaken",
+        "Zoete wijn past altijd bij hartige gerechten"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De basisregel is: match de intensiteit. Lichte gerechten vragen om lichte wijnen, krachtige gerechten om krachtige wijnen. Daarnaast zijn er klassieke combinaties: wit bij vis, rood bij vlees, zoet bij dessert. Maar regionale traditie (lokale wijn bij lokaal eten) werkt vaak het beste.",
+      "tags": ["wijn_spijs", "serveren", "combinaties"]
+    },
+    {
+      "id": "oe_057",
+      "category": "overig",
+      "difficulty": "hard",
+      "topic": "Overig Europa",
+      "question": "Egri Bikavér (Stierenbloed) is een rode wijn uit welk land?",
+      "options": [
+        "Roemenië",
+        "Hongarije",
+        "Bulgarije"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Egri Bikavér ('Stierenbloed van Eger') komt uit Hongarije. Het is een blend van voornamelijk Kékfrankos (Blaufränkisch) en andere lokale druiven. De naam komt van een legende over de verdediging van het fort van Eger tegen de Ottomanen.",
+      "tags": ["hongarije", "eger", "overig_europa"]
+    },
+    {
+      "id": "oe_058",
+      "category": "overig",
+      "difficulty": "medium",
+      "topic": "Overig Europa",
+      "question": "Welk Grieks eiland staat bekend om zijn zoete wijn van de Muscat-druif?",
+      "options": [
+        "Crete (Kreta)",
+        "Santorini",
+        "Samos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Samos produceert een beroemde zoete wijn van Muscat à Petits Grains (Muscat Samos). De wijn heeft een VQPRD-status (vergelijkbaar met AOC). Santorini staat bekend om zijn droge witte wijn van Assyrtiko, Kreta om zijn rode wijnen van Kotsifali en Mandilari.",
+      "tags": ["griekenland", "samos", "muscat"]
+    },
+    {
+      "id": "oe_059",
+      "category": "proeven",
+      "difficulty": "hard",
+      "topic": "Proefvraag — Herkenning",
+      "question": "Welke wijn wordt omschreven als: 'lichte kleur, aroma's van rode bessen, rozen, teer en truffel, met hoge tannines en hoge zuurgraad'?",
+      "options": [
+        "Barolo (Nebbiolo)",
+        "Châteauneuf-du-Pape (Grenache-blend)",
+        "Richebourg (Pinot Noir)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De beschrijving past perfect bij Barolo van Nebbiolo: lichte granaatkleur (ondanks zijn kracht), kenmerkende rozen- en teeraroma's, hoge tannines en hoge zuurgraad. De truffel- en bessenaroma's komen met flesrijping. Dit is een typische proefvraag waarin stijlkenmerken worden herkend.",
+      "tags": ["proeven", "barolo", "herkenning"]
+    },
+    {
+      "id": "oe_060",
+      "category": "proeven",
+      "difficulty": "hard",
+      "topic": "Proefvraag — Herkenning",
+      "question": "Een wijn met aroma's van groene appel, citrus, mineralen en een hint van boter, gemaakt van Chardonnay, uit een koele klimaatregio. Om welke wijn kan dit gaan?",
+      "options": [
+        "Chablis Premier Cru",
+        "Sancerre (Sauvignon Blanc)",
+        "Pouilly-Fuissé"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chablis (Bourgogne) is 100% Chardonnay uit een koel klimaat, met kenmerkende mineraliteit door de Kimmeridge-kleibodems. De groene appel, citrus en de boterton (door malolactische gisting) zijn typisch. Sancerre is Sauvignon Blanc (kruidig, grapefruit). Pouilly-Fuissé is Chardonnay maar uit een warmer gebied (Mâconnais) met rijpere, tropischere aroma's.",
+      "tags": ["proeven", "chablis", "herkenning"]
+    }
+  ]
+}
