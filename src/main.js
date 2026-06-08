@@ -16,6 +16,7 @@ const app = document.getElementById("app");
 const state = {
   db: null,
   cardsById: {},
+  examDb: null,
   view: "loading",
   setup: { ...defaultSetup },
   progress: structuredClone(defaultProgress),
@@ -23,6 +24,7 @@ const state = {
   queueIndex: 0,
   answerRevealed: false,
   session: null,
+  examState: null,
 };
 
 function persist() {
@@ -282,6 +284,7 @@ function renderDashboard() {
           <button class="btn-ghost" data-action="start_mode" data-value="quick" ${stats.totalCards === 0 ? "disabled" : ""}>Random 12</button>
           <button class="btn-ghost" data-action="start_hard" ${hardMarked === 0 ? "disabled" : ""}>Moeilijke oefenen</button>
           <button class="btn-ghost" data-action="open_setup">Custom sessie</button>
+          <button class="btn-ghost" data-action="start_exam" ${state.examDb ? "" : "disabled"}>Oefenexamen 60</button>
         </div>
       </article>
 
@@ -493,6 +496,142 @@ function renderSummary() {
   `;
 }
 
+function renderExamIntro() {
+  const meta = state.examDb.metadata;
+  const instr = state.examDb.instructions;
+
+  app.innerHTML = `
+    <section class="hero fade-in">
+      <article class="card surface">
+        <p class="eyebrow">${escapeHtml(instr.header)}</p>
+        <h1>Oefenexamen</h1>
+        <p class="muted" style="margin-top:10px;">${escapeHtml(instr.description)}</p>
+        <div class="exam-meta-grid">
+          <div class="exam-meta-item">
+            <span class="eyebrow">Vragen</span>
+            <span>${meta.total_questions} meerkeuze</span>
+          </div>
+          <div class="exam-meta-item">
+            <span class="eyebrow">Tijdsduur</span>
+            <span>${meta.exam_structure.tijdsduur_minuten} min.</span>
+          </div>
+          <div class="exam-meta-item">
+            <span class="eyebrow">Slagingscriterium</span>
+            <span>${meta.exam_structure.slagingscriterium}</span>
+          </div>
+        </div>
+        <div class="exam-tips">
+          <p class="eyebrow">Tips</p>
+          <ul>${instr.tips.map(t => `<li>${escapeHtml(t)}</li>`).join("")}</ul>
+        </div>
+        <div class="row" style="margin-top:14px;">
+          <button class="btn-primary" data-action="exam_begin">Start examen</button>
+          <button class="btn-ghost" data-action="go_dashboard">Terug</button>
+        </div>
+      </article>
+    </section>
+  `;
+}
+
+function renderExamQuestion() {
+  const q = state.examDb.questions[state.examState.currentIndex];
+  const total = state.examDb.questions.length;
+  const idx = state.examState.currentIndex;
+  const answer = state.examState.answers[idx];
+  const isAnswered = answer !== null;
+  const isLast = idx === total - 1;
+
+  const optionsHtml = q.options.map((opt, oi) => {
+    let cls = "exam-option";
+    let disabled = "";
+    if (isAnswered) {
+      disabled = "disabled";
+      if (oi === q.correctAnswer) cls += " correct";
+      else if (oi === answer.selected && oi !== q.correctAnswer) cls += " wrong";
+      else cls += " dimmed";
+    } else if (state.examState.selectedOption === oi) {
+      cls += " selected";
+    }
+    return `<button class="${cls}" data-action="exam_select_option" data-value="${oi}" ${disabled}>${escapeHtml(opt)}</button>`;
+  }).join("");
+
+  app.innerHTML = `
+    <section class="fade-in">
+      <div class="row space-between" style="margin-bottom:12px;">
+        <button class="btn-ghost" data-action="exam_quit">Examen verlaten</button>
+        <span class="badge">Vraag ${idx + 1} van ${total}</span>
+      </div>
+      <div class="progress-shell" style="margin-bottom:14px;">
+        <div class="progress-bar" style="width:${(idx / total) * 100}%"></div>
+      </div>
+      <article class="card exam-question-card">
+        <div class="row space-between" style="margin-bottom:10px;">
+          <span class="badge">${escapeHtml(q.category)}</span>
+          <span class="badge" style="font-size:11px;">${escapeHtml(q.topic)}</span>
+        </div>
+        <h2 style="margin-top:8px;font-size:1.25rem;">${escapeHtml(q.question)}</h2>
+        <div class="exam-options">${optionsHtml}</div>
+        ${isAnswered ? `
+          <div class="exam-feedback ${answer.correct ? "feedback-correct" : "feedback-wrong"}">
+            <p class="eyebrow">${answer.correct ? "Correct!" : "Helaas, niet correct"}</p>
+            <p>${escapeHtml(q.explanation)}</p>
+          </div>
+          <button class="btn-primary" data-action="exam_next">${isLast ? "Bekijk resultaten" : "Volgende vraag"}</button>
+        ` : `<button class="btn-primary" data-action="exam_confirm" ${state.examState.selectedOption === undefined ? "disabled" : ""}>Bevestig antwoord</button>`}
+      </article>
+    </section>
+  `;
+}
+
+function renderExamResults() {
+  const answers = state.examState.answers;
+  const questions = state.examDb.questions;
+  const total = questions.length;
+  const correct = answers.filter(a => a && a.correct).length;
+  const pct = Math.round((correct / total) * 100);
+
+  const proefStart = 54;
+  const proefAnswers = answers.slice(proefStart);
+  const proefCorrect = proefAnswers.filter(a => a && a.correct).length;
+  const proefTotal = proefAnswers.length;
+
+  const passed = correct >= 36 && proefCorrect >= 2;
+
+  const reviewHtml = questions.map((q, i) => {
+    const a = answers[i];
+    if (!a) return "";
+    return `
+      <details class="exam-review-item ${a.correct ? "review-correct" : "review-wrong"}">
+        <summary>${i + 1}. ${escapeHtml(q.question)} — ${a.correct ? "✓" : "✗"}</summary>
+        <div class="exam-review-detail">
+          <p><strong>Jouw antwoord:</strong> ${escapeHtml(q.options[a.selected])}</p>
+          <p><strong>Correct antwoord:</strong> ${escapeHtml(q.options[q.correctAnswer])}</p>
+          <p class="muted" style="margin-top:6px;">${escapeHtml(q.explanation)}</p>
+        </div>
+      </details>
+    `;
+  }).join("");
+
+  app.innerHTML = `
+    <section class="hero fade-in">
+      <article class="card surface">
+        <p class="eyebrow">Oefenexamen afgerond</p>
+        <h1>${correct}/${total} (${pct}%)</h1>
+        <div class="exam-result-badge ${passed ? "result-pass" : "result-fail"}">${passed ? "GESLAAGD" : "GEZAKT"}</div>
+        <p class="muted" style="margin-top:10px;">Proefvragen: ${proefCorrect}/${proefTotal} correct ${proefCorrect >= 2 ? "(voldaan)" : "(min. 2 vereist)"}</p>
+        <div class="row" style="margin-top:14px;">
+          <button class="btn-primary" data-action="exam_retry">Opnieuw oefenexamen</button>
+          <button class="btn-ghost" data-action="go_dashboard">Dashboard</button>
+        </div>
+      </article>
+      <article class="card">
+        <h3>Vragenoverzicht</h3>
+        <div class="exam-review-list">${reviewHtml}</div>
+      </article>
+    </section>
+  `;
+}
+
 function renderLoading() {
   app.innerHTML = `<section class="card"><p>Flashcards laden...</p></section>`;
 }
@@ -525,6 +664,18 @@ function render() {
   }
   if (state.view === "summary") {
     renderSummary();
+    return;
+  }
+  if (state.view === "exam_intro") {
+    renderExamIntro();
+    return;
+  }
+  if (state.view === "exam_question") {
+    renderExamQuestion();
+    return;
+  }
+  if (state.view === "exam_results") {
+    renderExamResults();
     return;
   }
   renderDashboard();
@@ -622,9 +773,98 @@ function onClick(event) {
   if (action === "restart_same") {
     startSession(state.session?.mode || state.setup.mode);
   }
+  if (action === "start_exam") {
+    if (!state.examDb) return;
+    state.view = "exam_intro";
+    state.examState = null;
+    render();
+    return;
+  }
+  if (action === "exam_begin") {
+    state.examState = {
+      currentIndex: 0,
+      answers: new Array(state.examDb.questions.length).fill(null),
+      selectedOption: undefined,
+      startedAt: Date.now(),
+    };
+    state.view = "exam_question";
+    render();
+    return;
+  }
+  if (action === "exam_select_option") {
+    const oi = parseInt(value);
+    const idx = state.examState.currentIndex;
+    if (state.examState.answers[idx] !== null) return;
+    state.examState.selectedOption = oi;
+    render();
+    return;
+  }
+  if (action === "exam_confirm") {
+    const idx = state.examState.currentIndex;
+    if (state.examState.answers[idx] !== null) return;
+    const sel = state.examState.selectedOption;
+    if (sel === undefined) return;
+    const q = state.examDb.questions[idx];
+    state.examState.answers[idx] = { selected: sel, correct: sel === q.correctAnswer };
+    state.examState.selectedOption = undefined;
+    render();
+    return;
+  }
+  if (action === "exam_next") {
+    state.examState.currentIndex += 1;
+    state.examState.selectedOption = undefined;
+    if (state.examState.currentIndex >= state.examDb.questions.length) {
+      state.view = "exam_results";
+    }
+    render();
+    return;
+  }
+  if (action === "exam_quit") {
+    state.examState = null;
+    state.view = "dashboard";
+    render();
+    return;
+  }
+  if (action === "exam_retry") {
+    state.examState = null;
+    state.view = "exam_intro";
+    render();
+    return;
+  }
 }
 
 function onKeydown(event) {
+  if (state.view === "exam_question") {
+    if (event.key >= "1" && event.key <= "3") {
+      const oi = parseInt(event.key) - 1;
+      const idx = state.examState.currentIndex;
+      if (state.examState.answers[idx] !== null) return;
+      state.examState.selectedOption = oi;
+      render();
+      event.preventDefault();
+      return;
+    }
+    if (event.key === "Enter") {
+      const idx = state.examState.currentIndex;
+      if (state.examState.answers[idx] !== null) {
+        state.examState.currentIndex += 1;
+        state.examState.selectedOption = undefined;
+        if (state.examState.currentIndex >= state.examDb.questions.length) {
+          state.view = "exam_results";
+        }
+        render();
+      } else if (state.examState.selectedOption !== undefined) {
+        const q = state.examDb.questions[idx];
+        state.examState.answers[idx] = { selected: state.examState.selectedOption, correct: state.examState.selectedOption === q.correctAnswer };
+        state.examState.selectedOption = undefined;
+        render();
+      }
+      event.preventDefault();
+      return;
+    }
+    return;
+  }
+
   if (state.view !== "study") return;
 
   if (event.key === " " && !state.answerRevealed) {
@@ -650,12 +890,16 @@ function onKeydown(event) {
 async function init() {
   try {
     loadState();
-    // Bust CDN/browser cache for the dataset so new imports appear immediately.
-    const dbUrl = `./sden3_flashcards_database.json?v=${Date.now()}`;
-    const response = await fetch(dbUrl, { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
-    const db = await response.json();
+    const dbUrl = `./sden3_flashcards_database.json?v=${Date.now()}`;
+    const [dbRes, examRes] = await Promise.all([
+      fetch(dbUrl, { cache: "no-store" }),
+      fetch("./sden3_oefenexamen.json", { cache: "no-store" }),
+    ]);
+
+    if (!dbRes.ok) throw new Error(`HTTP ${dbRes.status} voor flashcards`);
+
+    const db = await dbRes.json();
     if (!Array.isArray(db.categories) || !Array.isArray(db.flashcards)) {
       throw new Error("Ongeldig JSON-schema: categories[] en flashcards[] verwacht");
     }
@@ -667,6 +911,14 @@ async function init() {
 
     state.db = db;
     state.cardsById = Object.fromEntries(db.flashcards.map((card) => [card.id, card]));
+
+    if (examRes.ok) {
+      const examDb = await examRes.json();
+      if (Array.isArray(examDb.questions)) {
+        state.examDb = examDb;
+      }
+    }
+
     state.view = "dashboard";
 
     app.addEventListener("click", onClick);

@@ -382,48 +382,48 @@
       "difficulty": "hard",
       "source": "oefenexamen_2019",
       "question": "Wat is VERPLICHT op een wijnetiket volgens EU-wetgeving?",
-      "answer": "Inhoud van de fles en alcoholgehalte",
-      "explanation": "VERPLICHTE vermeldingen op een EU wijnetiket: (1) Herkomst (bijv. 'Produce of France'), (2) Alcoholgehalte (bijv. 12,5% vol), (3) Inhoud (bijv. 750ml), (4) Bottelvermeldingen (bijv. 'mise en bouteille au château'), (5) Allergeneninformatie (sulfiet). FACULTATIEF: jaartal, producent, château naam, druivenras, 'mise en bouteille au château'.",
+      "answer": "Alcoholgehalte, inhoud, herkomst, bottelaar, allergenen en partijnummer",
+      "explanation": "VERPLICHTE vermeldingen op een EU-wijnetiket: (1) Alcoholgehalte (% vol), (2) Inhoud (bijv. 75cl), (3) Herkomst (land van oorsprong), (4) Bottelar/Producent (naam en adres), (5) Allergenen (sulfieten), (6) Partijnummer. FACULTATIEF: jaartal, druivenras, château naam, 'mise en bouteille au château', rijpingsaanduidingen.",
       "tags": [
         "wetgeving",
         "etiket",
         "EU",
         "verplicht"
       ],
-      "answer_short": "Inhoud van de fles en alcoholgehalte.",
+      "answer_short": "Alcoholgehalte, inhoud, herkomst, bottelaar, allergenen en partijnummer.",
       "answer_core_points": [
-        "Inhoud van de fles en alcoholgehalte",
-        "VERPLICHTE vermeldingen op een EU wijnetiket: Herkomst , Alcoholgehalte , Inhoud , Bottelvermeldingen , Allergeneninformatie ",
-        "FACULTATIEF: jaartal, producent, château naam, druivenras, 'mise en bouteille au château'"
+        "Alcoholgehalte, inhoud, herkomst, bottelaar, allergenen en partijnummer",
+        "VERPLICHT: alcoholgehalte, inhoud, herkomst, bottelaar, allergenen (sulfieten), partijnummer",
+        "FACULTATIEF: jaartal, druivenras, château naam, rijpingsaanduiding"
       ],
-      "answer_why": "VERPLICHTE vermeldingen op een EU wijnetiket: Herkomst , Alcoholgehalte , Inhoud , Bottelvermeldingen , Allergeneninformatie . FACULTATIEF: jaartal, producent, château naam, druivenras, 'mise en bouteille au château'.",
+      "answer_why": "EU-verordening schrijft voor: alcoholgehalte, inhoud, herkomst, bottelaar, allergeneninformatie (sulfieten) en partijnummer zijn verplicht op een wijnetiket.",
       "answer_pitfall": "Controleer altijd de exacte term op het etiket; kleine woordverschillen veranderen de betekenis.",
-      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Inhoud van de fles en alcoholgehalte\"."
+      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Alcoholgehalte, inhoud, herkomst, bottelaar, allergenen, partijnummer\"."
     },
     {
       "id": "exam_q16",
       "category": "wetgeving",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke AOP vertegenwoordigt de HOOGSTE kwaliteitsklasse in Bordeaux?",
-      "answer": "Appellation Pessac-Léognan Protégée",
-      "explanation": "Hoe specifieker de herkomst, hoe hoger de kwaliteitsklasse. Hiërarchie in Bordeaux: (1) Bordeaux AOP (grootste gebied, laagste eisen), (2) Graves AOP (subgebied van Bordeaux), (3) Pessac-Léognan AOP (subgebied van Graves, strengste eisen, beste terroir). Dit principe geldt voor alle AOP-gebieden: smaller = better.",
+      "question": "Welk niveau in de AOP-hiërarchie vertegenwoordigt de meest specifieke herkomstaanduiding in Bordeaux?",
+      "answer": "Een gemeentelijke/communal AOP zoals Pauillac, Margaux of Pessac-Léognan",
+      "explanation": "In Bordeaux bestaat een GEOGRAFISCHE hiërarchie van AOP's: (1) Bordeaux AOP (regionaal, grootste gebied), (2) Bordeaux Supérieur AOP, (3) Subregionaal (Médoc, Graves), (4) Communaal (Pauillac, Margaux, Saint-Julien, Pessac-Léognan). Hoe specifieker de herkomst, hoe strenger de eisen. Maar alle AOP's zijn officieel hetzelfde EU-kwaliteitsniveau. Pessac-Léognan (sinds 1987) is een voorbeeld van een communaal AOP in Graves, niet 'de hoogste'.",
       "tags": [
         "wetgeving",
         "AOP",
         "bordeaux",
         "hiërarchie"
       ],
-      "answer_short": "Appellation Pessac-Léognan Protégée.",
+      "answer_short": "Een communale AOP (bv. Pauillac, Margaux, Pessac-Léognan).",
       "answer_core_points": [
-        "Appellation Pessac-Léognan Protégée",
-        "Hoe specifieker de herkomst, hoe hoger de kwaliteitsklasse",
-        "Hiërarchie in Bordeaux: Bordeaux AOP , Graves AOP , Pessac-Léognan AOP ",
-        "Dit principe geldt voor alle AOP-gebieden: smaller = better"
+        "Communale AOP zoals Pauillac, Margaux, Pessac-Léognan",
+        "Bordeaux AOP (regionaal) → Bordeaux Supérieur → subregionaal (Médoc, Graves) → communaal (Pauillac, Margaux)",
+        "Alle AOP's zijn EU-kwaliteitsniveau; verschil is geografische specificiteit",
+        "Pessac-Léognan is één van de communale AOP's (sinds 1987 in Graves)"
       ],
-      "answer_why": "Hoe specifieker de herkomst, hoe hoger de kwaliteitsklasse. Hiërarchie in Bordeaux: Bordeaux AOP , Graves AOP , Pessac-Léognan AOP .",
-      "answer_pitfall": "Controleer altijd de exacte term op het etiket; kleine woordverschillen veranderen de betekenis.",
-      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Appellation Pessac-Léognan Protégée\"."
+      "answer_why": "De AOP-hiërarchie in Bordeaux is geografisch: regionaal (Bordeaux AOP) → subregionaal (Médoc, Graves) → communaal (Pauillac, Margaux, Pessac-Léognan). Hoe specifieker, hoe strenger de productie-eisen. Alle AOP's zijn gelijkwaardig onder EU-wetgeving.",
+      "answer_pitfall": "Verwar de AOP-hiërarchie niet met de 1855 Grand Cru Classé-classificatie; dat is een apart kwaliteitssysteem.",
+      "answer_memory_hook": "Ezelsbrug: hoe kleiner het gebied op de kaart, hoe strenger de regels = communale AOP's."
     },
     {
       "id": "exam_q17",
@@ -637,25 +637,25 @@
       "difficulty": "hard",
       "source": "oefenexamen_2019",
       "question": "Welke druivenrassen mag men gebruiken voor de AOP Alsace?",
-      "answer": "Pinot gris, pinot noir en sylvaner",
-      "explanation": "Toegestane druiven voor Alsace AOP: WITTE DRUIVEN: Riesling, Gewurztraminer, Pinot Gris, Pinot Blanc, Sylvaner, Muscat. RODE DRUIF: Pinot Noir (enige rode). Alsace is uniek in Frankrijk omdat wijnen VARIËTAAL zijn (druif op etiket). De 'Edele Druiven' voor Grand Cru zijn: Riesling, Gewurztraminer, Pinot Gris, Muscat. Chardonnay en Muscadet zijn NIET toegestaan in Alsace.",
+      "answer": "Riesling, Gewurztraminer, Pinot Gris, Pinot Blanc, Sylvaner, Muscat, Auxerrois, Chasselas (wit) en Pinot Noir (rood/rosé)",
+      "explanation": "Toegestane druiven voor Alsace AOP: WIT: Riesling, Gewurztraminer, Pinot Gris, Pinot Blanc, Sylvaner, Muscat (Muscat d'Alsace + Ottonel), Auxerrois, Chasselas, en Savagnin Rose (alleen voor Klevener de Heiligenstein). ROOD/ROSÉ: Pinot Noir (enige rode). De 'Edele Druiven' voor Grand Cru zijn: Riesling, Gewurztraminer, Pinot Gris, Muscat. Chardonnay is NIET toegestaan in Alsace AOP.",
       "tags": [
         "alsace",
         "druiven",
-        "pinot_gris",
-        "pinot_noir",
-        "sylvaner"
+        "riesling",
+        "gewurztraminer",
+        "pinot_gris"
       ],
-      "answer_short": "Pinot gris, pinot noir en sylvaner.",
+      "answer_short": "Riesling, Gewurztraminer, Pinot Gris, Sylvaner, Muscat, Pinot Noir e.a.",
       "answer_core_points": [
-        "Pinot gris, pinot noir en sylvaner",
-        "Toegestane druiven voor Alsace AOP: WITTE DRUIVEN: Riesling, Gewurztraminer, Pinot Gris, Pinot Blanc, Sylvaner, Muscat",
-        "RODE DRUIF: Pinot Noir ",
-        "Alsace is uniek in Frankrijk omdat wijnen VARIËTAAL zijn "
+        "WIT: Riesling, Gewurztraminer, Pinot Gris, Pinot Blanc, Sylvaner, Muscat, Auxerrois, Chasselas",
+        "ROOD/ROSÉ: Pinot Noir (enige rode)",
+        "Grand Cru: alleen Riesling, Gewurztraminer, Pinot Gris, Muscat",
+        "Chardonnay is NIET toegestaan in Alsace"
       ],
-      "answer_why": "Toegestane druiven voor Alsace AOP: WITTE DRUIVEN: Riesling, Gewurztraminer, Pinot Gris, Pinot Blanc, Sylvaner, Muscat. RODE DRUIF: Pinot Noir .",
+      "answer_why": "De AOC Alsace staat een breed scala aan witte druiven toe (Riesling, Gewurztraminer, Pinot Gris, Pinot Blanc, Sylvaner, Muscat, Auxerrois, Chasselas) en Pinot Noir als enige rode druif. Alleen Riesling, Gewurztraminer, Pinot Gris en Muscat zijn toegestaan voor Grand Cru.",
       "answer_pitfall": "Chardonnay en Muscadet zijn NIET toegestaan in Alsace",
-      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Pinot gris\"."
+      "answer_memory_hook": "Ezelsbrug: 8 witte + 1 rode = 9 druiven voor Alsace AOP."
     },
     {
       "id": "exam_q26",
@@ -765,25 +765,26 @@
       "difficulty": "easy",
       "source": "oefenexamen_2019",
       "question": "Welke wijnstreken bevinden zich in het zuiden van Frankrijk?",
-      "answer": "Bandol en Corbières",
-      "explanation": "Zuid-Frankrijk omvat: LANGUEDOC (Corbières, Minervois, Fitou), ROUSSILLON (Banyuls, Rivesaltes), PROVENCE (Bandol, Côtes de Provence). Cahors en Saumur liggen NIET in Zuid-Frankrijk: Cahors = Sud-Ouest (bij Bordeaux), Saumur = Loire. Pomerol en Pommard ook niet: Pomerol = Bordeaux, Pommard = Bourgogne. Zuid-Frankrijk = mediterraan klimaat, GSM blends, rosé, VDN.",
+      "answer": "Provence, Languedoc, Roussillon en Sud-Ouest (Zuidwest-Frankrijk)",
+      "explanation": "Zuid-Frankrijk omvat: PROVENCE (Bandol, Côtes de Provence), LANGUEDOC (Corbières, Minervois, Fitou), ROUSSILLON (Banyuls, Rivesaltes), en SUD-OUEST (Cahors, Madiran, Jurançon, Gaillac). Ook de Zuidelijke Rhône en Corsica worden soms tot Zuid-Frankrijk gerekend. Kenmerkend: mediterraan klimaat, GSM blends, rosé, Vin Doux Naturel. Cahors en Madiran liggen wél in Zuid-Frankrijk (Sud-Ouest). Saumur = Loire. Pomerol = Bordeaux. Pommard = Bourgogne.",
       "tags": [
         "zuid_frankrijk",
-        "languedoc",
         "provence",
-        "bandol",
-        "corbières"
+        "languedoc",
+        "roussillon",
+        "sud_ouest"
       ],
-      "answer_short": "Bandol en Corbières.",
+      "answer_short": "Provence, Languedoc, Roussillon en Sud-Ouest.",
       "answer_core_points": [
-        "Bandol en Corbières",
-        "Zuid-Frankrijk omvat: LANGUEDOC , ROUSSILLON , PROVENCE ",
-        "Cahors en Saumur liggen NIET in Zuid-Frankrijk: Cahors = Sud-Ouest , Saumur = Loire",
-        "Pomerol en Pommard ook niet: Pomerol = Bordeaux, Pommard = Bourgogne"
+        "Provence, Languedoc, Roussillon, Sud-Ouest",
+        "Provence: Bandol, Côtes de Provence (rosé)",
+        "Languedoc-Roussillon: Corbières, Minervois, Fitou, Banyuls",
+        "Sud-Ouest: Cahors, Madiran, Jurançon",
+        "Mediterraan klimaat, rosé, VDN, GSM blends"
       ],
-      "answer_why": "Zuid-Frankrijk omvat: LANGUEDOC , ROUSSILLON , PROVENCE . Cahors en Saumur liggen NIET in Zuid-Frankrijk: Cahors = Sud-Ouest , Saumur = Loire.",
-      "answer_pitfall": "Cahors en Saumur liggen NIET in Zuid-Frankrijk: Cahors = Sud-Ouest , Saumur = Loire",
-      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Bandol en Corbières\"."
+      "answer_why": "Zuid-Frankrijk omvat de streken Provence, Languedoc, Roussillon en Sud-Ouest, alle met een mediterraan klimaat en eigen specialiteiten.",
+      "answer_pitfall": "Cahors ligt in Sud-Ouest (Zuid-Frankrijk), niet in Bordeaux. Verwar Sud-Ouest niet met Bordeaux.",
+      "answer_memory_hook": "Ezelsbrug: 4 Z-streken = Provence, Languedoc, Roussillon, Sud-Ouest."
     },
     {
       "id": "exam_q31",
@@ -992,26 +993,26 @@
       "difficulty": "hard",
       "source": "oefenexamen_2019",
       "question": "Welke zijn uitsluitend witte Italiaanse druivenrassen?",
-      "answer": "Malvasia, Moscato en Trebbiano",
-      "explanation": "WITTE Italiaanse druiven: Malvasia (aromatisch), Moscato (Muscat, zoet), Trebbiano (meest aangeplant), Garganega (Soave), Verdicchio. RODE druiven: Barbera, Corvina, Molinara, Sangiovese, Nebbiolo. Let op: Malvasia bestaat ook in rode variant (Malvasia Nera) maar standaard is wit. Trebbiano = basis voor veel eenvoudige witte wijnen en Balsamico.",
+      "answer": "Moscato, Trebbiano, Garganega en Verdicchio (Malvasia ook wit, maar Malvasia Nera is een rode variant)",
+      "explanation": "WITTE Italiaanse druiven: Moscato (Muscat, zoet), Trebbiano (meest aangeplant), Garganega (Soave), Verdicchio, Malvasia Bianca (aromatisch). Noot: Malvasia is een familie met 17+ varianten - meest wit maar Malvasia Nera/Casorzo/Schierano zijn rood. RODE druiven: Sangiovese, Nebbiolo, Barbera, Corvina, Aglianico, Montepulciano. Trebbiano = basis voor veel witte wijnen en balsamicoazijn.",
       "tags": [
         "italië",
         "druiven",
-        "malvasia",
         "moscato",
         "trebbiano",
+        "garganega",
         "wit"
       ],
-      "answer_short": "Malvasia, Moscato en Trebbiano.",
+      "answer_short": "Moscato, Trebbiano, Garganega en Verdicchio.",
       "answer_core_points": [
-        "Malvasia, Moscato en Trebbiano",
-        "WITTE Italiaanse druiven: Malvasia , Moscato , Trebbiano , Garganega , Verdicchio",
-        "RODE druiven: Barbera, Corvina, Molinara, Sangiovese, Nebbiolo",
-        "Let op: Malvasia bestaat ook in rode variant maar standaard is wit"
+        "Moscato, Trebbiano, Garganega, Verdicchio",
+        "Malvasia is meestal wit maar er bestaat ook Malvasia Nera (rood)",
+        "WIT: Moscato, Trebbiano, Garganega, Verdicchio, Malvasia Bianca, Pinot Grigio",
+        "ROOD: Sangiovese, Nebbiolo, Barbera, Corvina, Aglianico, Montepulciano"
       ],
-      "answer_why": "WITTE Italiaanse druiven: Malvasia , Moscato , Trebbiano , Garganega , Verdicchio. RODE druiven: Barbera, Corvina, Molinara, Sangiovese, Nebbiolo.",
-      "answer_pitfall": "Let op: Malvasia bestaat ook in rode variant maar standaard is wit",
-      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Malvasia\"."
+      "answer_why": "Witte Italiaanse druiven zijn o.a. Moscato, Trebbiano, Garganega, Verdicchio en Malvasia (wit). Malvasia heeft echter ook rode varianten (Malvasia Nera). Voor 'uitsluitend witte' rassen zijn Moscato, Trebbiano, Garganega en Verdicchio de veiligste keuze.",
+      "answer_pitfall": "Malvasia bestaat ook in rode variant (Malvasia Nera) - niet verwarren met de witte Malvasia Bianca.",
+      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Moscato, Trebbiano, Garganega, Verdicchio\"."
     },
     {
       "id": "exam_q40",
@@ -1122,25 +1123,25 @@
       "difficulty": "medium",
       "source": "oefenexamen_2019",
       "question": "Hoe heten de drie subregio's van Rioja?",
-      "answer": "Rioja Alavesa, Rioja Alta en Rioja Baja",
-      "explanation": "RIOJA bestaat uit 3 zones: (1) RIOJA ALAVESA - koelst, elegante wijnen, (2) RIOJA ALTA - hoog gelegen, krachtige wijnen met finesse, beste kwaliteit, (3) RIOJA BAJA - warmst, lager gelegen, volle wijnen, minder finesse. Druiven: Tempranillo (hoofddruif), Garnacha, Mazuelo, Graciano. Jumilla, Rueda, Bullas, Yecla zijn andere Spaanse DO's.",
+      "answer": "Rioja Alavesa, Rioja Alta en Rioja Oriental (voorheen Rioja Baja)",
+      "explanation": "RIOJA bestaat uit 3 zones: (1) RIOJA ALAVESA - koelst (Baskenland), elegante wijnen met finesse, (2) RIOJA ALTA - hoog gelegen, Atlantisch klimaat, krachtige wijnen met finesse, (3) RIOJA ORIENTAL (voorheen Rioja Baja) - warmst, droger, volle krachtige wijnen. Sinds 2018 is Rioja Baja officieel hernoemd naar Rioja Oriental. Druiven: Tempranillo (hoofddruif), Garnacha, Mazuelo (Carignan), Graciano.",
       "tags": [
         "spanje",
         "rioja",
         "alavesa",
         "alta",
-        "baja"
+        "oriental"
       ],
-      "answer_short": "Rioja Alavesa, Rioja Alta en Rioja Baja.",
+      "answer_short": "Rioja Alavesa, Rioja Alta en Rioja Oriental.",
       "answer_core_points": [
-        "Rioja Alavesa, Rioja Alta en Rioja Baja",
-        "RIOJA bestaat uit 3 zones: RIOJA ALAVESA - koelst, elegante wijnen, RIOJA ALTA - hoog gelegen, krachtige wijnen met finesse, beste kwaliteit, RIOJA BAJA - warmst, lager gelegen, volle wijnen, minder finesse",
-        "Druiven: Tempranillo , Garnacha, Mazuelo, Graciano",
-        "Jumilla, Rueda, Bullas, Yecla zijn andere Spaanse DO's"
+        "Rioja Alavesa, Rioja Alta en Rioja Oriental (was Rioja Baja)",
+        "RIOJA ALAVESA - koelst, elegante wijnen",
+        "RIOJA ALTA - hoog, Atlantisch, krachtig met finesse",
+        "RIOJA ORIENTAL - warmst, vol en krachtig"
       ],
-      "answer_why": "RIOJA bestaat uit 3 zones: RIOJA ALAVESA - koelst, elegante wijnen, RIOJA ALTA - hoog gelegen, krachtige wijnen met finesse, beste kwaliteit, RIOJA BAJA - warmst, lager gelegen, volle wijnen, minder finesse. Druiven: Tempranillo , Garnacha, Mazuelo, Graciano.",
+      "answer_why": "Rioja is verdeeld in 3 zones: Rioja Alavesa (koel, Baskenland), Rioja Alta (Atlantisch, hoog gelegen) en Rioja Oriental / voorheen Baja (warm, droog). Sinds 2018 heet Rioja Baja officieel Rioja Oriental.",
       "answer_pitfall": "Verwar crianza/reserva-indelingen niet met smaakniveau; het gaat om rijpingseisen.",
-      "answer_memory_hook": "Ezelsbrug: kernantwoord = \"Rioja Alavesa\"."
+      "answer_memory_hook": "Ezelsbrug: Alavesa (koelste), Alta (hoogste), Oriental (oostelijk, warmst)."
     },
     {
       "id": "exam_q45",
@@ -2247,7 +2248,7 @@
       "difficulty": "hard",
       "source": "web_research",
       "question": "Wat is de Duitse Prädikatswein hiërarchie van laag naar hoog?",
-      "answer": "Kabinett → Spätlese → Auslese → Beerenauslese → Trockenbeerenauslese → Eiswein",
+      "answer": "Kabinett → Spätlese → Auslese → Beerenauslese → Eiswein → Trockenbeerenauslese",
       "explanation": "PRÄDIKATSWEIN = hoogste niveau (GEEN chaptalisatie!). Op basis van MOSTGEWICHT (suiker bij oogst): KABINETT = lichtste, kan droog of half-droog. SPÄTLESE = late oogst, rijper. AUSLESE = geselecteerde trossen. BEERENAUSLESE (BA) = geselecteerde bessen met edele rotting, zoet. TROCKENBEERENAUSLESE (TBA) = rozijnachtige bessen, zeer zoet, zeldzaam/duur. EISWEIN = bevroren druiven (water blijft als ijs), geconcentreerd. HOGER = ZOETER (behalve bij 'Trocken' op etiket).",
       "tags": [
         "duitsland",
@@ -2255,9 +2256,9 @@
         "kwaliteit",
         "mostgewicht"
       ],
-      "answer_short": "Kabinett → Spätlese → Auslese → Beerenauslese → Trockenbeerenauslese → Eiswein.",
+      "answer_short": "Kabinett → Spätlese → Auslese → Beerenauslese → Eiswein → Trockenbeerenauslese.",
       "answer_core_points": [
-        "Kabinett → Spätlese → Auslese → Beerenauslese → Trockenbeerenauslese → Eiswein",
+        "Kabinett → Spätlese → Auslese → Beerenauslese → Eiswein → Trockenbeerenauslese",
         "PRÄDIKATSWEIN = hoogste niveau ",
         "Op basis van MOSTGEWICHT : KABINETT = lichtste, kan droog of half-droog",
         "SPÄTLESE = late oogst, rijper"
@@ -5730,9 +5731,9 @@
       "category": "bordeaux",
       "difficulty": "easy",
       "source": "Bordeaux Blend",
-      "question": "Welke vijf druivenrassen zijn traditioneel toegestaan in een rode Bordeaux blend?",
-      "answer": "Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot en Malbec",
-      "explanation": "Een traditionele rode Bordeaux bestaat uit een blend van maximaal vijf druiven: Cabernet Sauvignon (structuur, tannine), Merlot (zachtheid, fruit), Cabernet Franc (aroma's, elegantie), Petit Verdot (kleur, tannine) en Malbec (vroeger gebruikt, nu zeldzaam). De exacte verhouding varieert per château en regio, waarbij Left Bank meer Cabernet Sauvignon gebruikt en Right Bank meer Merlot.",
+      "question": "Welke zes druivenrassen zijn toegestaan in een rode Bordeaux AOC blend?",
+      "answer": "Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec en Carménère",
+      "explanation": "Zes druiven zijn toegestaan voor rode Bordeaux AOC: Cabernet Sauvignon (structuur, tannine), Merlot (zachtheid, fruit), Cabernet Franc (aroma's, elegantie), Petit Verdot (kleur, tannine), Malbec (vroeger prominent, nu zeldzaam) en Carménère (zeer zeldzaam sinds phylloxera). De exacte verhouding varieert per château en regio: Left Bank dominant Cabernet Sauvignon, Right Bank dominant Merlot. Sinds 2019 zijn ook Marselan, Touriga Nacional, Castets en Arinarnoa toegestaan voor Bordeaux/Bordeaux Supérieur.",
       "tags": [
         "bordeaux",
         "blend",
@@ -5740,17 +5741,16 @@
         "cabernet_sauvignon",
         "merlot"
       ],
-      "answer_short": "Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec.",
+      "answer_short": "Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec, Carménère.",
       "answer_core_points": [
-        "Vijf toegestane druiven",
-        "Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec",
-        "Cabernet Sauvignon: structuur",
-        "Merlot: zachtheid",
-        "Petit Verdot: kleur en tannine"
+        "Zes toegestane druiven: Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec, Carménère",
+        "Cabernet Sauvignon: structuur, Merlot: zachtheid, Cabernet Franc: elegantie",
+        "Petit Verdot: kleur, Malbec & Carménère: zeldzaam",
+        "Sinds 2019: ook Marselan, Touriga Nacional, Castets, Arinarnoa toegestaan"
       ],
-      "answer_why": "Elke druif brengt specifieke karakteristieken die samen een gebalanceerde, complexe wijn creëren.",
-      "answer_pitfall": "Malbec wordt tegenwoordig zelden gebruikt in Bordeaux (meer populair in Argentinië), maar is nog steeds toegestaan.",
-      "answer_memory_hook": "2x Cab, M, P, M: Cabernet Sauvignon, Cabernet Franc, Merlot, Petit Verdot, Malbec."
+      "answer_why": "Elke druif brengt specifieke karakteristieken die samen een gebalanceerde, complexe wijn creëren. Carménère is zeldzaam maar nog steeds officieel toegestaan.",
+      "answer_pitfall": "Malbec wordt nu vooral geassocieerd met Argentinië, maar is oorspronkelijk een Bordeaux-druif. Carménère wordt vaak vergeten maar is officieel toegestaan.",
+      "answer_memory_hook": "6 druiven: CS-M-CF-PV-M-C = Cab Sauv, Merlot, Cab Franc, Petit Verdot, Malbec, Carménère."
     },
     {
       "id": "bordeaux_011",
@@ -5952,30 +5952,27 @@
       "category": "bordeaux",
       "difficulty": "hard",
       "source": "Bordeaux Saint-Émilion",
-      "question": "Wat zijn de vier Premier Grand Cru Classé 'A' châteaux in Saint-Émilion sinds 2022?",
-      "answer": "Château Ausone, Cheval Blanc, Pavie en Figeac",
-      "explanation": "Sinds de 2022 herziening heeft Saint-Émilion vier châteaux in de hoogste categorie Premier Grand Cru Classé 'A': de historische Château Ausone en Cheval Blanc, plus Château Pavie (gepromoveerd in 2012) en Château Figeac (gepromoveerd in 2022). Deze staan boven de Premier Grand Cru Classé 'B' categorie. Figeac's promotie was bijzonder omdat het decennialang in de 'B' categorie zat.",
+      "question": "Welke châteaux hebben de Premier Grand Cru Classé 'A' status in Saint-Émilion na de 2022 herziening?",
+      "answer": "Château Pavie en Château Figeac",
+      "explanation": "Na de 2022 herziening van de St-Émilion classificatie zijn er nog maar 2 châteaux met Premier Grand Cru Classé 'A' status: Pavie (gepromoveerd in 2012) en Figeac (gepromoveerd in 2022). Ausone, Cheval Blanc en Angélus trokken zich ALLE terug uit de 2022 classificatie. De classificatie wordt elke 10 jaar herzien. Daarnaast zijn er 12 Premier Grand Cru Classé 'B' en 71 Grand Cru Classé.",
       "tags": [
         "bordeaux",
         "saint_emilion",
         "classificatie",
         "premier_grand_cru",
-        "ausone",
-        "cheval_blanc",
         "pavie",
         "figeac"
       ],
-      "answer_short": "Ausone, Cheval Blanc, Pavie en Figeac.",
+      "answer_short": "Pavie en Figeac.",
       "answer_core_points": [
-        "Vier 'A' status châteaux sinds 2022",
-        "Ausone en Cheval Blanc: historisch",
-        "Pavie: gepromoveerd 2012",
-        "Figeac: gepromoveerd 2022",
-        "Hoogste niveau Saint-Émilion"
+        "Pavie en Figeac",
+        "Ausone, Cheval Blanc, Angélus trokken zich terug in 2022",
+        "Classificatie wordt elke 10 jaar herzien",
+        "2 Premier Grand Cru Classé A, 12 B, 71 Grand Cru Classé"
       ],
-      "answer_why": "Deze châteaux tonen consistent uitzonderlijke kwaliteit en investeren continu in hun wijngaarden.",
-      "answer_pitfall": "Voor 2012 waren er alleen twee 'A' châteaux (Ausone en Cheval Blanc) - de lijst is gegroeid.",
-      "answer_memory_hook": "Saint-Émilion Top 4: A-C-P-F (Ausone, Cheval Blanc, Pavie, Figeac)."
+      "answer_why": "Na de 2022 herziening zijn Pavie en Figeac de enige twee Premier Grand Cru Classé 'A' in Saint-Émilion. Ausone, Cheval Blanc en Angélus trokken zich terug uit de classificatie.",
+      "answer_pitfall": "Verwar niet met 2012: toen waren er 4 'A' châteaux (Ausone, Cheval Blanc, Angélus, Pavie). In 2022 zijn Ausone, Cheval Blanc en Angélus teruggetrokken.",
+      "answer_memory_hook": "Ezelsbrug: 2022 = P(avie) + F(igeac) = Premier Pair."
     },
     {
       "id": "bordeaux_019",
@@ -6207,29 +6204,29 @@
       "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "web_research; Champagne Comité",
-      "question": "Welke Champagne regio's zijn Grand Cru, en welke zijn Premier Cru?",
-      "answer": "GRAND CRU (100% prijs): Épernay, Reims, Avize, Oiry, Cramant, Le Mesnil-sur-Oger. PREMIER CRU (90% prijs): Ay, Tours-sur-Marne, Mareuil-sur-Ay, en ongeveer 40 anderen.",
-      "explanation": "CHAMPAGNE dorpen KLASSERING op basis van terroir/kwaliteit: GRAND CRU (17 dorpen, 100% referentieprijs): Montagne de Reims: Ambonnay, Beaumont-sur-Vesle, Mailly Champagne, Puisieulx, Sillery, Verzy, Verzenay. Côte des Blancs: Avize, Cramant, Oiry, Le Mesnil-sur-Oger. Vallée de la Marne: Ay, Tours-sur-Marne. Epernay (hulpkantoor). PREMIER CRU (ca. 40 dorpen, 90% referentieprijs): Mareuil-sur-Ay, Avenay Val d'Or, Bergères-lès-Vertus, etc. Niet alle GC-druiven ≠ betere Champagne (huisstijl telt ook!). NV-blends often mixt Grand Cru + Premier Cru + gewone druiven.",
+      "question": "Welke Champagnedorpen zijn Grand Cru, en welke zijn Premier Cru?",
+      "answer": "Grand Cru (17 dorpen, 100%): Avize, Aÿ, Bouzy, Cramant, Le Mesnil, Oger, Oiry, Verzenay e.a. Premier Cru (~40 dorpen, 90%): o.a. Mareuil-sur-Ay, Vertus, Bergères. Épernay en Reims zijn steden, geen Grand Cru-dorpen.",
+      "explanation": "Champagne heeft een Échelle des Crus: Grand Cru (17 dorpen, 100% prijs): Montagne de Reims: Ambonnay, Beaumont-sur-Vesle, Bouzy, Louvois, Mailly-Champagne, Puisieulx, Sillery, Verzenay, Verzy. Côte des Blancs: Avize, Chouilly, Cramant, Le Mesnil-sur-Oger, Oger, Oiry. Vallée de la Marne: Aÿ, Tours-sur-Marne. Let op: Épernay en Reims zijn GEEN Grand Cru-dorpen. Premier Cru (ca. 40 dorpen, 90-99%): o.a. Mareuil-sur-Ay, Vertus, Bergères-lès-Vertus, Avenay-Val-d'Or, Hautvillers.",
       "tags": [
         "champagne",
         "grand_cru",
         "premier_cru",
         "appellatie",
         "terroir",
-        "druivenorigin"
+        "echelle_des_crus"
       ],
-      "answer_short": "Grand Cru = Épernay/Reims/Avize/Cramant/Le Mesnil/Ay (17 dorpen). Premier Cru = ca. 40 dorpen (Mareuil/Tours-sur-Marne).",
+      "answer_short": "Grand Cru (17 dorpen): Avize, Aÿ, Bouzy, Cramant, Le Mesnil, Verzenay. Premier Cru (~40): Mareuil, Vertus.",
       "answer_core_points": [
         "GRAND CRU = 17 dorpen op 100% referentieprijs",
-        "Epernay, Reims dorpen zijn Grand Cru",
-        "Côte des Blancs (Avize, Cramant, Oiry, Le Mesnil) = vooral Chardonnay",
-        "Montagne de Reims = vooral Pinot Noir",
-        "Vallée de la Marne = vooral Pinot Meunier",
+        "Montagne de Reims: Ambonnay, Bouzy, Verzenay, Verzy, Mailly",
+        "Côte des Blancs: Avize, Cramant, Le Mesnil, Oger, Oiry, Chouilly",
+        "Vallée de la Marne: Aÿ, Tours-sur-Marne",
+        "Épernay en Reims zijn GEEN Grand Cru-dorpen",
         "PREMIER CRU = ca. 40 dorpen op 90% prijs"
       ],
-      "answer_why": "De klassering bepaalt druifprijs en prestige. Grand Cru dorpen hebben betere terroir (krijtbodem, ligging). Premier Cru is volgende klasse.",
-      "answer_pitfall": "Veel mensen denken dat alle Champagne met 'Grand Cru' dorpen op etiket ook beter smaakt - NIET waar! De huisstijl/blending van huizen telt meer dan alleen GC-druiven. NV's van grote huizen zijn vaak beter dan kleinere Grower Champagnes met GC-druiven.",
-      "answer_memory_hook": "GRAND CRU = 17. 17 topnamen onthouden? Épernay, Reims, Ay zijn de grootste. Côte des Blancs = Avize/Cramant/Le Mesnil."
+      "answer_why": "De Échelle des Crus bepaalt de prijs van de druiven. Grand Cru-dorpen (17) krijgen 100% van de referentieprijs, Premier Cru (~40) krijgen 90-99%.",
+      "answer_pitfall": "Épernay en Reims worden vaak ten onrechte als Grand Cru genoemd; het zijn steden met zowel GC- als PC-wijngaarden. Ook: Grand Cru op etiket betekent niet automatisch betere smaak - huisstijl en blending zijn minstens zo belangrijk.",
+      "answer_memory_hook": "17 Grand Cru-dorpen: Montagne de Reims (9), Côte des Blancs (6), Vallée de la Marne (2). Côte des Blancs = Chardonnay (Avize, Cramant, Le Mesnil)."
     },
     {
       "id": "batch_champagne_3",
@@ -6565,7 +6562,7 @@
       "source": "web_research; wine grape guide",
       "question": "Welke druiven zijn synoniemen van elkaar? Noem 5 druif-synoniemen voorbeelden (bv. Primitivo = Zinfandel)",
       "answer": "Primitivo (Italië) = Zinfandel (USA). Tempranillo (Spanje) = Tinta Roriz (Portugal) = Aragonez. Grenache (Frankrijk) = Garnacha (Spanje) = Cannonau (Sardinië). Syrah (Frankrijk) = Shiraz (Australië). Albariño (Spanje) = Alvarinho (Portugal).",
-      "explanation": "DRUIF SYNONIEMEN (zelfde druif, andere namen per regio): (1) PRIMITIVO (Italië, Puglië) = ZINFANDEL (USA, Californië). HERKOMST = migratie geschiedenis. STIJL = fruitig, alcohol hoog (15-16%), donkerrood. (2) TEMPRANILLO (Spanje, Rioja) = TINTA RORIZ (Portugal, Douro) = ARAGONEZ (Portugal). STIJL = tanninen, rood fruit, droog. (3) GRENACHE (Frankrijk, Rhône) = GARNACHA (Spanje, Priorat) = CANNONAU (Sardinië, Italië). STIJL = fruitig, voller, alcohol hoog. (4) SYRAH (Frankrijk, Rhône) = SHIRAZ (Australië). STIJL = peper, zwart fruit, tanninen. OPMERKING = anders terroir = ander profiel! Shiraz = voller/riper; Syrah = elegant/mineral. (5) ALBARIÑO (Spanje, Rías Baixas) = ALVARINHO (Portugal, Minho). STIJL = wit, citrus, zilt, fris. (6) MÜLLER-THURGAU (Duitsland) = RIVANER (Zwitserland). (7) BARBERA (Italië Piëmont) = BLAUFRÄNKISCH (Oostenrijk). MINDER GELIJK maar soortgelijk. PRINCIPE = druif kan verschillende namen hebben naarmate regio; STIJL kan verschillen (terroir-effecten). WAAROM = historische migratie druiven, hernoemt lokaal, cultuurverschillen.",
+      "explanation": "DRUIF SYNONIEMEN (zelfde druif, andere namen per regio): (1) PRIMITIVO (Italië, Puglia) = ZINFANDEL (USA, Californië). STIJL = fruitig, alcohol hoog (15-16%), donkerrood. (2) TEMPRANILLO (Spanje) = TINTA RORIZ (Portugal, Douro) = ARAGONEZ (Portugal). STIJL = tanninerijk, rood fruit. (3) GRENACHE (Frankrijk, Rhône) = GARNACHA (Spanje) = CANNONAU (Sardinië, Italië). STIJL = fruitig, hoog alcohol. (4) SYRAH (Frankrijk, Rhône) = SHIRAZ (Australië). OPMERKING: ander terroir = ander profiel! Shiraz = voller/rijper; Syrah = eleganter/mineraler. (5) ALBARIÑO (Spanje, Rías Baixas) = ALVARINHO (Portugal, Minho). STIJL = wit, citrus, zilt, fris. (6) MÜLLER-THURGAU (Duitsland) = RIVANER (Zwitserland). PRINCIPE: druif kan verschillende namen hebben per regio; stijl kan verschillen door terroir.",
       "tags": [
         "druivenras",
         "synoniemen",
@@ -7511,9 +7508,9 @@
       "category": "duitsland",
       "difficulty": "medium",
       "source": "Oostenrijk rode wijn",
-      "question": "Welke autochtone rode druif is typisch Oostenrijks en komt vooral uit Burgenland?",
-      "answer": "Blaufränkisch (of Zweigelt)",
-      "explanation": "Blaufränkisch (ook bekend als Lemberger) is een belangrijke Oostenrijkse rode druif, vooral uit Burgenland. De wijn heeft goede structuur, levendige zuurgraad en aroma's van donker fruit, kruiden en peper. Zweigelt is een andere belangrijke rode druif (kruising van Blaufränkisch × St. Laurent) en is de meest geplante rode druif in Oostenrijk. Zweigelt is zachter en fruitiger, Blaufränkisch heeft meer structuur.",
+      "question": "Welke twee autochtone rode druiven zijn typisch Oostenrijks en komen vooral uit Burgenland?",
+      "answer": "Blaufränkisch (structuur, kruidig) en Zweigelt (zachter, fruitiger) - twee verschillende druiven",
+      "explanation": "Oostenrijkse rode autochtone druiven: Blaufränkisch (ook Lemberger) is een klassiek Oostenrijks ras, vooral uit Burgenland. Goede structuur, levendige zuurgraad, donker fruit en peper. Zweigelt is een kruising van Blaufränkisch × St. Laurent (1922, Klosterneuburg) en is de meest geplante rode druif in Oostenrijk. Zweigelt is zachter en fruitiger. Let op: beide zijn verschillende druiven, niet hetzelfde.",
       "tags": [
         "oostenrijk",
         "blaufrankisch",
@@ -7521,15 +7518,13 @@
         "rode_wijn",
         "burgenland"
       ],
-      "answer_short": "Blaufränkisch (of Zweigelt).",
+      "answer_short": "Blaufränkisch of Zweigelt (twee verschillende).",
       "answer_core_points": [
-        "Blaufränkisch uit Burgenland",
-        "Autochtone Oostenrijkse druif",
-        "Goede structuur, zuurgraad",
-        "Donker fruit, kruiden, peper",
-        "Zweigelt: meest geplant rood",
-        "Zweigelt = kruising Blaufränkisch × St. Laurent",
-        "Zweigelt zachter, Blaufränkisch structured"
+        "Blaufränkisch: structuur, kruidig, donker fruit",
+        "Zweigelt: zachter, fruitiger, meest geplant",
+        "Zweigelt = kruising Blaufränkisch × St. Laurent (1922)",
+        "Beide uit Burgenland",
+        "Verschillende druiven, niet hetzelfde"
       ],
       "answer_why": "Deze druiven zijn goed aangepast aan het Oostenrijkse klimaat en produceren karakteristieke wijnen.",
       "answer_pitfall": "Zweigelt is geen traditionele druif maar een 20e-eeuwse kruising.",
@@ -7746,8 +7741,8 @@
       "difficulty": "hard",
       "source": "web_research; Consorzio Barolo",
       "question": "Wat is Barolo DOCG? Beschrijf druif, terroir, rijping en karakteristieken",
-      "answer": "Barolo DOCG (Piëmont) = 100% Nebbiolo, minimaal 38 maanden rijping (14 maanden vat), mineraal/tanninen/donkerrood fruit, 'Koning der wijnen'.",
-      "explanation": "BAROLO DOCG (Piëmont, Langhe regio, nabij Alba): DRUIF = 100% NEBBIOLO (rood, beroemd voor tanninen/zuurheid). TERROIR = heuvelland (4 TOP subzones: Barolo, Castiglione Falletto, Monforte d'Alba, Serralunga d'Alba = sterke terroir wijnen). BODEM = krijtachtig/kalksteen/mergel (mineraal!). KLIMAAT = kontinentaal-mediterraan, koeler. RIJPING = MINIMUM 38 MAANDEN: 14 maanden EIKEN VAT (minimum!), rest flescoop. Veel traditsioneel in groot vaten (Botti) = meer fruit behoud; modernus in klein vaten (barrique) = meer eiken-invloed. STIJL = KRACHTIG, ELEGANT, hoog TANNINE, hoog ZUURHEID, donkerrood fruit (pruim, bes), tabak, teer, chocolade. BODY = vol. KLEUR = donker robijn. JONG = zeer hard/grof tannine; EGER = zachter/complex (20+ jaar possible aging). KLASSIEKE JAARGANG = 2010, 2013, 2015 (recent) = goede jaren. VAN KLEINE PRODUSENTEN = meer terroir-character; van NEGOZIANTEN = consistency. VERGELIJKING: BAROLO = 'mannelijk', krachtig; BARBARESCO = 'vrouwelijk', elegant. Beide Nebbiolo, maar Barbaresco korter rijping (9 mnd vat).",
+      "answer": "Barolo DOCG (Piëmont) = 100% Nebbiolo, minimaal 38 maanden rijping (18 maanden vat), mineraal/tanninen/donkerrood fruit, 'Koning der wijnen'.",
+      "explanation": "BAROLO DOCG (Piëmont, Langhe regio, nabij Alba): DRUIF = 100% NEBBIOLO (rood, beroemd voor tanninen/zuurheid). TERROIR = heuvelland (4 TOP subzones: Barolo, Castiglione Falletto, Monforte d'Alba, Serralunga d'Alba = sterke terroir wijnen). BODEM = krijtachtig/kalksteen/mergel (mineraal!). KLIMAAT = kontinentaal-mediterraan, koeler. RIJPING = MINIMUM 38 MAANDEN: 18 maanden EIKEN VAT (minimum!), rest flescoop. Veel traditsioneel in groot vaten (Botti) = meer fruit behoud; modernus in klein vaten (barrique) = meer eiken-invloed. STIJL = KRACHTIG, ELEGANT, hoog TANNINE, hoog ZUURHEID, donkerrood fruit (pruim, bes), tabak, teer, chocolade. BODY = vol. KLEUR = donker robijn. JONG = zeer hard/grof tannine; EGER = zachter/complex (20+ jaar possible aging). KLASSIEKE JAARGANG = 2010, 2013, 2015 (recent) = goede jaren. VAN KLEINE PRODUSENTEN = meer terroir-character; van NEGOZIANTEN = consistency. VERGELIJKING: BAROLO = 'mannelijk', krachtig; BARBARESCO = 'vrouwelijk', elegant. Beide Nebbiolo, maar Barbaresco korter rijping (9 mnd vat).",
       "tags": [
         "italie",
         "barolo",
@@ -7764,7 +7759,7 @@
         "BAROLO = 100% Nebbiolo druif",
         "Piëmont DOCG, Langhe subzone",
         "TERROIR = 4 topsubzones (Barolo, Castiglione, Monforte, Serralunga)",
-        "Minimaal 38 maanden rijping (14 mnd eiken vat)",
+        "Minimaal 38 maanden rijping (18 mnd eiken vat)",
         "Krachtig, hoog tannine/zuurheid, tabak/teer/chocolade smaak",
         "AGING potential = 20+ jaar mogelijk",
         "Trits klassieke jaren 2010, 2013, 2015"
@@ -7907,8 +7902,8 @@
       "difficulty": "hard",
       "source": "web_research; Amarone appassimento process",
       "question": "Wat is appassimento-proces en hoe maken Amarone-wijnen? Waarom zo duur?",
-      "answer": "Appassimento = druiven drogen voor gisting (razijneert), concentreert suiker/smaak. Amarone (Veneto, Italië) = appassimento Corvina druiven, 12-15% alcohol, rijp/zoet, duur dankzij arbeidsintensief.",
-      "explanation": "APPASSIMENTO PROCES (drogen van druiven): STAP 1 = OOGST: selecteer rijpe Corvina (rode druif, Veneto). STAP 2 = DROGEN: druiven leggen op stroomatten/hout-roosters in ventileerde ruimtes (2-4 maanden oktober-januari). CO2-controle, schimmels voorkomen (Flor-achtig). Druiven verkleinen, suiker CONCENTREERT (tot 30-35% suiker!), smaak intensificeert. STAP 3 = GISTING: in JANUARI/FEBRUARI, druiven (nu razijn-achtig) geperst. STIJL = ZOET, RIJP, KRUIDIG (kaneel, muskaat). ALCOHOL = hoog (12-15%), dankzij geconcentreerde suiker. AMARONE SPECIFIEK (Veneto, Valpolicella regio): (1) DRUIF = CORVINA dominant (70%+), Rondinella, Molinara. (2) TERROIR = heuvelland langs Adige rivier. (3) APPASSIMENTO = standaard! (4) RIJPING = 12-18 maanden eiken vat, dan fles. (5) STIJL = donkerrood, rijp fruit (kersen, rozijn), kruidig, vol, tanninen. (6) PRIJS = HOOG dankzij arbeidsintensief droging (2-4 maanden handwerk!). (7) AGING = 10-20+ jaar possible. VERGELIJKING: VALPOLICELLA = standard wijn (geen appassimento), fruitig. AMARONE = appassimento, rijp/zoet/duur.",
+      "answer": "Appassimento = druiven drogen voor gisting (razijneert), concentreert suiker/smaak. Amarone (Veneto, Italië) = appassimento Corvina druiven, 14-17% alcohol (typisch 15-16%), rijp/zoet, duur dankzij arbeidsintensief.",
+      "explanation": "APPASSIMENTO PROCES (drogen van druiven): STAP 1 = OOGST: selecteer rijpe Corvina (rode druif, Veneto). STAP 2 = DROGEN: druiven leggen op stroomatten/hout-roosters in ventileerde ruimtes (2-4 maanden oktober-januari). CO2-controle, schimmels voorkomen (Flor-achtig). Druiven verkleinen, suiker CONCENTREERT (tot 30-35% suiker!), smaak intensificeert. STAP 3 = GISTING: in JANUARI/FEBRUARI, druiven (nu razijn-achtig) geperst. STIJL = ZOET, RIJP, KRUIDIG (kaneel, muskaat). ALCOHOL = hoog (14-17%, typisch 15-16%), dankzij geconcentreerde suiker. AMARONE SPECIFIEK (Veneto, Valpolicella regio): (1) DRUIF = CORVINA dominant (70%+), Rondinella, Molinara. (2) TERROIR = heuvelland langs Adige rivier. (3) APPASSIMENTO = standaard! (4) RIJPING = 12-18 maanden eiken vat, dan fles. (5) STIJL = donkerrood, rijp fruit (kersen, rozijn), kruidig, vol, tanninen. (6) PRIJS = HOOG dankzij arbeidsintensief droging (2-4 maanden handwerk!). (7) AGING = 10-20+ jaar possible. VERGELIJKING: VALPOLICELLA = standard wijn (geen appassimento), fruitig. AMARONE = appassimento, rijp/zoet/duur.",
       "tags": [
         "italie",
         "amarone",
@@ -7925,7 +7920,7 @@
         "Drogen concentreert suiker (30-35%) en smaak",
         "2-4 maanden drogen in ventileerde ruimtes",
         "AMARONE = appassimento Corvina druiven (Veneto)",
-        "Alcohol = 12-15% (dankzij geconcentreerde suiker)",
+        "Alcohol = 14-17% (typisch 15-16%, dankzij geconcentreerde suiker)",
         "RIJP, kruidig, vol, razijn-karakter",
         "PRIJS = hoog (arbeidsintensief droging)"
       ],
@@ -7999,8 +7994,8 @@
       "difficulty": "medium",
       "source": "web_research; Chianti classification",
       "question": "Wat zijn de verschillen tussen Chianti, Chianti Classico en Chianti Classico Riserva?",
-      "answer": "Chianti = basiswijn (DOCG, 80% Sangiovese). Chianti Classico = strikte terroir/rijping (DOCG, Classico zone, 12 mnd vat). Riserva = extra rijping (24 mnd vat, beter).",
-      "explanation": "CHIANTI CLASSIFICATIE (Toscane): (1) CHIANTI DOCG (basis): Toscane wijd/breed DOCG zone. DRUIF = MINIMUM 75% SANGIOVESE (rest Canaiolo/Merlot/ander). RIJPING = geen minimum (jong kan drinkbaar). STIJL = klassiek Sangiovese (rood fruit, tanninen). PRIJS = laag-medium. (2) CHIANTI CLASSICO DOCG (premium): STERK GELIMITEERDE ZONE = Classico-hartland (zeer streng grenzen). TERROIR = heuvels tussen Florence/Siena (ideaal terroir!). DRUIF = MINIMUM 80% SANGIOVESE (strenger dan basis Chianti). RIJPING = MINIMUM 12 MAANDEN EIKEN VAT, dan fles. STIJL = eleganter, fijner tannine dan basis. PRIJS = medium. LOGO = zwarte Gallo Nero (zwarte Haan) op etiket = certificering. (3) CHIANTI CLASSICO RISERVA = PREMIUM: RIJPING = MINIMUM 24 MAANDEN (2 jaar) eiken vat + minimum 3 maanden fles voor release (veel langer!). DRINKBAAR WINDOW = ouder/rijper, tanninen integreren. PRIJS = medium-hoog. STIJL = complex, rijp, tanninen geciviliseerd. VERGELIJKING: BASIS CHIANTI = jong, breder zone, goedkoper. CLASSICO = terroir-specifiek, beter terroir, eleganter. RISERVA = extra rijping, komplexheid, ouder profiel.",
+      "answer": "Chianti = basiswijn (DOCG, 70% Sangiovese). Chianti Classico = strikte terroir/rijping (DOCG, Classico zone, 80% Sangiovese, 12 mnd vat). Riserva = extra rijping (24 mnd vat, beter).",
+      "explanation": "CHIANTI CLASSIFICATIE (Toscane): (1) CHIANTI DOCG (basis): Toscane wijd/breed DOCG zone. DRUIF = MINIMUM 70% SANGIOVESE (rest Canaiolo/Merlot/ander). RIJPING = geen minimum (jong kan drinkbaar). STIJL = klassiek Sangiovese (rood fruit, tanninen). PRIJS = laag-medium. (2) CHIANTI CLASSICO DOCG (premium): STERK GELIMITEERDE ZONE = Classico-hartland (zeer streng grenzen). TERROIR = heuvels tussen Florence/Siena (ideaal terroir!). DRUIF = MINIMUM 80% SANGIOVESE (strenger dan basis Chianti). RIJPING = MINIMUM 12 MAANDEN EIKEN VAT, dan fles. STIJL = eleganter, fijner tannine dan basis. PRIJS = medium. LOGO = zwarte Gallo Nero (zwarte Haan) op etiket = certificering. (3) CHIANTI CLASSICO RISERVA = PREMIUM: RIJPING = MINIMUM 24 MAANDEN (2 jaar) eiken vat + minimum 3 maanden fles voor release (veel langer!). DRINKBAAR WINDOW = ouder/rijper, tanninen integreren. PRIJS = medium-hoog. STIJL = complex, rijp, tanninen geciviliseerd. VERGELIJKING: BASIS CHIANTI = jong, breder zone, goedkoper. CLASSICO = terroir-specifiek, beter terroir, eleganter. RISERVA = extra rijping, komplexheid, ouder profiel.",
       "tags": [
         "italie",
         "chianti",
@@ -8010,9 +8005,9 @@
         "toscane",
         "terroir"
       ],
-      "answer_short": "Chianti = basis DOCG (75% Sangiovese). Classico = strikte terroir (80%, 12 mnd vat). Riserva = extra rijping (24 mnd).",
+      "answer_short": "Chianti = basis DOCG (70% Sangiovese). Classico = strikte terroir (80%, 12 mnd vat). Riserva = extra rijping (24 mnd).",
       "answer_core_points": [
-        "CHIANTI = basis DOCG, 75% Sangiovese minimum",
+        "CHIANTI = basis DOCG, 70% Sangiovese minimum",
         "CHIANTI CLASSICO = Classico-zone (Florence/Siena), 80% Sangiovese",
         "CLASSICO = 12 maanden vat, Gallo Nero logo",
         "RISERVA = 24 maanden vat, extra rijping",
