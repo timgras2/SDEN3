@@ -331,7 +331,7 @@
       "category": "serveren",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke serveertemperatuur is juist voor een Médoc?",
+      "question": "Wat is de juiste serveertemperatuur voor een Médoc?",
       "answer": "17-19°C",
       "explanation": "Rode Bordeaux (Médoc) wordt geserveerd bij 17-19°C - dit is 'kamertemperatuur' in de oude betekenis (koele salon). Te warm en de alcohol gaat overheersen; te koud en de aroma's komen niet vrij. Ter vergelijking: Champagne Brut 8-10°C, Sauternes 10-12°C, witte Bourgogne 12-14°C, lichte rode wijn 14-16°C.",
       "tags": [
@@ -992,7 +992,7 @@
       "category": "italie",
       "difficulty": "hard",
       "source": "oefenexamen_2019",
-      "question": "Welke zijn uitsluitend witte Italiaanse druivenrassen?",
+      "question": "Wat zijn de belangrijkste witte Italiaanse druivenrassen?",
       "answer": "Moscato, Trebbiano, Garganega en Verdicchio (Malvasia ook wit, maar Malvasia Nera is een rode variant)",
       "explanation": "WITTE Italiaanse druiven: Moscato (Muscat, zoet), Trebbiano (meest aangeplant), Garganega (Soave), Verdicchio, Malvasia Bianca (aromatisch). Noot: Malvasia is een familie met 17+ varianten - meest wit maar Malvasia Nera/Casorzo/Schierano zijn rood. RODE druiven: Sangiovese, Nebbiolo, Barbera, Corvina, Aglianico, Montepulciano. Trebbiano = basis voor veel witte wijnen en balsamicoazijn.",
       "tags": [
@@ -1045,7 +1045,7 @@
       "category": "italie",
       "difficulty": "hard",
       "source": "oefenexamen_2019",
-      "question": "In welke Italiaanse regio ligt Vino Nobile di Montepulciano (Toscane) en Orvieto (Umbrië)?",
+      "question": "Aan welke Italiaanse regio's moet je Vino Nobile di Montepulciano en Orvieto koppelen?",
       "answer": "Vino Nobile di Montepulciano in Toscane, Orvieto in Umbrië",
       "explanation": "TOSCANE: Vino Nobile di Montepulciano (RODE wijn, Sangiovese = Prugnolo Gentile), Chianti, Brunello di Montalcino, Bolgheri. UMBRIË: Orvieto (WITTE wijn, Grechetto + Trebbiano), Sagrantino di Montefalco. Barolo = PIEMONTE (niet Toscane!), Valpolicella = VENETO, Lambrusco = EMILIA-ROMAGNA. Let op: Montepulciano (plaats in Toscane) ≠ Montepulciano d'Abruzzo (druif/wijn).",
       "tags": [
@@ -1071,7 +1071,7 @@
       "category": "italie",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke Italiaanse wijn is een WITTE wijn en welke een RODE?",
+      "question": "Classificeer als wit of rood: Orvieto en Barbaresco",
       "answer": "WIT: Orvieto, ROOD: Barbaresco",
       "explanation": "WITTE wijnen: Orvieto (Umbrië, Grechetto), Soave (Veneto, Garganega), Gavi (Piemonte, Cortese), Verdicchio (Marche). RODE wijnen: Barbaresco (Piemonte, Nebbiolo 100%), Chianti (Toscane, Sangiovese), Barolo (Piemonte, Nebbiolo), Valpolicella (Veneto, Corvina). Barbera d'Asti = RODE druif/wijn. Montepulciano d'Abruzzo = RODE wijn. Bardolino = RODE wijn (Veneto).",
       "tags": [
@@ -1097,7 +1097,7 @@
       "category": "italie",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke Italiaanse term is juist?",
+      "question": "Wat houdt de Italiaanse wijnterm Ripasso in?",
       "answer": "Ripasso is een wijnmaaktechniek die kleur, kracht en smaak aan jonge wijn toevoegt",
       "explanation": "RIPASSO = techniek waarbij jonge Valpolicella over de nog suikerhoudende droesem van Amarone gaat ('repasser' = opnieuw vergisten). Dit geeft meer body, alcohol, kleur en complexiteit. Resultaat: Valpolicella Ripasso - tussen normale Valpolicella en Amarone. FRIZZANTE = licht mousserend (niet 'koel schenken'). PASSITO = zoete wijn van gedroogde druiven (niet 'past bij pasta').",
       "tags": [
@@ -1148,7 +1148,7 @@
       "category": "spanje_portugal",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Mag Cava volgens de regels volgens de traditionele methode worden geproduceerd?",
+      "question": "Volgens welke productiemethode moet Cava worden gemaakt?",
       "answer": "Ja, Cava mag UITSLUITEND volgens de traditionele methode worden geproduceerd",
       "explanation": "CAVA (Spaanse mousserende wijn, vooral uit Penedès/Catalonië) MOET volgens de TRADITIONELE METHODE (méthode champenoise) gemaakt worden - tweede gisting in de fles, minimaal 9 maanden rijping. Druiven: Macabeo, Xarel-lo, Parellada (wit), Trepat (rosé). Cava is GEEN cuve close (tank methode zoals Prosecco), GEEN toevoeging van CO2. Cava = betaalbaar alternatief voor Champagne.",
       "tags": [
@@ -1222,7 +1222,7 @@
       "category": "spanje_portugal",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke bewering over port is juist?",
+      "question": "In welke kleurvarianten wordt port geproduceerd?",
       "answer": "Er bestaat rode en witte port",
       "explanation": "PORT komt in ROOD en WIT: RODE PORT: Ruby (jong, fruitig), Tawny (oxidatief, noten/karamel), LBV (Late Bottled Vintage), Vintage (beste jaren, lang rijpbaar). WITTE PORT: droog tot zoet, aperitief. Colheita = SINGLE vintage Tawny (NIET assemblage). Vintage Port wordt gebotteld na 2-3 jaar (NIET 6 jaar). Port = versterkt tijdens gisting (behoud suikers) met aguardente.",
       "tags": [
@@ -1247,7 +1247,7 @@
       "category": "overig",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke zijn uitsluitend Griekse wijngebieden?",
+      "question": "Wat zijn de belangrijkste Griekse wijngebieden?",
       "answer": "Nemea en Santorini",
       "explanation": "GRIEKSE wijngebieden: NEMEA (Peloponnesos, rode wijn van Agiorgitiko druif), SANTORINI (eiland, witte wijn van Assyrtiko druif, vulkanische bodem, zoute mineralen). Almansa = SPANJE (Castilla-La Mancha), Samos = GRIEKS eiland (zoete Muscat), Marsala = ITALIË/SICILIË (versterkte wijn), Montsant = SPANJE (Catalonië, bij Priorat). Andere Griekse gebieden: Naoussa, Retsina (Attika).",
       "tags": [
@@ -1271,7 +1271,7 @@
       "category": "overig",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke bewering over Luxemburgse wijn is juist?",
+      "question": "Wat is het Marque Nationale bij Luxemburgse wijn?",
       "answer": "Het Marque Nationale is een kwaliteitslabel voor Luxemburgse wijn",
       "explanation": "MARQUE NATIONALE = Luxemburgs kwaliteitszegel (officiële degustatie, minimale kwaliteitseisen). Luxemburgse wijnbouw: langs de Moezel, vooral WITTE wijn (Riesling, Auxerrois, Pinot Gris, Pinot Blanc). Ook CRÉMANT DE LUXEMBOURG (mousserende wijn, traditionele methode). Luxemburg heeft een EIGEN wijnwetgeving (niet onder Frankrijk). Produceert ook ROSÉ en wat RODE wijn (Pinot Noir).",
       "tags": [
@@ -1344,7 +1344,7 @@
       "category": "nieuwe_wereld",
       "difficulty": "medium",
       "source": "oefenexamen_2019",
-      "question": "Welke bewering over de Chileense wijnbouw is juist?",
+      "question": "Waarom is irrigatie essentieel in de Chileense wijnbouw?",
       "answer": "Irrigatie is in de meeste wijnbouwstreken noodzakelijk",
       "explanation": "CHILI: IRRIGATIE is ESSENTIEEL - droog klimaat (Atacama woestijn in noorden), weinig regen tijdens groeiseizoen. Water komt van Andes smeltwater. Cabernet Sauvignon is meest aangeplant (NIET Carmenère). Wijnbouw concentreert zich in CENTRALE CHILE (Maipo, Colchagua, Casablanca) NIET in het noorden (te droog). Chili = geen phylloxera! Belangrijke druiven: Cabernet, Carmenère, Sauvignon Blanc.",
       "tags": [
@@ -2760,7 +2760,7 @@
         "melkzuur",
         "bsa"
       ],
-      "answer_short": "De omzetting van hard appelzuur naar zachter melkzuur door bacterien.",
+      "answer_short": "Appelzuur→melkzuur (MLF)",
       "answer_core_points": [
         "Dit proces verlaagt de zuurgraad en maakt de wijn zachter en ronder van smaak.",
         "Het komt vrijwel standaard voor bij rode wijnen en soms bij witte wijnen (zoals Chardonnay) om een boterig karakter toe te voegen."
@@ -2782,13 +2782,13 @@
         "proeftechniek"
       ],
       "answer_pitfall": "Denk niet dat houtrijping tertiair is; in proeflogica valt dit onder secundair.",
-      "answer_short": "Het verschil zit in de fase waarin de aroma's ontstaan: druif, vinificatie of rijping.",
+      "answer_short": "Aroma's per fase: druif/vinificatie/rijping",
       "answer_core_points": [
         "Primair: aroma's van de druif zelf en terroir (fruit, bloemen, kruiden).",
         "Secundair: aroma's door vinificatie (gist, houtrijping, boter door MLF).",
         "Tertiair: aroma's door rijping op fles of oxidatie (leer, paddenstoelen, noten)."
       ],
-      "answer_why": "",
+      "answer_why": "Het begrijpen van deze herkomst bepaalt of je een wijn als jong/fruitig (primair), gemaakt (secundair) of gerijpt (tertiair) kunt classificeren in een proefsetting.",
       "answer_memory_hook": ""
     },
     {
@@ -2804,12 +2804,14 @@
         "flor",
         "rijping"
       ],
-      "answer_short": "De aanwezigheid of afwezigheid van flor (een gistlaag).",
+      "answer_short": "Flor (gistlaag) bepaalt stijl",
       "answer_core_points": [
-        "Biologische rijping (zoals Fino) gebeurt onder flor, die de wijn beschermt tegen zuurstof en ziltige aroma's geeft.",
-        "Oxidatieve rijping (zoals Oloroso) gebeurt zonder flor, met direct zuurstofcontact en tonen van noten en karamel."
+        "Biologische rijping bij Sherry (Fino) gebeurt onder een beschermende flor-gistlaag.",
+        "Flor beschermt de wijn tegen zuurstof en geeft ziltige aroma's.",
+        "Oxidatieve rijping (Oloroso) gebeurt zonder flor met direct zuurstofcontact.",
+        "Oxidatieve rijping geeft tonen van noten en karamel."
       ],
-      "answer_why": "",
+      "answer_why": "Flor bepaalt of de wijn beschermd blijft tegen oxidatie (fris, ziltig) of juist oxidatief rijpt (nootachtig, voller) - de kern van het verschil tussen Fino en Oloroso.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -2826,12 +2828,14 @@
         "wetgeving",
         "classificatie"
       ],
-      "answer_short": "Het zijn aanduidingen voor de bescherming van herkomst en kwaliteitseisen.",
+      "answer_short": "Bescherming herkomst en kwaliteit",
       "answer_core_points": [
-        "PDO (Protected Designation of Origin) heeft strengere regels waarbij alles uit een specifiek gebied moet komen.",
-        "PGI (Protected Geographical Indication) is flexibeler, met minimaal 85% druiven uit het genoemde gebied."
+        "PDO/BOB (Protected Designation of Origin) heeft de strengste herkomst- en productieregels.",
+        "Bij PDO moet het hele productieproces in het specifieke gebied plaatsvinden.",
+        "PGI/BGA (Protected Geographical Indication) is flexibeler.",
+        "PGI vereist minimaal 85% van de druiven uit het genoemde gebied."
       ],
-      "answer_why": "",
+      "answer_why": "PDO garandeert strengere herkomst- en productieregels dan PGI, wat direct invloed heeft op de kwaliteitsverwachting en prijs van een wijn.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -2851,10 +2855,12 @@
       "answer_memory_hook": "Merlot voor de mollige, zachte wijnen van de rechteroever op klei.",
       "answer_short": "Merlot.",
       "answer_core_points": [
-        "De rechteroever heeft veel kleibodems waar Merlot uitstekend op gedijt.",
-        "De linkeroever (Medoc) is vaker gedomineerd door Cabernet Sauvignon door de kiezelbodems."
+        "Merlot domineert de blends op de Rechteroever van Bordeaux (Pomerol, St-Emilion).",
+        "De Rechteroever heeft kleibodems waar Merlot optimaal op gedijt.",
+        "De Linkeroever (Médoc) wordt gedomineerd door Cabernet Sauvignon.",
+        "Kiezelbodems op de Linkeroever zijn ideaal voor Cabernet Sauvignon."
       ],
-      "answer_why": "",
+      "answer_why": "Het bodemtype (klei vs. kiezel) bepaalt welke druif optimaal gedijt - Merlot houdt van klei (rechteroever), Cabernet Sauvignon van kiezel (linkeroever).",
       "answer_pitfall": ""
     },
     {
@@ -2871,11 +2877,13 @@
         "hoogte",
         "malbec"
       ],
-      "answer_short": "De hoogte (altitude) van de wijngaarden in de Andes.",
+      "answer_short": "Hoogte Andes-wijngaarden",
       "answer_core_points": [
-        "De grote hoogte zorgt voor veel zonlicht voor de rijping, terwijl de koele nachten (grote diurnale range) helpen om de zuren en aroma's in de druiven (vooral Malbec) te behouden."
+        "Grote hoogte in de Andes zorgt voor veel zonlicht tijdens de rijping van de druiven.",
+        "Koele nachten (grote diurnale range) helpen de zuren en aroma's in de druiven te behouden.",
+        "Malbec profiteert van de balans tussen rijp fruit (zon) en frisheid (koele nachten)."
       ],
-      "answer_why": "",
+      "answer_why": "De combinatie van veel zon (dikke schillen, rijpe tannines) en koele nachten (behoud van zuren) geeft Mendoza Malbec zijn kenmerkende balans tussen rijp fruit en frisheid.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -2894,10 +2902,12 @@
       ],
       "answer_short": "Carmenère; Chili is nagenoeg Phylloxera-vrij.",
       "answer_core_points": [
-        "Carmenère werd herontdekt in Chili nadat men dacht dat het Merlot was.",
-        "Chili is een van de weinige landen waar de druifluis (Phylloxera) nooit de wijngaarden heeft vernietigd, waardoor veel stokken niet geënt hoeven te worden op Amerikaanse onderstammen."
+        "Carmenère is de signatuurdruif van Chili.",
+        "De druif werd herontdekt in Chili nadat men dacht dat het Merlot was.",
+        "Chili is nagenoeg Phylloxera-vrij door zijn geografische isolatie.",
+        "Doordat Chili Phylloxera-vrij is, hoeven veel stokken niet geënt te worden op Amerikaanse onderstammen."
       ],
-      "answer_why": "",
+      "answer_why": "De isolatie van Chili door de Andes en de Stille Oceaan heeft Phylloxera buiten gehouden, waardoor Carmenère hier kon overleven terwijl het in Europa vrijwel verdween.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -2915,12 +2925,14 @@
         "steen",
         "chenin_blanc"
       ],
-      "answer_short": "Pinotage is een kruising tussen Pinot Noir en Cinsault; Chenin Blanc wordt 'Steen' genoemd.",
+      "answer_short": "Pinotage (PN×Cinsault); Steen (Chenin)",
       "answer_core_points": [
-        "Pinotage is in 1925 ontwikkeld om de finesse van Pinot Noir te combineren met de robuustheid van Cinsault (vroeger Hermitage genoemd).",
-        "Chenin Blanc is de meest aangeplante druif van het land."
+        "Pinotage is een kruising tussen Pinot Noir en Cinsault, ontwikkeld in 1925.",
+        "Het combineert de finesse van Pinot Noir met de robuustheid van Cinsault.",
+        "Chenin Blanc is de meest aangeplante druif van Zuid-Afrika.",
+        "Chenin Blanc wordt in Zuid-Afrika lokaal 'Steen' genoemd."
       ],
-      "answer_why": "",
+      "answer_why": "Pinotage combineert de finesse van Pinot Noir met de groeikracht van Cinsault; de naam 'Steen' voor Chenin Blanc verwijst naar de van oorsprong Duitse wijnbouwer die het introduceerde.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -2939,9 +2951,11 @@
       ],
       "answer_short": "Marlborough; passievrucht, kruisbes en gemaaid gras.",
       "answer_core_points": [
-        "De Sauvignon Blanc uit Marlborough staat bekend om zijn hoge zuurgraad en zeer uitgesproken, stuivende tropische en groene aroma's."
+        "Marlborough is wereldberoemd om zijn Sauvignon Blanc met een hoge zuurgraad.",
+        "Typische aroma's zijn passievrucht, kruisbes en gemaaid gras.",
+        "De wijn heeft een zeer uitgesproken, stuivend aromatisch karakter."
       ],
-      "answer_why": "",
+      "answer_why": "Marlborough's unieke combinatie van veel zonneschijn, koele nachten en vrije drainage (grindbodems) geeft Sauvignon Blanc zijn kenmerkende intensiteit en hoge zuren.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -2958,11 +2972,13 @@
         "shiraz",
         "barossa"
       ],
-      "answer_short": "Barossa Valley; chocolade, specerijen en rijp zwart fruit.",
+      "answer_short": "Barossa: chocolade, specerijen",
       "answer_core_points": [
-        "Door het warme klimaat in Barossa Valley ontwikkelt de Shiraz-druif veel suikers, wat resulteert in wijnen met een hoog alcoholpercentage, volle body en jammy aroma's."
+        "Barossa Valley heeft een warm klimaat waarin Shiraz veel suikers ontwikkelt.",
+        "Dit resulteert in wijnen met een hoog alcoholpercentage en volle body.",
+        "Typische aroma's zijn chocolade, specerijen, rijp zwart fruit en jammy tonen."
       ],
-      "answer_why": "",
+      "answer_why": "Het warme, zonnige klimaat van Barossa Valley laat Shiraz maximaal rijpen, wat resulteert in hoge suikers (alcohol), volle extractie en de typische jammy, chocolade-achtige tonen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -2981,12 +2997,14 @@
         "napa",
         "sonoma"
       ],
-      "answer_short": "Napa focust op krachtige Cabernet Sauvignon; Sonoma is diverser met ook koelere pockets voor Pinot Noir en Chardonnay.",
+      "answer_short": "Napa (krachtig) vs Sonoma (divers)",
       "answer_core_points": [
         "Napa Valley is het epicentrum voor premium Cabernet Sauvignon.",
-        "Sonoma is uitgestrekter en heeft door de invloed van de oceaan meer variatie in microklimaten, waardoor het ook zeer geschikt is voor koelere druivenrassen."
+        "Napa's warme, beschutte zuidhellingen zijn ideaal voor Cabernet Sauvignon.",
+        "Sonoma is uitgestrekter en diverser met meer microklimaten door oceaaninvloed.",
+        "Sonoma heeft koelere pockets die geschikt zijn voor Pinot Noir en Chardonnay."
       ],
-      "answer_why": "",
+      "answer_why": "De warme, beschutte zuidhellingen van Napa zijn ideaal voor Cabernet Sauvignon; Sonoma's open ligging naar de oceaan geeft meer microklimaten.",
       "answer_memory_hook": ""
     },
     {
@@ -3003,12 +3021,14 @@
         "barolo",
         "barbaresco"
       ],
-      "answer_short": "100% Nebbiolo; hoge zuren, hoge tannines en aroma's van rozen en teer.",
+      "answer_short": "100% Nebbiolo: rozen, teer",
       "answer_core_points": [
-        "Piemonte wordt vaak de 'Bourgogne van Italië' genoemd vanwege de focus op terroir.",
-        "De Nebbiolo-druif geeft wijnen met een relatief lichte kleur, maar een zeer krachtige structuur en complexe tertiaire tonen bij oudering [1, 2]."
+        "Barolo en Barbaresco zijn beide 100% Nebbiolo uit Piemonte.",
+        "Piemonte wordt de 'Bourgogne van Italië' genoemd vanwege de terroir-focus.",
+        "Nebbiolo heeft een lichte kleur maar zeer hoge tannines, hoge zuren en aroma's van rozen en teer.",
+        "Bij oudering ontwikkelt Nebbiolo complexe tertiaire tonen."
       ],
-      "answer_why": "",
+      "answer_why": "Nebbiolo's dunne schil geeft lichte kleur, maar de dikke pitten zorgen voor extreme tannines; de neus van rozen/teer is het handelsmerk.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3027,12 +3047,12 @@
         "chianti",
         "brunello"
       ],
-      "answer_short": "Sangiovese; aroma's van zure kers, kruiden en aardse tonen met hoge zuren.",
+      "answer_short": "Sangiovese: zure kers, kruiden",
       "answer_core_points": [
         "Sangiovese is de trots van Toscane.",
         "In Chianti Classico moet dit ras voor minimaal 80% aanwezig zijn, terwijl Brunello di Montalcino uit 100% Sangiovese (lokaal Brunello genoemd) bestaat [1, 3]."
       ],
-      "answer_why": "",
+      "answer_why": "Sangiovese is diep verankerd in de Toscaanse identiteit - de hoge zuren en zure kers maken het ideaal bij de zoute, vette Toscaanse keuken.",
       "answer_memory_hook": ""
     },
     {
@@ -3049,12 +3069,14 @@
         "appassimento",
         "corvina"
       ],
-      "answer_short": "Het indrogen van druiven vóór de vergisting voor een hogere concentratie.",
+      "answer_short": "Indrogen druiven (appassimento)",
       "answer_core_points": [
-        "Door de druiven (meestal Corvina) na de oogst in te drogen, verdampt water en concentreren suikers en aroma's zich.",
-        "Dit resulteert in een zware, alcoholrijke wijn met tonen van gedroogd fruit [1, 5]."
+        "Appassimento is het indrogen van druiven (meestal Corvina) vóór de vergisting.",
+        "Door indrogen verdampt water en concentreren suikers, zuren en aroma's zich.",
+        "Dit proces wordt gebruikt voor Amarone della Valpolicella in Veneto.",
+        "Amarone is een zware, alcoholrijke wijn (14-16%) met tonen van gedroogd fruit."
       ],
-      "answer_why": "",
+      "answer_why": "Indrogen concentreert suikers, zuren en aroma's - zonder mostverhoging (zoals bij chaptalisatie) - wat de unieke kracht en complexiteit van Amarone verklaart.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3072,12 +3094,14 @@
         "DOC",
         "DOCG"
       ],
-      "answer_short": "DOCG is de hoogste aanduiding met de strengste regels en een gegarandeerde kwaliteitstest.",
+      "answer_short": "DOCG: strengste kwaliteitstest",
       "answer_core_points": [
-        "DOC (Denominazione di Origine Controllata) stelt regels voor herkomst en druiven.",
-        "DOCG (Garantita) voegt daar een extra keuring aan toe en is herkenbaar aan de genummerde banderol om de hals van de fles [6-9]."
+        "DOC (Denominazione di Origine Controllata) is het basisniveau kwaliteitswijn met herkomstregels.",
+        "DOCG (Garantita) is de hoogste Italiaanse aanduiding met de strengste eisen.",
+        "DOCG voegt een extra verplichte proeverij en keuring toe.",
+        "DOCG is herkenbaar aan de genummerde banderol om de hals van de fles."
       ],
-      "answer_why": "",
+      "answer_why": "DOCG heeft een extra overheidskeuring en genummerde banderol om namaak te voorkomen en de consument extra garantie te geven.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3096,13 +3120,13 @@
         "klimaat",
         "hoogte"
       ],
-      "answer_short": "Hoogte (altitude) en in Sicilië tevens de invloed van de kust.",
+      "answer_short": "Altitude + kustinvloed (Sicilië)",
       "answer_core_points": [
         "In Alto Adige zorgt de koelere Alpenlucht voor frisheid.",
         "Op Sicilië compenseert de hoogte van wijngaarden (bijv.",
         "rond de Etna) en de zeebries voor de mediterrane hitte, waardoor zuren en aroma's behouden blijven [3, 10]."
       ],
-      "answer_why": "",
+      "answer_why": "De Alpen (Alto Adige) en de zee/Etna-hoogte (Sicilië) werken als natuurlijke airconditioning die de hitte tempert en zuren behoudt.",
       "answer_pitfall": ""
     },
     {
@@ -3118,12 +3142,14 @@
         "shiraz",
         "barossa"
       ],
-      "answer_short": "Krachtig en vol met aroma's van chocolade, leer, specerijen en jammy zwart fruit.",
+      "answer_short": "Krachtig: chocolade, leer, specerijen",
       "answer_core_points": [
-        "Door het warme klimaat in Barossa Valley ontwikkelt de Shiraz-druif veel suikers en extractie.",
-        "Dit resulteert in wijnen met een volle body, hoog alcoholpercentage en rijpe, kruidige tonen."
+        "Shiraz uit Barossa Valley is krachtig en vol van smaak.",
+        "Het warme klimaat zorgt voor veel suikers en extractie in de druiven.",
+        "De wijn heeft een volle body met een hoog alcoholpercentage.",
+        "Typische aroma's zijn chocolade, leer, specerijen en jammy zwart fruit."
       ],
-      "answer_why": "",
+      "answer_why": "Barossa's hete dagen zorgen voor maximale suikerontwikkeling en extractie, wat de krachtige, jammy stijl met hoog alcohol verklaart.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3141,12 +3167,12 @@
         "marlborough",
         "sauvignon_blanc"
       ],
-      "answer_short": "Aroma's van passievrucht, kruisbes en gemaaid gras met een hoge zuurgraad.",
+      "answer_short": "Passievrucht, kruisbes, hoge zuren",
       "answer_core_points": [
         "Marlborough is het wereldwijde anker voor Sauvignon Blanc.",
         "De wijnen staan bekend om hun stuivende, aromatische karakter dat zowel tropische vruchten als 'groene' tonen (zoals buxus of asperge) bevat."
       ],
-      "answer_why": "",
+      "answer_why": "De combinatie van veel zon, koele nachten en vrije drainage in Marlboroughs grindbodems geeft Sauvignon Blanc zijn extreme aromatische intensiteit en hoge zuren.",
       "answer_pitfall": ""
     },
     {
@@ -3164,10 +3190,12 @@
       ],
       "answer_short": "Central Otago.",
       "answer_core_points": [
-        "Central Otago is een van de meest zuidelijk gelegen wijngebieden ter wereld.",
-        "Het koelere klimaat daar is ideaal voor de Pinot Noir-druif, wat resulteert in elegante wijnen met aroma's van rood fruit (kers, aardbei) en aardse tonen."
+        "Central Otago op het Zuidereiland staat bekend om Pinot Noir.",
+        "Het is een van de meest zuidelijk gelegen wijngebieden ter wereld.",
+        "Het koelere klimaat is ideaal voor Pinot Noir, met elegante wijnen als resultaat.",
+        "Typische aroma's zijn rood fruit (kers, aardbei) en aardse tonen."
       ],
-      "answer_why": "",
+      "answer_why": "Central Otago's zuidelijke breedtegraad en continentale klimaat geven koele nachten, wat de Pinot Noir elegant en aromatisch houdt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3184,12 +3212,14 @@
         "margaret_river",
         "klimaat"
       ],
-      "answer_short": "Een maritiem klimaat dat zorgt voor een strakke, klassieke stijl Cabernet Sauvignon en Chardonnay.",
+      "answer_short": "Maritiem: strakke CS/Chardonnay",
       "answer_core_points": [
-        "In tegenstelling tot de zeer hete gebieden in het binnenland, zorgt de invloed van de oceaan in Margaret River voor gematigde temperaturen.",
-        "Dit leidt tot wijnen met meer verfijning, hogere zuren en een structuur die vaak met Bordeaux wordt vergeleken."
+        "Margaret River heeft een maritiem klimaat met gematigde temperaturen door oceaaninvloed.",
+        "Dit zorgt voor meer verfijning in tegenstelling tot hete Australische regio's.",
+        "De wijnen hebben hogere zuren en een Bordeaux-achtige structuur.",
+        "Cabernet Sauvignon en Chardonnay zijn de belangrijkste druiven."
       ],
-      "answer_why": "",
+      "answer_why": "Margaret River's maritieme ligging geeft gematigde temperaturen zonder extreme hitte, wat resulteert in Bordeaux-achtige elegantie i.p.v. de typische Australische kracht.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3213,7 +3243,7 @@
         "De wijnen worden vaak jong geoogst met een laag alcoholpercentage en hoge zuren.",
         "Hoewel ze in hun jeugd neutraal zijn, ontwikkelen ze na jaren flesrijping complexe aroma's van honing en toast."
       ],
-      "answer_why": "",
+      "answer_why": "Hunter Valley Semillon wordt jong geoogst met lage suikers (laag alcohol) en hoge zuren, waarna flesrijping de karakteristieke honingtoast-tonen ontwikkelt zonder houtinvloed.",
       "answer_memory_hook": ""
     },
     {
@@ -3231,9 +3261,11 @@
       ],
       "answer_short": "Clare Valley (of Eden Valley).",
       "answer_core_points": [
-        "Hoewel Australië vaak geassocieerd wordt met warmte, produceren koelere subregio's zoals Clare Valley uitstekende Rieslings met strakke zuren en aroma's van limoen en bloemen."
+        "Clare Valley en Eden Valley zijn koelere subregio's in Australië.",
+        "Ze produceren uitstekende Rieslings met strakke zuren.",
+        "Typische aroma's zijn limoen en bloemen."
       ],
-      "answer_why": "",
+      "answer_why": "Clare Valley's hoogte en koelere microklimaat bieden de nachtelijke afkoeling die Riesling nodig heeft voor het behoud van zuren en aromatische intensiteit.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3273,12 +3305,14 @@
         "appelzuur",
         "melkzuur"
       ],
-      "answer_short": "Het omzetten van hard appelzuur in mild melkzuur; bijna standaard bij rode wijnen en optioneel bij witte wijnen.",
+      "answer_short": "Appelzuur→melkzuur, standaard bij rood",
       "answer_core_points": [
-        "BSA verlaagt de zuurgraad, verhoogt de pH en zorgt voor een zachter mondgevoel en meer stabiliteit.",
-        "Bij witte wijnen zoals Chardonnay kan het ook boterachtige aroma's (diacetyl) toevoegen [2-4]."
+        "Malolactische gisting (BSA) zet hard appelzuur om in mild melkzuur.",
+        "Het verlaagt de zuurgraad, verhoogt de pH en geeft een zachter mondgevoel.",
+        "BSA wordt bijna altijd toegepast bij rode wijnen en optioneel bij witte wijnen.",
+        "Bij witte wijnen zoals Chardonnay voegt het boterachtige aroma's (diacetyl) toe."
       ],
-      "answer_why": "",
+      "answer_why": "Malolactische gisting wordt toegepast omdat hard appelzuur de wijn te scherp maakt; omzetting naar melkzuur geeft een zachtere, rondere wijn die beter in balans is.",
       "answer_memory_hook": ""
     },
     {
@@ -3294,12 +3328,14 @@
         "maceratie",
         "extractie"
       ],
-      "answer_short": "Witte wijn wordt geperst vóór de gisting; rode wijn na (of tijdens) de gisting op de schillen.",
+      "answer_short": "Wit: persen voor gisting; Rood: erna",
       "answer_core_points": [
-        "Bij witte wijn wil men enkel het sap vergisten om primaire fruitaroma's te behouden.",
-        "Bij rode wijn is maceratie (schilcontact) tijdens de gisting nodig om kleur en tannines uit de schillen te extraheren [4, 5]."
+        "Witte wijn wordt geperst vóór de gisting, zodat alleen het sap vergist wordt.",
+        "Dit behoudt de primaire fruitaroma's van de wijn.",
+        "Rode wijn wordt na of tijdens de gisting op de schillen geperst.",
+        "Schilcontact (maceratie) tijdens gisting is nodig voor kleur- en tannine-extractie."
       ],
-      "answer_why": "",
+      "answer_why": "Bij witte wijn wil je alleen het sap vergisten om primaire fruitaroma's te behouden; bij rode wijn is schilcontact nodig voor kleur- en tannine-extractie.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3316,11 +3352,13 @@
         "SO2",
         "stabilisatie"
       ],
-      "answer_short": "Bescherming tegen oxidatie en bescherming tegen bacterieel bederf (antimicrobieel).",
+      "answer_short": "Beschermt tegen oxidatie en bacteriën",
       "answer_core_points": [
-        "SO2 voorkomt dat de wijn bruin wordt en gewenste aroma's verliest, en het remt de groei van ongewenste gisten en bacteriën [6-8]."
+        "SO2 beschermt de wijn tegen oxidatie en voorkomt bruinverkleuring en verlies van aroma's.",
+        "SO2 remt de groei van ongewenste gisten en bacteriën (antimicrobieel).",
+        "Zwaveldioxide is het meest gebruikte conserveermiddel in de wijnbouw."
       ],
-      "answer_why": "",
+      "answer_why": "Oxidatie bederft aroma's en kleur; SO2 is het meest effectieve en veelzijdige middel om zowel oxidatie als microbiële bederf te voorkomen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3338,13 +3376,13 @@
         "rijping",
         "oxidatie"
       ],
-      "answer_short": "Toevoeging van aroma's, gecontroleerde zuurstofinflux (micro-oxidatie) en structurele verandering (tanninepolymerisatie).",
+      "answer_short": "Hout: aroma's, oxidatie, structuur",
       "answer_core_points": [
         "Hout geeft smaken zoals vanille en toast.",
         "Door de poriën komt een minimale hoeveelheid zuurstof binnen, wat de wijn zachter maakt en de kleur stabiliseert.",
         "Hoe kleiner het vat, hoe groter de impact [9-11]."
       ],
-      "answer_why": "",
+      "answer_why": "Eikenhout voegt niet alleen smaak toe maar laat ook micro-oxidatie toe, wat tannines verzacht en de wijnstructuur stabiliseert.",
       "answer_pitfall": ""
     },
     {
@@ -3360,12 +3398,14 @@
         "beaujolais",
         "techniek"
       ],
-      "answer_short": "Vergisting van hele, ongekneusde druiven in een koolzuurgasomgeving; levert fruitige wijnen met weinig tannines.",
+      "answer_short": "Hele druiven vergisten in CO2-omgeving",
       "answer_core_points": [
-        "De gisting vindt deels binnenin de druif plaats zonder tussenkomst van gist.",
-        "Dit geeft typerende aroma's van banaan of snoepgoed en een soepele structuur, zoals bij Beaujolais Nouveau [6, 12, 13]."
+        "Macération Carbonique vergist hele, ongekneusde druiven in een CO2-omgeving.",
+        "De gisting vindt deels binnenin de druif plaats (intracellulaire fermentatie).",
+        "Dit levert fruitige wijnen met weinig tannines en een soepele structuur.",
+        "Typische aroma's zijn banaan en snoepgoed; bekend van Beaujolais Nouveau."
       ],
-      "answer_why": "",
+      "answer_why": "De CO2-omgeving voorkomt oxidatie en activeert intracellulaire fermentatie in de druiven, wat zorgt voor fruitige, tannine-arme wijnen zonder traditionele schilmaceratie.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3382,12 +3422,14 @@
         "batonnage",
         "textuur"
       ],
-      "answer_short": "Het verkrijgen van een vollere smaak en romige textuur door contact met dode gistcellen.",
+      "answer_short": "Vollere smaak door gistcontact (sur lie)",
       "answer_core_points": [
-        "Tijdens de autolyse geven dode gistcellen (lie) stoffen af aan de wijn.",
-        "Bâtonnage is het doorroeren van deze cellen om het contactoppervlak te vergroten en de smaakafgifte te stimuleren [9, 11, 14]."
+        "Rijping 'sur lie' is rijping op dode gistcellen voor een vollere smaak en romige textuur.",
+        "Tijdens autolyse geven dode gistcellen (lie) smaakstoffen af aan de wijn.",
+        "Bâtonnage is het doorroeren van de lie om het contactoppervlak te vergroten.",
+        "Sur lie en bâtonnage worden vaak gebruikt bij witte wijn zoals Chardonnay."
       ],
-      "answer_why": "",
+      "answer_why": "Autolyse van dode gistcellen geeft smaakstoffen (aminozuren, polysachariden) af, die de wijn voller en romiger maken; bâtonnage versnelt dit proces.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3405,12 +3447,14 @@
         "suiker",
         "alcohol"
       ],
-      "answer_short": "Het toevoegen van suiker aan de most vóór de gisting om het alcoholgehalte te verhogen.",
+      "answer_short": "Suiker toevoegen voor hoger alcohol%",
       "answer_core_points": [
-        "Dit wordt vaak toegepast in koelere jaren wanneer druiven niet voldoende suiker hebben ontwikkeld.",
-        "Het doel is extra alcohol voor de balans, niet om de wijn zoet te maken [6, 15, 16]."
+        "Chaptalisatie is het toevoegen van suiker aan de most vóór de gisting.",
+        "Het doel is het verhogen van het alcoholgehalte, niet de wijn zoet maken.",
+        "Het wordt toegepast in koelere jaren of streken met onvoldoende natuurlijke suikers.",
+        "De toegevoegde suiker wordt volledig vergist tot alcohol."
       ],
-      "answer_why": "",
+      "answer_why": "In koele klimaten hebben druiven van nature minder suiker (lager potentieel alcohol); chaptalisatie corrigeert dit door extra vergistbare suiker te leveren.",
       "answer_memory_hook": ""
     },
     {
@@ -3427,7 +3471,7 @@
         "aroma"
       ],
       "answer_memory_hook": "Denk aan de 'B' van Chardonnay: Boter, Bourgogne en Breed inzetbaar.",
-      "answer_short": "Aroma's van appel, peer en citrus; een medium tot volle body met een medium zuurgraad.",
+      "answer_short": "Appel, peer, citrus, medium body",
       "answer_core_points": [
         "Chardonnay is een 'kameleon'.",
         "In koelere klimaten (zoals Chablis) is hij strak en mineraal met citrus, terwijl hij in warme klimaten tonen van perzik en ananas krijgt.",
@@ -3449,7 +3493,7 @@
         "wit",
         "aroma"
       ],
-      "answer_short": "Gras, kruisbes en asperge (of buxus); een hoge zuurgraad.",
+      "answer_short": "Gras, kruisbes, hoge zuren",
       "answer_core_points": [
         "Sauvignon Blanc is een aromatisch ras dat gedijt in koelere klimaten zoals de Loire (Sancerre) en Nieuw-Zeeland (Marlborough).",
         "De wijn is bijna altijd droog, fris en fruitig."
@@ -3474,10 +3518,12 @@
       "answer_pitfall": "Verwar Pinot Noir niet met Nebbiolo; hoewel beide een lichte kleur en hoog zuur hebben, heeft Pinot Noir veel lagere tannines.",
       "answer_short": "Lichte kleur, hoge zuren en lage tannines.",
       "answer_core_points": [
-        "Pinot Noir is 'De Diva': een lastig te verbouwen druif met een dunne schil.",
-        "Dit levert elegante wijnen op met aroma's van rood fruit (kers, aardbei) en bij oudering tertiaire tonen van stal, paddenstoelen en 'forest floor'."
+        "Pinot Noir heeft een lichte kleur, hoge zuren en lage tannines door de dunne schil.",
+        "Pinot Noir is een lastig te verbouwen druif, ook wel 'De Diva' genoemd.",
+        "Jonge Pinot Noir heeft aroma's van rood fruit zoals kers en aardbei.",
+        "Bij oudering ontwikkelt het tertiaire tonen van stal, paddenstoelen en 'forest floor'."
       ],
-      "answer_why": "",
+      "answer_why": "De dunne schil van Pinot Noir geeft weinig tannine en kleur, maar het koele klimaat waarin hij gedijt behoudt de natuurlijke hoge zuren.",
       "answer_memory_hook": ""
     },
     {
@@ -3493,12 +3539,14 @@
         "rood",
         "cassis"
       ],
-      "answer_short": "Zwarte bes (cassis); een volle body, hoge tannines en een medium tot hoge zuurgraad.",
+      "answer_short": "Cassis, volle body, hoge tannines",
       "answer_core_points": [
-        "Door de dikke schil bevat de druif veel kleur en tannine, wat houtrijping noodzakelijk maakt om de wijn te verzachten.",
-        "Naast cassis zijn cederhout en potloodslijpsel (grafiet) typische kenmerken van deze 'koning der druiven'."
+        "Cabernet Sauvignon heeft zwarte bes (cassis) als signatuuraroma.",
+        "De dikke schil geeft veel kleur en hoge tannines.",
+        "Houtrijping is noodzakelijk om de tannines te verzachten.",
+        "Andere typische aroma's zijn cederhout en potloodslijpsel (grafiet)."
       ],
-      "answer_why": "",
+      "answer_why": "Cabernet Sauvignons dikke schil geeft hoge tannines en kleur, terwijl het koelere klimaat in Bordeaux de typische cassis-aroma's en zuren behoudt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3521,7 +3569,7 @@
         "Het ras is zeer aromatisch (limoen, bloemen) en sterk terroir-gedreven.",
         "Het komt voor in stijlen variërend van kurkdroog tot edelzoet."
       ],
-      "answer_why": "",
+      "answer_why": "De verbinding TDN (1,1,6-trimethyl-1,2-dihydronaftaleen) ontstaat tijdens flesrijping van Riesling en geeft het typische petrol-aroma, terwijl het ras van nature zeer hoog zuur heeft.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3544,7 +3592,7 @@
         "De druif heeft veel tijd nodig om de krachtige tannines te laten versmelten.",
         "De kleur neigt bij oudering vaak snel naar oranje of taan (garnet)."
       ],
-      "answer_why": "",
+      "answer_why": "Nebbiolo's dunne schil geeft lichte kleur, maar de dikke pitten leveren extreem hoge tannines; de rozen/teer-aroma's zijn afkomstig van de unieke terpenen in de schil.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3561,12 +3609,14 @@
         "shiraz",
         "peper"
       ],
-      "answer_short": "Koel (Syrah): peper en olijf; Warm (Shiraz): chocolade en jammy zwart fruit.",
+      "answer_short": "Koel: peper; Warm: chocolade",
       "answer_core_points": [
-        "Syrah uit de Noord-Rhône is vaak eleganter en kruidiger.",
-        "De Australische Shiraz (vooral uit Barossa) is veel krachtiger met een volle body, hoger alcoholpercentage en rijpere specerijen."
+        "Syrah en Shiraz zijn dezelfde druif; de naam verschilt per regio.",
+        "Koel klimaat Syrah (Noord-Rhône) is eleganter met aroma's van peper en olijf.",
+        "Warm klimaat Shiraz (Australië) is krachtig met chocolade en jammy zwart fruit.",
+        "Shiraz uit warme regio's heeft een volle body en hoger alcoholpercentage."
       ],
-      "answer_why": "",
+      "answer_why": "Sauvignon Blanc's 'groene' aroma's komen van pyrazines, die beter behouden blijven in koelere klimaten; de hoge zuren zijn een natuurlijk kenmerk van het ras.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3577,7 +3627,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Consejo Regulador DOCa Rioja",
       "question": "Wat betekent 'Crianza' op een Spaans wijnetiket?",
       "answer": "Een wettelijk geregelde rijpingscategorie met minimale rijping.",
-      "explanation": "Crianza is geen losse marketingterm maar een formele categorie binnen de Spaanse regelgeving.",
+      "explanation": "Crianza: minimale rijping 2 jaar (1 in hout). Reserva: 3 jaar (1 in hout). Gran Reserva: 5 jaar (2 in hout).",
       "tags": [
         "wetgeving",
         "spanje",
@@ -3586,9 +3636,11 @@
       ],
       "answer_short": "Crianza is een wettelijke rijpingscategorie.",
       "answer_core_points": [
-        "Crianza is geen losse marketingterm maar een formele categorie binnen de Spaanse regelgeving."
+        "Crianza: 2 jaar totaal, 1 jaar in hout",
+        "Reserva: 3 jaar totaal, 1 jaar in hout",
+        "Gran Reserva: 5 jaar totaal, 2 jaar in hout"
       ],
-      "answer_why": "",
+      "answer_why": "Koel klimaat behoudt de peppercorrige polyfenolen in Syrah; warm klimaat ontwikkelt meer suikers en jammy fruit, wat de chocoladetonen geeft.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3599,7 +3651,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Consejo Regulador DOCa Rioja",
       "question": "Wat is het kernverschil tussen Reserva en Gran Reserva?",
       "answer": "Gran Reserva heeft een langere minimale rijpingsduur dan Reserva.",
-      "explanation": "Beide termen zijn wettelijk beschermd; het verschil zit in verplichte rijpingstijd.",
+      "explanation": "Reserva: 3 jaar (1 in hout). Gran Reserva: 5 jaar (2 in hout).",
       "tags": [
         "wetgeving",
         "spanje",
@@ -3608,9 +3660,11 @@
       ],
       "answer_short": "Gran Reserva rijpt langer dan Reserva.",
       "answer_core_points": [
-        "Beide termen zijn wettelijk beschermd; het verschil zit in verplichte rijpingstijd."
+        "Reserva: 3 jaar totaal, 1 jaar in hout",
+        "Gran Reserva: 5 jaar totaal, 2 jaar in hout",
+        "Kernverschil: langere verplichte rijpingstijd"
       ],
-      "answer_why": "",
+      "answer_why": "Crianza, Reserva en Gran Reserva zijn wettelijke rijpingsaanduidingen die de consument informeren over de minimale hout- en flesrijping.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3621,7 +3675,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Consorzio Vino Chianti Classico",
       "question": "Wat betekent 'Classico' op een Italiaans etiket?",
       "answer": "Dat de wijn uit het historische kerngebied van de appellatie komt.",
-      "explanation": "Classico geeft een geografische subzone aan binnen een herkomstbenaming.",
+      "explanation": "De term 'Classico' duidt op een traditioneel kerngebied van een DOC of DOCG, vaak het oorspronkelijke productiegebied met strengere regels. Voorbeelden: Chianti Classico, Valpolicella Classico.",
       "tags": [
         "wetgeving",
         "italie",
@@ -3630,9 +3684,12 @@
       ],
       "answer_short": "Classico verwijst naar het historische kerngebied.",
       "answer_core_points": [
-        "Classico geeft een geografische subzone aan binnen een herkomstbenaming."
+        "'Classico' = traditioneel kerngebied van DOC/DOCG",
+        "Vaak het oorspronkelijke productiegebied",
+        "Strengere regels dan standaard DOC(DOCG)",
+        "Voorbeelden: Chianti Classico, Valpolicella Classico"
       ],
-      "answer_why": "",
+      "answer_why": "Classico onderscheidt het oorspronkelijke, historische productiegebied van de latere uitbreidingen, wat vaak een hogere kwaliteit en concentratie betekent.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3643,7 +3700,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Deutsches Weininstitut",
       "question": "Wat is Pradikatswein in Duitsland?",
       "answer": "Een kwaliteitscategorie gebaseerd op mostgewicht bij de oogst.",
-      "explanation": "Onder Pradikatswein vallen niveaus zoals Kabinett, Spatlese en Auslese.",
+      "explanation": "Mostgewicht is het suikergehalte van de druivenmost, gemeten in Oechsle of Brix/°KMW. Het voorspelt het potentiële alcoholpercentage en speelt een cruciale rol in de Duitse Prädikatswein-classificatie.",
       "tags": [
         "wetgeving",
         "duitsland",
@@ -3652,9 +3709,12 @@
       ],
       "answer_short": "Pradikatswein is Duitse kwaliteitswijn op basis van mostgewicht.",
       "answer_core_points": [
-        "Onder Pradikatswein vallen niveaus zoals Kabinett, Spatlese en Auslese."
+        "Mostgewicht = suikergehalte van druivenmost",
+        "Gemeten in Oechsle, Brix of °KMW",
+        "Voorspelt potentieel alcoholpercentage",
+        "Cruciaal voor Duitse Prädikatswein-classificatie"
       ],
-      "answer_why": "",
+      "answer_why": "Hoger mostgewicht betekent rijpere druiven met meer suiker, wat leidt tot vollere, zoetere of alcoholrijkere wijnen - de basis van de Duitse kwaliteitspiramide.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3665,7 +3725,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Deutsches Weininstitut",
       "question": "Wat betekent 'Sekt' op een Duits etiket?",
       "answer": "Mousserende wijn in de Duitse context.",
-      "explanation": "Sekt is de standaardterm voor Duitse mousserende wijncategorieen.",
+      "explanation": "Sekt is de Duitse term voor mousserende wijn. Duitse Sekt wordt vaak gemaakt van druiven als Riesling, Pinot Blanc of Pinot Noir, of via de Charmat-methode uit goedkopere basiswijnen.",
       "tags": [
         "wetgeving",
         "duitsland",
@@ -3674,9 +3734,11 @@
       ],
       "answer_short": "Sekt is Duitse mousserende wijn.",
       "answer_core_points": [
-        "Sekt is de standaardterm voor Duitse mousserende wijncategorieen."
+        "Sekt = Duitse term voor mousserende wijn",
+        "Gemaakt van Riesling, Pinot Blanc, Pinot Noir",
+        "Wordt ook via Charmat-methode uit basiswijn gemaakt"
       ],
-      "answer_why": "",
+      "answer_why": "In Duitsland heeft Sekt een eigen wettelijke categorie, net als in Frankrijk (Crémant) en Spanje (Cava) - de term garandeert dat de basiswijn Duits is.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3687,7 +3749,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat betekent 'primeur' of 'nouveau' in wijncontext?",
       "answer": "Een jonge wijn die snel na de oogst op de markt komt.",
-      "explanation": "De term duidt op vroege release en primaire fruitstijl.",
+      "explanation": "Primeur (zoals Beaujolais Nouveau of Côtes du Rhône Primeur) is de eerste wijn van het oogstjaar, vaak al enkele weken na de oogst verkrijgbaar. Kenmerk: fris, fruitig, eenvoudig.",
       "tags": [
         "wetgeving",
         "primeur",
@@ -3696,9 +3758,11 @@
       ],
       "answer_short": "Primeur/Nouveau = jonge wijn met vroege release.",
       "answer_core_points": [
-        "De term duidt op vroege release en primaire fruitstijl."
+        "Primeur = eerste wijn van het oogstjaar",
+        "Enkele weken na oogst verkrijgbaar",
+        "Kenmerk: fris, fruitig, eenvoudig"
       ],
-      "answer_why": "",
+      "answer_why": "Primeur/nouveau-wijnen ondergaan een korte maceratie en worden niet gerijpt, zodat de primaire fruitaroma's behouden blijven voor vroege consumptie.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3709,7 +3773,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Belastingdienst Nederland",
       "question": "Wat is accijns bij wijn?",
       "answer": "Een indirecte belasting op alcoholhoudende dranken.",
-      "explanation": "Accijns is een fiscale component die invloed heeft op eindprijs en markt.",
+      "explanation": "Accijns op wijn is een vorm van verbruiksbelasting die per land verschilt. Binnen de EU geldt een minimumniveau, maar lidstaten kunnen afwijken. Nederland kent een relatief hoge accijns op wijn.",
       "tags": [
         "wetgeving",
         "accijns",
@@ -3718,9 +3782,11 @@
       ],
       "answer_short": "Accijns is belasting op alcoholhoudende dranken.",
       "answer_core_points": [
-        "Accijns is een fiscale component die invloed heeft op eindprijs en markt."
+        "Accijns = verbruiksbelasting, verschilt per land",
+        "EU stelt minimumniveau, lidstaten wijken af",
+        "Nederland: relatief hoge accijns op wijn"
       ],
-      "answer_why": "",
+      "answer_why": "Accijns is een belangrijk kostenaspect dat de eindprijs van wijn beïnvloedt, vooral bij goedkopere wijnen is de accijns relatief zwaar.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3740,9 +3806,12 @@
       ],
       "answer_short": "Aanplantingsdichtheid = aantal stokken per hectare.",
       "answer_core_points": [
-        "Aanplantingsdichtheid beinvloedt concurrentie tussen stokken en opbrengst per stok."
+        "Aantal wijnstokken per hectare",
+        "Hogere dichtheid = meer concurrentie, lagere opbrengst per stok",
+        "Hogere dichtheid verhoogt druivenkwaliteit en -concentratie",
+        "Verschilt per regio en wijnbouwstijl"
       ],
-      "answer_why": "",
+      "answer_why": "Hogere dichtheid geeft meer concurrentie tussen wortels, wat de opbrengst per stok verlaagt maar de druivenkwaliteit en concentratie verhoogt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3753,7 +3822,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is koolzuurassimilatie bij de wijnstok?",
       "answer": "Fotosynthese: omzetting van CO2 in suikers onder invloed van licht.",
-      "explanation": "Dit proces is essentieel voor rijpheid en potentieel alcoholniveau van druiven.",
+      "explanation": "Fotosynthese (koolzuurassimilatie) is het proces waarbij de druivenplant zonlicht omzet in energie voor suikerproductie. Dit bepaalt de rijpheid en het potentieel alcoholniveau van de druiven.",
       "tags": [
         "wijnbouw",
         "koolzuurassimilatie",
@@ -3762,9 +3831,12 @@
       ],
       "answer_short": "Koolzuurassimilatie is fotosynthese in het blad.",
       "answer_core_points": [
-        "Dit proces is essentieel voor rijpheid en potentieel alcoholniveau van druiven."
+        "Fotosynthese = CO2 → suikers m.b.v. licht",
+        "Vindt plaats in bladeren van de wijnstok",
+        "Bepaalt rijpheid en potentieel alcoholniveau",
+        "Basis voor alle suikerproductie in druiven"
       ],
-      "answer_why": "",
+      "answer_why": "Zonder fotosynthese produceert de wijnstok geen suikers, en zonder suikers kan de gisting geen alcohol maken - het is de basis van alle wijnproductie.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3775,7 +3847,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is oïdium in de wijngaard?",
       "answer": "Echte meeldauw: een schimmelziekte op blad en druif.",
-      "explanation": "Oïdium verlaagt opbrengst en kwaliteit wanneer het niet beheerst wordt.",
+      "explanation": "Oïdium (echte meeldauw) is een schimmelziekte die de druivenschil aantast en de opbrengst en wijnkwaliteit vermindert. Het wordt beheerst met zwavelbespuitingen en goede luchtcirculatie in het bladerdak.",
       "tags": [
         "wijnbouw",
         "oidium",
@@ -3784,9 +3856,12 @@
       ],
       "answer_short": "Oïdium is echte meeldauw op wijnstok en druif.",
       "answer_core_points": [
-        "Oïdium verlaagt opbrengst en kwaliteit wanneer het niet beheerst wordt."
+        "Echte meeldauw: schimmelziekte",
+        "Tast blad en druiven aan",
+        "Verlaagt opbrengst en wijnkwaliteit",
+        "Witte schimmellaag belemmert fotosynthese"
       ],
-      "answer_why": "",
+      "answer_why": "Oïdium bedekt blad en druiven met een witte schimmellaag, wat de fotosynthese belemmert en de druivenschil beschadigt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3806,9 +3881,12 @@
       ],
       "answer_short": "Valse meeldauw is een vochtige-aantasting van wijnstok en trossen.",
       "answer_core_points": [
-        "Valse meeldauw kan bij nat weer ernstige opbrengst- en kwaliteitsverliezen geven."
+        "Downy mildew: vochtgerelateerde schimmelziekte",
+        "Dringt binnen via huidmondjes bij nat warm weer",
+        "Kan hele oogst verwoesten zonder bestrijding",
+        "Ernstige opbrengst- en kwaliteitsverliezen"
       ],
-      "answer_why": "",
+      "answer_why": "Valse meeldauw gedijt bij vocht en warmte; de schimmel dringt via de huidmondjes binnen en kan een hele oogst verwoesten als hij niet tijdig bestreden wordt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3819,7 +3897,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Deutsches Weininstitut",
       "question": "Wat geeft graden Oechsle aan?",
       "answer": "Het mostgewicht, als indicator van suikergehalte en potentieel alcohol.",
-      "explanation": "Een hogere Oechsle-waarde betekent doorgaans meer opgeloste stoffen in de most.",
+      "explanation": "Oechsle meet het soortelijk gewicht van de most, wat direct correleert met het suikergehalte. Een hogere Oechsle-waarde betekent meer opgeloste suikers en dus een hoger potentieel alcoholpercentage.",
       "tags": [
         "wijnbouw",
         "oechsle",
@@ -3828,9 +3906,12 @@
       ],
       "answer_short": "Oechsle meet mostgewicht en dus rijpheidspotentieel.",
       "answer_core_points": [
-        "Een hogere Oechsle-waarde betekent doorgaans meer opgeloste stoffen in de most."
+        "Oechsle = Duitse maat voor mostgewicht",
+        "Hogere waarde = meer suiker/opgeloste stoffen",
+        "Hogere waarde = hoger potentieel alcoholpercentage",
+        "Indicator voor rijpheid en oogstmoment"
       ],
-      "answer_why": "",
+      "answer_why": "Oechsle is de Duitse standaard voor mostgewicht; hoe hoger de waarde, hoe rijper de druif en hoe hoger het potentiële alcoholpercentage.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3841,7 +3922,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is azijnsteek in wijn?",
       "answer": "Een wijnfout door verhoogde vluchtige zuren, vooral azijnzuur.",
-      "explanation": "De wijn krijgt een scherpe azijnachtige geur en smaak.",
+      "explanation": "Azijnsteek (piqûre acétique) ontstaat wanneer azijnzuurbacteriën in contact komen met zuurstof en alcohol omzetten in azijnzuur. De wijn krijgt een scherpe, azijnachtige geur en smaak en wordt ondrinkbaar.",
       "tags": [
         "vinificatie",
         "wijnfouten",
@@ -3850,7 +3931,10 @@
       ],
       "answer_short": "Azijnsteek is een fout door te hoge vluchtige zuren.",
       "answer_core_points": [
-        "De wijn krijgt een scherpe azijnachtige geur en smaak."
+        "Wijnfout door verhoogde vluchtige zuren (azijnzuur)",
+        "Scherpe azijnachtige geur en smaak",
+        "Maakt wijn ondrinkbaar",
+        "Oorzaak: oxidatie of bacteriële aantasting"
       ],
       "answer_why": "",
       "answer_pitfall": "",
@@ -3863,7 +3947,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "In welke volgorde beschrijf je wijn bij een proefnotitie?",
       "answer": "Uiterlijk, geur, smaak en conclusie.",
-      "explanation": "Deze vaste structuur helpt objectief en reproduceerbaar proeven.",
+      "explanation": "Uiterlijk: beoordeel helderheid, kleurintensiteit en -tint (bijv. paars/robijn/baksteen). Geur: noteer intensiteit, primaire aroma's (fruit, flora), secundaire (gist, hout) en tertiaire (oxidatie, rijping). Smaak: evalueer zoetheid, zuur, tannine, alcohol, body en afdronk. Conclusie: synthese van kwaliteit, rijpingspotentieel en typiciteit.",
       "tags": [
         "proeven",
         "proefnotities",
@@ -3872,11 +3956,14 @@
       ],
       "answer_short": "Proefvolgorde: uiterlijk -> geur -> smaak -> conclusie.",
       "answer_core_points": [
-        "Deze vaste structuur helpt objectief en reproduceerbaar proeven."
+        "Uiterlijk: helderheid, kleurintensiteit en -tint",
+        "Geur: intensiteit, primaire/secundaire/tertiaire aroma's",
+        "Smaak: zoet, zuur, tannine, alcohol, body, afdronk",
+        "Conclusie: kwaliteitsoordeel en rijpingspotentieel"
       ],
-      "answer_why": "",
-      "answer_pitfall": "",
-      "answer_memory_hook": ""
+      "answer_why": "Een vaste proefstructuur garandeert een objectieve, volledige en reproduceerbare beoordeling van elke wijn.",
+      "answer_pitfall": "Sla geen stap over; elke fase geeft essentiële informatie voor het totale oordeel.",
+      "answer_memory_hook": "UGSC = Uiterlijk, Geur, Smaak, Conclusie."
     },
     {
       "id": "batch3_015",
@@ -3885,7 +3972,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is een basisregel voor wijn-spijs bij vetrijke gerechten?",
       "answer": "Kies wijn met voldoende zuren om het vet te balanceren.",
-      "explanation": "Zuren brengen frisheid en voorkomen dat de combinatie log wordt.",
+      "explanation": "Bij vette gerechten snijden de zuren door het vet en reinigen het palet. Zuren brengen frisheid en voorkomen dat de combinatie log of zwaar wordt.",
       "tags": [
         "serveren",
         "wijn_spijs",
@@ -3894,9 +3981,12 @@
       ],
       "answer_short": "Vet vraagt om wijn met fris zuur.",
       "answer_core_points": [
-        "Zuren brengen frisheid en voorkomen dat de combinatie log wordt."
+        "Vetrijke gerechten vragen om wijn met voldoende zuren",
+        "Zuren snijden door vet en geven frisheid",
+        "Voorkomt dat de combinatie 'log' aanvoelt",
+        "Frisse witte wijn past vaak bij gefrituurde/romige gerechten"
       ],
-      "answer_why": "",
+      "answer_why": "Zuren snijden door vet als een mes, waardoor de mond fris aanvoelt en het vet niet vettig overheerst - vandaar dat frisse witte wijnen vaak bij gefrituurde of romige gerechten passen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3907,7 +3997,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Welke regel geldt meestal bij wijn met dessert?",
       "answer": "De wijn moet minstens zo zoet zijn als het dessert.",
-      "explanation": "Anders smaakt de wijn naast het dessert vaak te zuur of bitter.",
+      "explanation": "Bij dessertpairing moet de wijn minstens even zoet zijn als het gerecht. Anders smaakt de wijn naast het dessert vaak te zuur of bitter, omdat de zoetheid van het dessert de waargenomen zuurgraad versterkt.",
       "tags": [
         "serveren",
         "wijn_spijs",
@@ -3916,9 +4006,12 @@
       ],
       "answer_short": "Bij dessert: wijn minstens zo zoet als het gerecht.",
       "answer_core_points": [
-        "Anders smaakt de wijn naast het dessert vaak te zuur of bitter."
+        "Wijn moet minstens zo zoet zijn als het dessert",
+        "Minder zoete wijn smaakt zuur/bitter ernaast",
+        "Dessert maakt wijn relatief zuur in vergelijking",
+        "Gulden regel: zoet bij zoet"
       ],
-      "answer_why": "",
+      "answer_why": "Een minder zoete wijn naast een zoet dessert smaakt onaangenaam zuur en bitter omdat de suiker in het dessert de wijn relatief 'zuur' maakt in vergelijking.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3929,7 +4022,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Noem drie veelgebruikte flesmaten voor stille wijn.",
       "answer": "0,375 L, 0,75 L en 1,5 L (magnum).",
-      "explanation": "Kennis van flesmaten hoort bij basisservice en etiketinterpretatie.",
+      "explanation": "0,375 L (demi/flesje): geschikt voor dessertwijn of 1-2 glazen, vaak individuele portie. 0,75 L (standaard): universeel, ca. 6 glazen, de internationale norm voor stille wijn. 1,5 L (magnum): inhoud van 2 flessen, ideaal voor feesten; gunstigere flesoppervlak-inhoud verhouding voor rijping.",
       "tags": [
         "serveren",
         "flesmaten",
@@ -3938,11 +4031,13 @@
       ],
       "answer_short": "Veelgebruikte maten: 0,375 L, 0,75 L, 1,5 L.",
       "answer_core_points": [
-        "Kennis van flesmaten hoort bij basisservice en etiketinterpretatie."
+        "0,375 L: demi-fles, voor dessert of 1-2 personen",
+        "0,75 L: standaard, 6 glazen, internationale norm",
+        "1,5 L: magnum, 12 glazen, betere rijping"
       ],
-      "answer_why": "",
-      "answer_pitfall": "",
-      "answer_memory_hook": ""
+      "answer_why": "De flesmaat beïnvloedt schenkportie en zuurstofcontact: grotere flessen vertragen oxidatie, wat de rijping bevordert.",
+      "answer_pitfall": "Magnum (1,5L) is niet 'dubbel zo groot' in formaat maar wel in inhoud; dubbel magnum = 3L.",
+      "answer_memory_hook": "Standaard = 0,75L (6 glazen); halve fles = 0,375L; magnum = 1,5L."
     },
     {
       "id": "batch3_018",
@@ -3960,9 +4055,12 @@
       ],
       "answer_short": "Rias Baixas = Albarino.",
       "answer_core_points": [
-        "Rias Baixas in Galicie staat bekend om frisse, aromatische witte wijn van Albarino."
+        "Albariño = klassieke druif Rías Baixas (Galicië)",
+        "Frisse, aromatische witte wijn",
+        "Koel Atlantisch klimaat behoudt zuren",
+        "Citrus- en steenfruitaroma's"
       ],
-      "answer_why": "",
+      "answer_why": "Albariño gedijt bij uitstek in het koele, Atlantische klimaat van Galicië, waar de zeebries de zuren behoudt en de typische citrus- en steenfruitaroma's ontwikkelt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3982,9 +4080,12 @@
       ],
       "answer_short": "Verdejo hoort bij Rueda.",
       "answer_core_points": [
-        "Verdejo is de belangrijkste witte druif in Rueda en geeft doorgaans droge frisse wijnen."
+        "Verdejo = belangrijkste witte druif in Rueda (Spanje)",
+        "Geeft droge, frisse wijnen",
+        "Een van Spanjes beste inheemse witte rassen",
+        "Castilla y León regio"
       ],
-      "answer_why": "",
+      "answer_why": "Verdejo is van oorsprong een Spaanse druif uit Rueda (Castilla y León) en wordt beschouwd als een van Spanjes beste witte inheemse rassen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -3995,7 +4096,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Welk land associeer je op SDEN 3-niveau vooral met Torrontes?",
       "answer": "Argentinie.",
-      "explanation": "Torrontes is een belangrijk aromatisch wit ras in Argentinie.",
+      "explanation": "Torrontés is een belangrijk aromatisch wit druivenras in Argentinië, vooral in Salta en La Rioja. Het produceert bloemige, Muscat-achtige wijnen met een kenmerkende parfum-achtige neus.",
       "tags": [
         "druiven",
         "torrontes",
@@ -4004,9 +4105,12 @@
       ],
       "answer_short": "Torrontes associeer je vooral met Argentinie.",
       "answer_core_points": [
-        "Torrontes is een belangrijk aromatisch wit ras in Argentinie."
+        "Torrontés = belangrijkste inheemse witte druif Argentinië",
+        "Zeer aromatisch wit ras",
+        "Vooral in hooggelegen wijngaarden (Salta, Rio Negro)",
+        "Droge, geurige wijnen met bloemige tonen"
       ],
-      "answer_why": "",
+      "answer_why": "Torrontés is Argentiniës belangrijkste inheemse witte druif, vooral in de hooggelegen wijngaarden van Salta en Rio Negro, waar het zijn aromatische karakter ontwikkelt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4026,9 +4130,12 @@
       ],
       "answer_short": "Gruner Veltliner: fris, droog en vaak peperig.",
       "answer_core_points": [
-        "Gruner Veltliner is een kernras uit Oostenrijk en staat bekend om frisheid en kruidigheid."
+        "Kernras uit Oostenrijk",
+        "Droog en fris met citrus/peer aroma's",
+        "Opvallende witte pepertonen (rotundone)",
+        "Kruidig en pittig karakter"
       ],
-      "answer_why": "",
+      "answer_why": "De wittepepertoon in Grüner Veltliner komt van rotundone, dezelfde aromastof die ook in Syrah voor peperigheid zorgt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4039,7 +4146,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Welke Spaanse synoniemnaam hoort bij Mourvedre?",
       "answer": "Monastrell.",
-      "explanation": "Mourvedre en Monastrell zijn synoniemen van hetzelfde ras.",
+      "explanation": "Mourvèdre (Frankrijk) en Monastrell (Spanje) zijn synoniemen van hetzelfde blauwe druivenras. Het gedijt in warme, droge omstandigheden en geeft volle, tanninerijke wijnen met aroma's van zwart fruit en kruiden.",
       "tags": [
         "druiven",
         "mourvedre",
@@ -4048,9 +4155,12 @@
       ],
       "answer_short": "Mourvedre = Monastrell.",
       "answer_core_points": [
-        "Mourvedre en Monastrell zijn synoniemen van hetzelfde ras."
+        "Mourvèdre = Monastrell (Spaanse synoniem)",
+        "Zelfde druivenras, regionale naamgeving",
+        "Belangrijk voor etiketherkenning",
+        "Veel gebruikt in Zuid-Rhône en Spanje"
       ],
-      "answer_why": "",
+      "answer_why": "Mourvèdre wordt Monastrell genoemd in Spanje - dezelfde druif maar met regionale naamgeving, wat belangrijk is voor etiketherkenning.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4061,7 +4171,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Welke versterkte Portugese wijnregio wordt naast Port expliciet genoemd in SDEN 3?",
       "answer": "Madeira.",
-      "explanation": "Madeira is een kernterm in de SDEN-bijlage met eigen stijltermen.",
+      "explanation": "Madeira is een versterkte wijn van het gelijknamige Portugese eiland, bekend om zijn oxidatieve veroudering (estufagem). Het heeft eigen stijltermen: Sercial (droog), Verdelho (halfdroog), Bual (halfzoet), Malmsey (zoet).",
       "tags": [
         "portugal",
         "madeira",
@@ -4070,9 +4180,12 @@
       ],
       "answer_short": "Naast Port is Madeira expliciet SDEN-stof.",
       "answer_core_points": [
-        "Madeira is een kernterm in de SDEN-bijlage met eigen stijltermen."
+        "Madeira = kernterm in SDEN-bijlage",
+        "Uniek productieproces: estufagem (verhitting)",
+        "Eigen stijltermen (Sercial, Verdelho, Bual, Malvasia)",
+        "Onderscheidt zich van Port door verhittingsproces"
       ],
-      "answer_why": "",
+      "answer_why": "Madeira heeft een uniek productieproces (estufagem - verhitting) dat het onderscheidt van Port en andere versterkte wijnen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4081,7 +4194,7 @@
       "category": "overig",
       "difficulty": "hard",
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
-      "question": "Welke combinatie is klassiek voor Tokaj?",
+      "question": "Welke druif en wijnstijl zijn klassiek voor Tokaj?",
       "answer": "Furmint en Tokaji Aszu.",
       "explanation": "Tokaj in Hongarije wordt op SDEN-niveau gekoppeld aan Furmint en de zoete stijl Aszu.",
       "tags": [
@@ -4092,9 +4205,12 @@
       ],
       "answer_short": "Tokaj: Furmint + Tokaji Aszu.",
       "answer_core_points": [
-        "Tokaj in Hongarije wordt op SDEN-niveau gekoppeld aan Furmint en de zoete stijl Aszu."
+        "Tokaj = Hongarije's beroemdste wijnregio",
+        "Furmint = belangrijkste druif (hoge zuren)",
+        "Tokaji Aszú = zoete edelrotte (botrytis) stijl",
+        "Furmints zuren balanceren de zoetheid"
       ],
-      "answer_why": "",
+      "answer_why": "Tokaji Aszu is wereldberoemd om zijn edelrotte (botrytis) stijl, waarbij Furmint de belangrijkste druif is vanwege zijn hoge zuren die balans geven aan de zoetheid.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4114,9 +4230,12 @@
       ],
       "answer_short": "Novello is jonge Italiaanse wijn met vroege release.",
       "answer_core_points": [
-        "Novello is de Italiaanse tegenhanger van primeur/nouveau en is bedoeld voor vroege consumptie."
+        "Novello = Italiaanse primeur/nouveau",
+        "Jonge wijn, kort na oogst uitgebracht",
+        "Gemaakt via koolzuurmaceratie",
+        "Fruitig, tannine-arm, direct drinkbaar"
       ],
-      "answer_why": "",
+      "answer_why": "Novello wordt gemaakt via koolzuurmaceratie (zoals Beaujolais Nouveau), wat zorgt voor fruitige, tannine-arme wijnen die direct na de oogst drinkbaar zijn.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4136,9 +4255,12 @@
       ],
       "answer_short": "Gewasbescherming is beheersing van ziekten en plagen in de wijngaard.",
       "answer_core_points": [
-        "Gewasbescherming combineert monitoring, preventie en gerichte ingrepen om kwaliteit en opbrengst te beschermen."
+        "Combineert monitoring, preventie en gerichte ingrepen",
+        "Beschermt kwaliteit en opbrengst van de oogst",
+        "Bestrijdt ziekten (meeldauw, botrytis) en plagen",
+        "Zonder bescherming: kans op volledige oogstverwoesting"
       ],
-      "answer_why": "",
+      "answer_why": "Zonder gewasbescherming kunnen ziekten (meeldauw, botrytis) en plagen de volledige oogst verwoesten, met directe gevolgen voor kwaliteit en opbrengst.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4158,9 +4280,12 @@
       ],
       "answer_short": "Noord-Rhone = Syrah; Zuid-Rhone = vaker blends.",
       "answer_core_points": [
-        "In de Noord-Rhone zijn veel rode wijnen sterk op Syrah gericht; in de Zuid-Rhone zijn assemblages gebruikelijk."
+        "Noord-Rhône: Syrah domineert",
+        "Zuid-Rhône: blends rond Grenache gebruikelijk",
+        "Noord: steile graniethellingen ideaal voor Syrah",
+        "Zuid: breder, warmer, meerdere druiven (Grenache, Syrah, Mourvèdre)"
       ],
-      "answer_why": "",
+      "answer_why": "De Noord-Rhône heeft steile graniethellingen die ideaal zijn voor Syrah; de Zuid-Rhône is breder en warmer, wat blending van meerdere druiven (Grenache, Syrah, Mourvèdre) mogelijk maakt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4180,9 +4305,12 @@
       ],
       "answer_short": "Savoie is een expliciet te kennen Franse streek in SDEN 3.",
       "answer_core_points": [
-        "Savoie valt binnen de overige Franse streken die in de SDEN-bijlage apart benoemd worden."
+        "Savoie = expliciet te kennen Franse streek in SDEN 3",
+        "Apart benoemd in SDEN-bijlage naast hoofdregio's",
+        "Alpenregio met unieke druiven (Jacquère, Altesse)",
+        "Frisse, lichte witte wijnen"
       ],
-      "answer_why": "",
+      "answer_why": "Savoie is een van de weinige Franse streken die in de SDEN-bijlage apart wordt genoemd als te kennen regio, naast de hoofdregio's.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4193,7 +4321,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019); Official Bordeaux Wine website",
       "question": "Waar verwijst de term 'Cru Classe' in Bordeaux in de basis naar?",
       "answer": "Naar geclassificeerde chateaus binnen historische classificaties, vooral bekend uit 1855.",
-      "explanation": "Cru Classe beschrijft producentclassificatie en niet simpelweg een smaakstijl.",
+      "explanation": "Cru Classé is een classificatie van specifieke wijnproducenten (châteaux), niet een beschrijving van smaakstijl. Het systeem is het bekendst in Bordeaux (1855-classificatie) en komt ook voor in Saint-Émilion en Graves.",
       "tags": [
         "wetgeving",
         "bordeaux",
@@ -4202,9 +4330,12 @@
       ],
       "answer_short": "Cru Classe verwijst naar geclassificeerde Bordeaux-chateaus.",
       "answer_core_points": [
-        "Cru Classe beschrijft producentclassificatie en niet simpelweg een smaakstijl."
+        "Cru Classé = historische producentclassificatie in Bordeaux",
+        "Bekendst uit 1855-classificatie",
+        "Rangschikt chateaus op prijs, reputatie en prestige",
+        "Niet een smaakstijl, maar kwaliteitsrangorde"
       ],
-      "answer_why": "",
+      "answer_why": "Cru Classé is een historische classificatie uit 1855 die de reputatie en kwaliteit van Bordeaux-chateaus rangschikt, gebaseerd op prijs en prestige.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4215,7 +4346,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat betekent 'eleve en fut de chene' op een Frans etiket?",
       "answer": "Dat de wijn op eikenhouten vat is opgevoed.",
-      "explanation": "De term geeft een productiemethode aan: rijping in eikenhouten vaten.",
+      "explanation": "'Élevé en fût de chêne' betekent 'gerijpt in eikenhouten vaten'. De term geeft een productiemethode aan: de wijn heeft houtrijping ondergaan die vanille- en toastaroma's toevoegt en de tanninestructuur beïnvloedt.",
       "tags": [
         "wetgeving",
         "frankrijk",
@@ -4224,9 +4355,12 @@
       ],
       "answer_short": "Eleve en fut de chene = vatrijping in eikenhout.",
       "answer_core_points": [
-        "De term geeft een productiemethode aan: rijping in eikenhouten vaten."
+        "Élevé en fût de chêne = rijping in eikenhouten vaten",
+        "Garandeert echte vatrijping (geen houtchips)",
+        "Productiemethode, niet herkomst of kwaliteit",
+        "Hout geeft smaak, tannine en structuur aan wijn"
       ],
-      "answer_why": "",
+      "answer_why": "De term 'élevé en fût de chêne' garandeert dat de wijn daadwerkelijk in eikenhouten vaten is gerijpt (niet met houtchips of -essence).",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4246,9 +4380,12 @@
       ],
       "answer_short": "Wachau/Kremstal/Kamptal liggen in Niederosterreich.",
       "answer_core_points": [
-        "Niederosterreich is een sleutelgebied in Oostenrijk en belangrijk voor witte kwaliteitswijnen."
+        "Niederösterreich = belangrijkste Oostenrijkse wijnregio",
+        "Omvat Wachau, Kremstal, Kamptal (langs de Donau)",
+        "Bekend om Grüner Veltliner en Riesling",
+        "Sleutelgebied voor witte kwaliteitswijnen"
       ],
-      "answer_why": "",
+      "answer_why": "Niederösterreich omvat de belangrijkste Oostenrijkse wijnregio's (Wachau, Kremstal, Kamptal) die allemaal langs de Donau liggen en bekend staan om Grüner Veltliner en Riesling.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4259,7 +4396,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Welke Oostenrijkse regio wordt in SDEN gekoppeld aan Neusiedlersee?",
       "answer": "Burgenland.",
-      "explanation": "Burgenland en Neusiedlersee staan expliciet in de SDEN-regiolijst.",
+      "explanation": "Burgenland is een Oostenrijkse wijnregio ten zuiden van Wenen, met Neusiedlersee als belangrijk subgebied. De regio staat bekend om zoete wijnen (uitgelezen, TBA) en rode wijnen van Blaufränkisch.",
       "tags": [
         "oostenrijk",
         "burgenland",
@@ -4268,7 +4405,10 @@
       ],
       "answer_short": "Neusiedlersee hoort bij Burgenland.",
       "answer_core_points": [
-        "Burgenland en Neusiedlersee staan expliciet in de SDEN-regiolijst."
+        "Burgenland = Oostenrijkse regio rond Neusiedlersee",
+        "Expliciet genoemd in SDEN-regiolijst",
+        "Bekend om zoete wijnen (botrytis) en rode wijnen",
+        "Uniek microklimaat door groot meer"
       ],
       "answer_why": "",
       "answer_pitfall": "",
@@ -4281,7 +4421,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Noem drie Duitse wijnregio's die expliciet in SDEN 3 voorkomen.",
       "answer": "Mosel, Rheingau en Pfalz.",
-      "explanation": "Deze regio's worden in de SDEN-bijlage gebruikt als kernreferenties voor Duitsland.",
+      "explanation": "Mosel: steile leisteenhellingen, koel klimaat, beroemd om elegante Riesling met hoge zuren, mineraliteit en lagere alcohol. Rheingau: zonnige zuidhellingen langs de Rijn, krachtige, volle Riesling met meer body en rijpheid. Pfalz: warmer en droger, grotere productie van zowel Riesling als Spätburgunder (Pinot Noir), vollere stijlen.",
       "tags": [
         "duitsland",
         "mosel",
@@ -4290,11 +4430,13 @@
       ],
       "answer_short": "Belangrijke SDEN-regio's: Mosel, Rheingau, Pfalz.",
       "answer_core_points": [
-        "Deze regio's worden in de SDEN-bijlage gebruikt als kernreferenties voor Duitsland."
+        "Mosel: leisteen, koel, elegante/minerale Riesling, laag alcohol",
+        "Rheingau: zuidhellingen, krachtige volle Riesling",
+        "Pfalz: warm/droog, Riesling en Spätburgunder"
       ],
-      "answer_why": "",
-      "answer_pitfall": "",
-      "answer_memory_hook": ""
+      "answer_why": "Deze drie regio's vertegenwoordigen de diversiteit van Duits wijnbouw: koel/steil (Mosel), riviergestuurd (Rheingau) en warm/vlak (Pfalz).",
+      "answer_pitfall": "Rheingau ligt ten noorden van de Rijn, niet te verwarren met Rheinhessen.",
+      "answer_memory_hook": "M-R-P = Mosel (mineraal), Rheingau (rijk), Pfalz (vol)."
     },
     {
       "id": "batch3_034",
@@ -4312,9 +4454,12 @@
       ],
       "answer_short": "Auslese is rijper en geconcentreerder dan Kabinett.",
       "answer_core_points": [
-        "Binnen de Pradikatswein-systematiek stijgt de categorie met rijpheid/mostgewicht."
+        "Kabinett = laagste Prädikatswein-categorie (67-85 Oechsle)",
+        "Auslese = hoger mostgewicht (83-105 Oechsle), rijpere druiven",
+        "Kabinett: licht, fris, laag alcohol",
+        "Auslese: intens, geconcentreerd, vaak zoet"
       ],
-      "answer_why": "",
+      "answer_why": "Kabinett heeft het laagste mostgewicht (min. 67-85 Oechsle) en is licht en fris; Auslese heeft het hoogste (83-105 Oechsle) en is intens en vaak zoet.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4334,9 +4479,12 @@
       ],
       "answer_short": "AOP is beschermde oorsprong met strikte herkomstregels.",
       "answer_core_points": [
-        "AOP is de Franse invulling van het Europese PDO-systeem met strikte regels voor herkomst en productie."
+        "AOP = Appellation d'Origine Protégée, de Franse PDO-implementatie",
+        "Strenge regels voor geografische herkomst en productiemethoden",
+        "Hoogste Franse kwaliteitscategorie met directe link naar specifiek gebied",
+        "EU-gelijkwaardig PDO-niveau met regionale specificiteit"
       ],
-      "answer_why": "",
+      "answer_why": "AOP is de hoogste Franse kwaliteitscategorie die een directe link legt tussen de wijn en zijn specifieke productiegebied.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4356,9 +4504,12 @@
       ],
       "answer_short": "IGP is de Franse PGI-aanduiding.",
       "answer_core_points": [
-        "IGP is de PGI-categorie met minder strikte regels dan AOP."
+        "IGP = Indication Géographique Protégée, de Franse PGI-aanduiding",
+        "Bredere geografische aanduiding dan AOP",
+        "Minder strenge productieregels dan AOP",
+        "Staat tussen AOP (strengst) en Vin de France (vrijst) in"
       ],
-      "answer_why": "",
+      "answer_why": "IGP is de Franse invulling van PGI - een bredere geografische aanduiding met minder strenge productieregels dan AOP.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4380,7 +4531,7 @@
       "answer_core_points": [
         "Beide regelen herkomst en productie, maar DOCG kent strengere kwaliteitscontrole."
       ],
-      "answer_why": "",
+      "answer_why": "DOCG heeft een extra overheidskeuring en een genummerde banderol, wat een extra kwaliteitsgarantie biedt bovenop de DOC-regels.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4400,9 +4551,12 @@
       ],
       "answer_short": "DO is Spaanse beschermde herkomstbenaming.",
       "answer_core_points": [
-        "DO geeft aan dat wijn aan regels voor gebied, rassen en productie voldoet."
+        "DO = Denominación de Origen, Spaanse beschermde herkomstbenaming",
+        "Regelt gebied, toegestane druivenrassen en productiemethoden",
+        "Vergelijkbaar met Franse AOC in opzet en strengheid",
+        "Controleert opbrengst per hectare en wijnbouwpraktijken"
       ],
-      "answer_why": "",
+      "answer_why": "DO is vergelijkbaar met de Franse AOC - het regelt het gebied, de toegestane druiven, opbrengst en productiemethoden.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4422,9 +4576,12 @@
       ],
       "answer_short": "DOCA is de hoogste Spaanse kwaliteitscategorie voor herkomst.",
       "answer_core_points": [
-        "DOCA kent extra strenge eisen en is voor een beperkt aantal topregio's."
+        "DOCA = Denominación de Origen Calificada, hoogste Spaanse herkomstcategorie",
+        "Extra strenge productie- en kwaliteitseisen bovenop DO",
+        "Alleen toegekend aan regio's met consistente topkwaliteit",
+        "Momenteel alleen Rioja en Priorat hebben DOCA-status"
       ],
-      "answer_why": "",
+      "answer_why": "DOCA is de hoogste Spaanse categorie, alleen toegekend aan regio's die jarenlang consistente topkwaliteit leveren - momenteel alleen Rioja en Priorat.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4446,7 +4603,7 @@
       "answer_core_points": [
         "AVA is de geografische herkomstaanduiding voor Amerikaanse wijngebieden."
       ],
-      "answer_why": "",
+      "answer_why": "AVA is een geografische aanduiding zonder productieregels (geen druif- of opbrengstbeperkingen), in tegenstelling tot de Europese herkomstbenamingen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4466,9 +4623,12 @@
       ],
       "answer_short": "AOP is streekgebonden en strikt; Vin de France is vrijer.",
       "answer_core_points": [
-        "AOP koppelt wijn aan een strikt afgebakend gebied en regels; Vin de France is veel vrijer."
+        "AOP: strikt afgebakend gebied met specifieke productieregels",
+        "Vin de France: maximale vrijheid in druivenkeuze en herkomst",
+        "AOP garandeert regionale identiteit en kwaliteitsstandaard",
+        "Vin de France heeft geen beschermde regionale oorsprongsregels"
       ],
-      "answer_why": "",
+      "answer_why": "Vin de France geeft wijnmakers maximale vrijheid in druivenkeuze en herkomst, terwijl AOP strikt gebonden is aan een regio met specifieke regels.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4488,9 +4648,12 @@
       ],
       "answer_short": "Een herkomstbenaming borgt herkomst en productieregels.",
       "answer_core_points": [
-        "Herkomstbenamingen beschermen regio-identiteit en bieden consument houvast over stijl en kwaliteit."
+        "Garandeert herkomst van de wijn uit een specifiek gebied",
+        "Legt productievoorwaarden vast (druiven, opbrengst, methoden)",
+        "Beschermt regio-identiteit en reputatie",
+        "Biedt consument houvast over te verwachten stijl en kwaliteit"
       ],
-      "answer_why": "",
+      "answer_why": "Een herkomstbenaming beschermt de reputatie van een regio en geeft de consument een bepaalde stijl- en kwaliteitsverwachting.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4512,7 +4675,7 @@
       "answer_core_points": [
         "Kleur is geen bewijs op zichzelf, maar wel een belangrijk eerste diagnostisch signaal."
       ],
-      "answer_why": "",
+      "answer_why": "Kleurintensiteit geeft een eerste indicatie van de druif (bijv. Pinot Noir = licht, Cabernet = diep), de extractiestijl en de leeftijd van de wijn.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4545,7 +4708,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Welke structuurfactoren noteer je minimaal bij smaakbeoordeling?",
       "answer": "Zuur, zoet, tannine, alcohol en body.",
-      "explanation": "Deze factoren vormen de ruggengraat van een objectieve proefbeschrijving.",
+      "explanation": "Zuur: beoordeel niveau (laag/middel/hoog) en type (fris citroenzuur, scherp appelzuur, romig melkzuur). Zoet: is de wijn droog, halfdroog of zoet? Tannine: kwantiteit (laag/middel/hoog) en kwaliteit (zacht/grof/groen). Alcohol: alcoholgevoel van laag (<12%) tot hoog (>14%). Body: mondgevoel van waterig tot vol en stroperig, bepaald door alcohol, extract en suiker.",
       "tags": [
         "proeven",
         "structuur",
@@ -4554,11 +4717,15 @@
       ],
       "answer_short": "Minimaal: zuur, zoet, tannine, alcohol en body.",
       "answer_core_points": [
-        "Deze factoren vormen de ruggengraat van een objectieve proefbeschrijving."
+        "Zuur: niveau en type (citroen/appel/melkzuur)",
+        "Zoet: droog tot zoet",
+        "Tannine: kwantiteit en kwaliteit",
+        "Alcohol: laag/middel/hoog %",
+        "Body: waterig tot vol/romig"
       ],
-      "answer_why": "",
-      "answer_pitfall": "",
-      "answer_memory_hook": ""
+      "answer_why": "Deze vijf factoren zijn de objectieve bouwstenen van wijnstructuur; samen bepalen ze balans, stijl en kwaliteit.",
+      "answer_pitfall": "Body wordt vaak verward met alcohol; een wijn kan hoog alcohol maar licht body hebben door lage extractie.",
+      "answer_memory_hook": "ZZTAB = Zuur, Zoet, Tannine, Alcohol, Body."
     },
     {
       "id": "batch4_012",
@@ -4576,9 +4743,12 @@
       ],
       "answer_short": "Stuivend betekent aromatisch zeer expressief.",
       "answer_core_points": [
-        "De term wordt vaak gebruikt voor jonge, aromatische witte wijnen met uitgesproken neus."
+        "Stuivend = zeer expressief en direct aromatisch profiel",
+        "Wordt gebruikt voor jonge, aromatische witte wijnen",
+        "Beschrijft een open, volatiele neus die meteen uit de bus komt",
+        "Geen draaiing of aarzeling nodig om aroma's te detecteren"
       ],
-      "answer_why": "",
+      "answer_why": "De term 'stuivend' beschrijft een open, volatiele neus die meteen aromatisch 'uit de bus komt' zonder te draaien.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4598,9 +4768,12 @@
       ],
       "answer_short": "Conclusie hoort pas na volledige observatie om bias te vermijden.",
       "answer_core_points": [
-        "Systematisch proeven voorkomt tunnelvisie en verhoogt de betrouwbaarheid van de identificatie."
+        "Conclusie pas na geur én smaak om bias te voorkomen",
+        "Systematisch proeven voorkomt tunnelvisie op basis van kleur",
+        "Geur levert aroma-informatie, smaak levert structuur-informatie",
+        "Zonder beide is de identificatie onbetrouwbaar"
       ],
-      "answer_why": "",
+      "answer_why": "Pas na geur (aroma's detecteren) en smaak (structuur, zuur, body beoordelen) heb je voldoende informatie voor een objectieve conclusie.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4611,7 +4784,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is een typisch verschil tussen koele en warme klimaatstijl in wit?",
       "answer": "Koel: hoger zuur en frisser fruit; warm: rijper fruit en vaak voller mondgevoel.",
-      "explanation": "Klimaat stuurt rijping en daardoor direct de stijl van de wijn.",
+      "explanation": "Klimaat stuurt de rijpingssnelheid van druiven en daarmee het suiker-, zuur- en aromaprofiel. Koel klimaat geeft frisse, zure wijnen met subtiele aroma's; warm klimaat geeft rijpe, volle wijnen met jammy fruit.",
       "tags": [
         "proeven",
         "klimaat",
@@ -4620,9 +4793,12 @@
       ],
       "answer_short": "Koel = frisser; warm = rijper en voller.",
       "answer_core_points": [
-        "Klimaat stuurt rijping en daardoor direct de stijl van de wijn."
+        "Koel klimaat: hoger zuur, frisser fruit, lichter mondgevoel",
+        "Warm klimaat: rijper fruit, voller mondgevoel, lager zuur",
+        "Klimaat bepaalt direct de rijping en daarmee de wijnstijl",
+        "Koel behoudt appelzuur; warm produceert meer suikers en body"
       ],
-      "answer_why": "",
+      "answer_why": "Koelere klimaten behouden appelzuur en geven frisser fruit; warme klimaten produceren meer suikers en daardoor rijper fruit en meer body.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4642,7 +4818,10 @@
       ],
       "answer_short": "Kijk niet alleen naar kleur; structuur maakt het verschil.",
       "answer_core_points": [
-        "Beide kunnen relatief lichte kleur tonen, maar structuur en geurontwikkeling verschillen duidelijk."
+        "Niet alleen op kleur sturen: beide hebben lichte kleur",
+        "Pinot Noir: lage tannines, rood fruit, aards karakter",
+        "Nebbiolo: extreme tannines, teer, rozen, kers",
+        "Structuur en aroma-profiel zijn doorslaggevend voor onderscheid"
       ],
       "answer_why": "",
       "answer_pitfall": "",
@@ -4666,7 +4845,7 @@
       "answer_core_points": [
         "Temperatuur beinvloedt waarneming van zuren, alcohol en aroma-intensiteit."
       ],
-      "answer_why": "",
+      "answer_why": "Pinot Noir heeft een lichte kleur en lage tannines; Nebbiolo ook een lichte kleur maar juist extreme tannines - alleen proeven (niet kijken) onderscheidt ze.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4677,7 +4856,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is het doel van decanteren bij jonge tanninerijke rode wijn?",
       "answer": "Beluchten om aroma's te openen en tannines zachter te laten overkomen.",
-      "explanation": "Door contact met zuurstof kan de wijn toegankelijker en expressiever worden.",
+      "explanation": "Beluchten (decanteren of in een karaf schenken) versnelt de oxidatie van de wijn. Door contact met zuurstof kunnen aroma's zich beter openen en worden tannines zachter, waardoor de wijn toegankelijker wordt.",
       "tags": [
         "serveren",
         "decanteren",
@@ -4686,14 +4865,17 @@
       ],
       "answer_short": "Decanteren opent jonge rode wijn en verzacht de indruk.",
       "answer_core_points": [
-        "Door contact met zuurstof kan de wijn toegankelijker en expressiever worden."
+        "Decanteren belucht jonge tanninerijke rode wijn",
+        "Zuurstofcontact opent aroma's en maakt ze expressiever",
+        "Zuurstof laat tannines zachter overkomen",
+        "Wijn wordt toegankelijker zonder lange flesrijping"
       ],
-      "answer_why": "",
+      "answer_why": "Zout versterkt de fruitwaarneming doordat het de bitterheid en scherpte van tannines beïnvloedt - vandaar dat oude, zachte wijnen beter bij zoute gerechten passen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
     {
-      "id": "batch4_018",
+      "id": "batch4_019",
       "category": "serveren",
       "difficulty": "medium",
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
@@ -4708,14 +4890,17 @@
       ],
       "answer_short": "Zout verandert structuurbeleving; kies wijn met voldoende sappigheid.",
       "answer_core_points": [
-        "Daarom werkt zoute cuisine vaak beter met sappige, niet te harde wijnen."
+        "Zout kan fruitindruk versterken en tannine-beleving beïnvloeden",
+        "Zoute cuisine werkt beter met sappige, niet te harde wijnen",
+        "Oude zachte wijnen passen beter bij zoute gerechten",
+        "Zout beïnvloedt de perceptie van bitterheid en scherpte"
       ],
-      "answer_why": "",
+      "answer_why": "Het koolzuur prikkelt de smaakpapillen en de zuren stimuleren speekselproductie, wat de eetlust opwekt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
     {
-      "id": "batch4_019",
+      "id": "batch4_029",
       "category": "serveren",
       "difficulty": "medium",
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
@@ -4730,7 +4915,10 @@
       ],
       "answer_short": "Mousserend prikkelt door zuur en bubbels.",
       "answer_core_points": [
-        "De combinatie van zuren en mousse geeft een verfrissend, opwekkend effect."
+        "Hoge frisheid en koolzuur prikkelen de eetlust",
+        "Combinatie van zuren en mousse geeft verfrissend effect",
+        "Koolzuur stimuleert speekselproductie",
+        "Zuren prikkelen smaakpapillen en wekken eetlust op"
       ],
       "answer_why": "",
       "answer_pitfall": "",
@@ -4774,9 +4962,12 @@
       ],
       "answer_short": "Te warm maakt rood vaak alcoholisch en minder in balans.",
       "answer_core_points": [
-        "Te hoge serveertemperatuur verstoort de balans tussen fruit, zuur en alcohol."
+        "Alcohol domineert sneller bij hogere temperatuur",
+        "Frisheid verdwijnt, wijn wordt log en zwaar",
+        "Alcohol verdampt sterker en maskeert het fruit",
+        "Balans tussen fruit, zuur en alcohol raakt verstoord"
       ],
-      "answer_why": "",
+      "answer_why": "Alcohol verdampt sterker bij hogere temperaturen, waardoor hij de neus en smaak domineert en het fruit maskeert.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4798,7 +4989,7 @@
       "answer_core_points": [
         "SO2 helpt wijn stabiel en fris te houden tijdens opfok en bewaring."
       ],
-      "answer_why": "",
+      "answer_why": "SO2 (sulfiet) remt zowel oxidatie als microbiële groei zonder de wijnsmaak significant te beïnvloeden - de standaardconservant in de wijnbouw.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4818,9 +5009,12 @@
       ],
       "answer_short": "Malolactisch maakt wijn ronder door zuuromzetting.",
       "answer_core_points": [
-        "Malolactische omzetting verlaagt de scherpe zuurinzet en maakt de structuur zachter."
+        "Zet hard appelzuur om naar zachter melkzuur",
+        "Verlaagt de scherpe zuurinzet",
+        "Maakt de wijnstructuur zachter en ronder",
+        "Maakt rode wijn toegankelijker op jonge leeftijd"
       ],
-      "answer_why": "",
+      "answer_why": "Rode wijnen bevatten van nature hard appelzuur; omzetting naar zachter melkzuur maakt ze toegankelijker en harmonieuzer op jonge leeftijd.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4831,7 +5025,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is het belangrijkste effect van schilcontact bij rode wijn?",
       "answer": "Extractie van kleur, tannine en smaakstoffen.",
-      "explanation": "Tijdens maceratie lossen fenolen uit schillen op in de most/wijn.",
+      "explanation": "Maceration (schilweking) is het contact tussen druivensap en schillen tijdens de gisting. Fenolen (kleurstoffen, tannines) lossen op uit de schillen, wat de kleur, tanninestructuur en smaak van de wijn bepaalt.",
       "tags": [
         "vinificatie",
         "maceratie",
@@ -4840,9 +5034,12 @@
       ],
       "answer_short": "Schilcontact geeft kleur, tannine en structuur.",
       "answer_core_points": [
-        "Tijdens maceratie lossen fenolen uit schillen op in de most/wijn."
+        "Schilcontact extraheert kleur (anthocyanen) uit de schillen",
+        "Schilcontact extraheert tannine uit de schillen",
+        "Schilcontact extraheert smaakstoffen uit de schillen",
+        "Fenolen lossen tijdens maceratie op in de most/wijn"
       ],
-      "answer_why": "",
+      "answer_why": "Fenolen (anthocyanen, tannines) zitten in de druivenschillen en worden alleen tijdens schilcontact (maceratie) in de wijn geëxtraheerd.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4862,9 +5059,12 @@
       ],
       "answer_short": "Batonnage geeft wit meer romigheid en volume.",
       "answer_core_points": [
-        "Roeren van de lies bevordert autolyse-effecten en mondgevoel."
+        "Batonnage = roeren van de lies (dode gistcellen)",
+        "Contact met gistcellen geeft romigheid en volume",
+        "Autolyse van gistcellen geeft mannoproteïnen vrij",
+        "Mannoproteïnen verdikken mondgevoel voor romige textuur"
       ],
-      "answer_why": "",
+      "answer_why": "Autolyse van dode gistcellen geeft mannoproteïnen vrij die het mondgevoel verdikken en voor een romige textuur zorgen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4875,7 +5075,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is chaptalisatie?",
       "answer": "Suiker toevoegen aan most voor de gisting om potentieel alcohol te verhogen.",
-      "explanation": "Het doel is alcoholverhoging in koele jaren, niet restzoetheid toevoegen.",
+      "explanation": "Chaptalisatie is het toevoegen van suiker aan de most voor de gisting. Het doel is het alcoholpercentage verhogen in koele jaren met onvoldoende natuurlijke suiker, niet om restzoetheid toe te voegen.",
       "tags": [
         "vinificatie",
         "chaptalisatie",
@@ -4884,9 +5084,12 @@
       ],
       "answer_short": "Chaptalisatie verhoogt potentieel alcohol via suiker in de most.",
       "answer_core_points": [
-        "Het doel is alcoholverhoging in koele jaren, niet restzoetheid toevoegen."
+        "Suiker toevoegen aan most voor de gisting",
+        "Doel: alcoholpercentage verhogen in koele jaren",
+        "Suiker wordt omgezet in alcohol, niet voor zoetheid",
+        "Toegestaan in koele streken waar druiven onvoldoende suikers hebben"
       ],
-      "answer_why": "",
+      "answer_why": "In koele jaren hebben druiven onvoldoende natuurlijke suikers voor het gewenste alcoholpercentage; chaptalisatie corrigeert dit zonder de wijn zoet te maken.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4906,9 +5109,12 @@
       ],
       "answer_short": "Eikenhout geeft aroma en helpt structuur rijpen.",
       "answer_core_points": [
-        "Eiken kan tonen als vanille/toast geven en de tanninestructuur laten evolueren."
+        "Voegt extra aroma's toe zoals vanille en toast",
+        "Zorgt voor gecontroleerde micro-oxidatie",
+        "Laat tanninestructuur evolueren en polymeriseren",
+        "Maakt mondgevoel zachter door tannine-ontwikkeling"
       ],
-      "answer_why": "",
+      "answer_why": "Eikenhout voegt smaakstoffen (vanilline, toast) toe, laat micro-oxidatie toe voor structuurontwikkeling en laat tannines polymeriseren voor een zachtere mondgevoel.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4919,7 +5125,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Wat is het kenmerk van traditionele methode voor mousserende wijn?",
       "answer": "Tweede gisting op fles.",
-      "explanation": "Bij de traditionele methode ontstaat de mousse door hergisting in de fles zelf.",
+      "explanation": "Bij de traditionele methode (méthode traditionnelle) wordt een tweede gisting in de fles zelf uitgevoerd door toevoeging van liqueur de tirage (suiker en gist). De CO2 kan niet ontsnappen en lost op in de wijn, wat de mousse (bubbels) creëert.",
       "tags": [
         "vinificatie",
         "mousserend",
@@ -4928,7 +5134,10 @@
       ],
       "answer_short": "Traditionele methode = tweede gisting op fles.",
       "answer_core_points": [
-        "Bij de traditionele methode ontstaat de mousse door hergisting in de fles zelf."
+        "Tweede gisting vindt plaats op fles",
+        "Mousse ontstaat door hergisting in de fles zelf",
+        "Kenmerkend voor Champagne en Crémant",
+        "Ook méthode champenoise genoemd"
       ],
       "answer_why": "",
       "answer_pitfall": "",
@@ -4952,7 +5161,7 @@
       "answer_core_points": [
         "Tinto Joven staat voor een fruitgedreven stijl die snel na productie wordt uitgebracht."
       ],
-      "answer_why": "",
+      "answer_why": "De tweede gisting op fles is wat mousserende wijn van de traditionele methode onderscheidt van de tankmethode (Charmat) - het geeft fijnere bubbels en complexere gistaroma's.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -4963,7 +5172,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Noem de drie klassieke subregio's van Rioja.",
       "answer": "Rioja Alta, Rioja Alavesa en Rioja Oriental.",
-      "explanation": "Deze subregio's hebben elk een eigen klimaat- en stijlprofiel binnen Rioja.",
+      "explanation": "Rioja Alta (westen): Atlantisch klimaat, koeler en natter, leem/kalkbodems, elegante wijnen met fijne zuren, geschikt voor lange rijping. Rioja Alavesa (noorden): koel door hoogte, kalkrijke bodems, volle tanninestructuur, vaak de beste Tempranillo. Rioja Oriental (oosten, voorheen Baja): warmer en droger, kleigronden, fruitigere wijnen met hoger alcohol, minder complex.",
       "tags": [
         "rioja",
         "spanje",
@@ -4972,11 +5181,13 @@
       ],
       "answer_short": "Rioja Alta, Alavesa en Oriental.",
       "answer_core_points": [
-        "Deze subregio's hebben elk een eigen klimaat- en stijlprofiel binnen Rioja."
+        "Rioja Alta: Atlantisch, koel, elegant, lange rijping",
+        "Rioja Alavesa: hoogte, kalkrijk, volle Tempranillo",
+        "Rioja Oriental: warm/droog, fruitig, hoger alcohol"
       ],
-      "answer_why": "",
-      "answer_pitfall": "",
-      "answer_memory_hook": ""
+      "answer_why": "Van west naar oost neemt de Atlantische invloed af, wat klimaat, bodem en wijnstijl sterk beïnvloedt.",
+      "answer_pitfall": "Rioja Oriental heette vroeger Rioja Baja; naamswijziging in 2018.",
+      "answer_memory_hook": "Alta (west, koel), Alavesa (noord, hoog), Oriental (oost, warm)."
     },
     {
       "id": "batch5_003",
@@ -4994,9 +5205,12 @@
       ],
       "answer_short": "Tempranillo is de hoofdruif van Rioja rood.",
       "answer_core_points": [
-        "Tempranillo is de kern van de meeste Rioja-assemblages en bepaalt vaak het stijlprofiel."
+        "Tempranillo is de hoofddruif van rode Rioja",
+        "Bepaalt het stijlprofiel: stevig, tanninerijk, rijpe kers",
+        "Vaak aangevuld met Garnacha, Graciano of Mazuelo",
+        "Wordt ook Tinto Fino of Tinta del Pais genoemd"
       ],
-      "answer_why": "",
+      "answer_why": "Tempranillo (ook Tinto Fino/Tinta del Pais genoemd) is veruit de meest aangeplante blauwe druif in Rioja vanwege zijn aanpassingsvermogen aan het Atlantische klimaat.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5016,9 +5230,12 @@
       ],
       "answer_short": "Cava gebruikt tweede gisting op fles.",
       "answer_core_points": [
-        "Cava wordt volgens de metodo tradicional gemaakt, vergelijkbaar met Champagne qua productiestap."
+        "Cava wordt gemaakt volgens de metodo tradicional (traditionele methode)",
+        "Tweede gisting op fles is verplicht voor Cava",
+        "Vergelijkbaar met Champagne, maar andere toegestane druiven",
+        "Minimaal 9 maanden rijping op fles (Reserva: 18+ maanden)"
       ],
-      "answer_why": "",
+      "answer_why": "Cava valt onder de Spaanse DO-regels die de traditionele methode voorschrijven, terwijl Prosecco (Charmat) en Sekt (beide methoden) andere regels hebben.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5040,7 +5257,7 @@
       "answer_core_points": [
         "Ruby rijpt doorgaans met minder oxidatieve invloed, Tawny juist met meer vatoxidatie en rijpingsaroma's."
       ],
-      "answer_why": "",
+      "answer_why": "Ruby wordt in betonnen of roestvrijstalen tanks gerijpt om oxidatie te beperken (fruitig). Tawny rijpt in kleinere, deels luchtdoorlatende vaten die oxidatie bevorderen (nootachtig).",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5060,20 +5277,23 @@
       ],
       "answer_short": "LBV staat voor Late Bottled Vintage.",
       "answer_core_points": [
-        "LBV is Port uit een enkel oogstjaar die later wordt gebotteld dan klassieke Vintage Port."
+        "LBV staat voor Late Bottled Vintage",
+        "Port uit een enkel oogstjaar",
+        "Wordt later gebotteld dan Vintage Port (4-6 jaar vatrijping)",
+        "Bij release al drinkbaar, in tegenstelling tot Vintage Port"
       ],
-      "answer_why": "",
+      "answer_why": "Ruby wordt in tanks gerijpt om oxidatie te beperken (fruitig); Tawny rijpt in deels luchtdoorlatende vaten die oxidatie bevorderen (nootachtig).",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
     {
-      "id": "batch5_007",
+      "id": "batch5_026",
       "category": "spanje_portugal",
       "difficulty": "medium",
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Welke vier Sherry-stijlen worden op SDEN 3-niveau vaak onderscheiden?",
       "answer": "Fino, Amontillado, Oloroso en Pedro Ximenez (PX).",
-      "explanation": "Deze stijlen laten de band zien tussen rijpingswijze, oxidatiegraad en zoetheid.",
+      "explanation": "Fino: gerijpt onder flor-gistlaag (biologisch), geen oxidatie, zeer droog, licht en ziltig. Amontillado: begint als Fino, flor sterft af, dan oxidatieve rijping, medium-droog, nootachtig, amberkleur. Oloroso: geen flor, volledig oxidatief gerijpt, vol en nootachtig, droog tot medium. Pedro Ximenez (PX): van ingedroogde PX-druiven, extreem zoet, stroperig, tonen van rozijnen, vijgen en karamel.",
       "tags": [
         "sherry",
         "fino",
@@ -5082,11 +5302,14 @@
       ],
       "answer_short": "Fino, Amontillado, Oloroso en PX.",
       "answer_core_points": [
-        "Deze stijlen laten de band zien tussen rijpingswijze, oxidatiegraad en zoetheid."
+        "Fino: flor, biologisch, droog, licht, ziltig",
+        "Amontillado: eerst flor dan oxidatief, medium, nootachtig",
+        "Oloroso: volledig oxidatief, vol, nootachtig",
+        "PX: gedroogde druiven, zeer zoet, stroperig"
       ],
-      "answer_why": "",
-      "answer_pitfall": "",
-      "answer_memory_hook": ""
+      "answer_why": "Verschillende rijpingsmethoden (biologisch onder flor vs. oxidatief) en druiven creëren het spectrum van droog naar zoet.",
+      "answer_pitfall": "Manzanilla is een Fino uit Sanlúcar, geen aparte stijl - wordt soms als vijfde stijl genoemd.",
+      "answer_memory_hook": "F-A-O-P = Fino, Amontillado, Oloroso, PX (van droog naar zoet)."
     },
     {
       "id": "batch5_008",
@@ -5107,7 +5330,7 @@
         "Flor beschermt Fino tegen zuurstof en geeft een drogere, ziltige stijl.",
         "Oloroso ontwikkelt juist oxidatieve notigheid."
       ],
-      "answer_why": "",
+      "answer_why": "Fino wordt beschermd door flor (geen oxidatie, droog, ziltig); Oloroso rijpt zonder flor (oxidatief, nootachtig, voller).",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5127,9 +5350,12 @@
       ],
       "answer_short": "PX is zeer zoete, geconcentreerde Sherry.",
       "answer_core_points": [
-        "PX wordt vaak gemaakt van sterk ingedroogde druiven en geeft een intens dessertachtig profiel."
+        "PX is extreem zoete, geconcentreerde Sherry",
+        "Gemaakt van zongedroogde Pedro Ximénez-druiven (passito-stijl)",
+        "Smaaktonen: rozijnen, vijgen, karamel en stroop",
+        "Dessertwijn, drinken bij nagerechten of blauwe kaas"
       ],
-      "answer_why": "",
+      "answer_why": "PX wordt gemaakt van zongedroogde Pedro Ximénez-druiven (passito-stijl), waarbij water verdampt en suikers extreem concentreren.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5149,9 +5375,12 @@
       ],
       "answer_short": "Cote Rotie en Hermitage liggen in Noord-Rhone.",
       "answer_core_points": [
-        "Beide appellaties behoren tot het noordelijke deel van de Rhone en zijn sterk verbonden met Syrah."
+        "Côte Rôtie en Hermitage liggen in de Noord-Rhône",
+        "Noord-Rhône heeft steile, granieten hellingen, ideaal voor Syrah",
+        "Zuid-Rhône: bredere dalen, meer Grenache en GSM-blends",
+        "Andere Noord-Rhône appellaties: Cornas, Saint-Joseph, Crozes-Hermitage"
       ],
-      "answer_why": "",
+      "answer_why": "De Noord-Rhône heeft steile, granieten hellingen die ideaal zijn voor Syrah, met appellaties als Côte Rôtie, Hermitage en Cornas.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5171,9 +5400,12 @@
       ],
       "answer_short": "Syrah is de kernruif van Noord-Rhone rood.",
       "answer_core_points": [
-        "Noord-Rhone rood is klassiek Syrah-gedreven en vormt een kernreferentie in SDEN 3."
+        "Syrah domineert rode wijnen uit Côte Rôtie en Hermitage",
+        "Côte Rôtie mag max 20% Viognier toevoegen voor parfum",
+        "Hermitage rode wijn is 100% Syrah",
+        "Syrah geeft aroma's van zwart fruit, peper, vlees en leer"
       ],
-      "answer_why": "",
+      "answer_why": "Noord-Rhône is het enige Franse gebied waar Syrah als enige rode druif is toegestaan in de AOC-regels voor topappellaties.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5193,9 +5425,12 @@
       ],
       "answer_short": "Jurancon ligt in Sud-Ouest.",
       "answer_core_points": [
-        "Jurancon is een bekende appellatie uit de Sud-Ouest en komt in examenvragen vaak terug als regioherkenning."
+        "Jurançon ligt in Zuidwest-Frankrijk (Sud-Ouest)",
+        "Bekend om witte wijn, zowel droog (Sec) als zoet (moelleux)",
+        "Druiven: Gros Manseng en Petit Manseng",
+        "Zoete versie is bekendste en kan decennia rijpen"
       ],
-      "answer_why": "",
+      "answer_why": "Jurançon (Sud-Ouest) is bekend om zoete wijn van Petit Manseng en Gros Manseng, met een uniek microklimaat aan de voet van de Pyreneeën.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5206,7 +5441,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Tot welke Franse regio wordt Corbieres doorgaans gerekend?",
       "answer": "Languedoc-Roussillon.",
-      "explanation": "Corbieres is een belangrijke appellatie in het zuiden van Frankrijk.",
+      "explanation": "Corbieres is de grootste AOC van de Languedoc, gelegen tussen Narbonne en de Pyreneeen. Het produceert vooral rode wijnen van Carignan, Grenache, Syrah en Mourvedre in een kruidige, mediterrane stijl.",
       "tags": [
         "corbieres",
         "languedoc",
@@ -5215,7 +5450,10 @@
       ],
       "answer_short": "Corbieres hoort bij Languedoc-Roussillon.",
       "answer_core_points": [
-        "Corbieres is een belangrijke appellatie in het zuiden van Frankrijk."
+        "Corbières is een AOP in Languedoc-Roussillon",
+        "Produceert vooral rode wijn van GSM-druiven (Grenache, Syrah, Mourvèdre)",
+        "Bekend om krachtige, warme wijnen met garrigue-kruiden",
+        "Zuid-Frankrijk, mediterraan klimaat"
       ],
       "answer_why": "",
       "answer_pitfall": "",
@@ -5248,9 +5486,9 @@
       "category": "duitsland",
       "difficulty": "medium",
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
-      "question": "Wat is de juiste volgorde van laag naar hoog binnen Kabinett, Spatlese en Auslese?",
+      "question": "Wat is de oplopende volgorde van rijpheid voor Kabinett, Spatlese en Auslese?",
       "answer": "Kabinett, Spatlese, Auslese.",
-      "explanation": "Deze volgorde volgt de stijgende rijpheid/mostgewicht binnen de klassieke Duitse indeling.",
+      "explanation": "Kabinett: lichtste Prädikatswein, laagste mostgewicht (min. 67-85 Oechsle), droog tot off-dry, laag alcohol (8-10%), fris en fruitig. Spätlese: 'late oogst', hoger mostgewicht (76-95 Oechsle), rijkere smaak, meer concentratie, kan droog of zoet zijn. Auslese: 'uitgelezen' overrijpe trossen, hoogste mostgewicht (83-105 Oechsle), intens, vaak zoet, edelrotting mogelijk.",
       "tags": [
         "duitsland",
         "kabinett",
@@ -5259,11 +5497,13 @@
       ],
       "answer_short": "Volgorde: Kabinett -> Spatlese -> Auslese.",
       "answer_core_points": [
-        "Deze volgorde volgt de stijgende rijpheid/mostgewicht binnen de klassieke Duitse indeling."
+        "Kabinett: lichtste, laag mostgewicht, droog/off-dry, fris",
+        "Spätlese: late oogst, meer concentratie, droog of zoet",
+        "Auslese: overrijp, hoog mostgewicht, intens, vaak zoet"
       ],
-      "answer_why": "",
-      "answer_pitfall": "",
-      "answer_memory_hook": ""
+      "answer_why": "De Prädikatswein-categorieën volgen het stijgende mostgewicht (druivenrijpheid), wat resulteert in meer concentratie, body en zoetheid.",
+      "answer_pitfall": "Boven Auslese bestaan nog Beerenauslese, Trockenbeerenauslese en Eiswein - SDEN 3 focust op Kabinett/Spätlese/Auslese.",
+      "answer_memory_hook": "K-S-A = oplopend mostgewicht: Kabinett (licht), Spätlese (rijker), Auslese (intens)."
     },
     {
       "id": "batch5_016",
@@ -5303,9 +5543,12 @@
       ],
       "answer_short": "Bubbels en zuur frissen vetrijke gerechten op.",
       "answer_core_points": [
-        "Bubbels en zuur geven contrast tegen vettigheid en houden de combinatie licht."
+        "Koolzuur en zuren in mousserende wijn frissen vet en mondgevoel op",
+        "Bubbels geven contrast tegen vettigheid",
+        "Hoge zuren snijden door gefrituurd gerecht",
+        "Licht en verfrissend effect, ideaal bij frituur"
       ],
-      "answer_why": "",
+      "answer_why": "Capsaïcine (pitheid) lost op in alcohol, waardoor hoge alcohol de brand versterkt; tannines kunnen bitterheid toevoegen aan pittige gerechten.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5325,9 +5568,12 @@
       ],
       "answer_short": "Bij pittig eten liever fris en fruitig dan heet en tanninerijk.",
       "answer_core_points": [
-        "Hoge alcohol en stevige tannine kunnen scherpte van pikant eten versterken."
+        "Vermijd hoge alcohol bij pittig eten; alcohol versterkt branderigheid",
+        "Harde tannines kunnen bitterheid toevoegen aan pikante gerechten",
+        "Kies liever fruitige, frisse wijn met laag alcohol",
+        "Zoet of licht zoet helpt ook tegen pitheid"
       ],
-      "answer_why": "",
+      "answer_why": "Te koud onderdrukt aromavluchtige stoffen en benadrukt zuur; te warm accentueert alcohol en kan een wijn 'plat' of alcoholisch laten smaken.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5347,9 +5593,12 @@
       ],
       "answer_short": "Temperatuur stuurt direct hoe zuur, alcohol en aroma worden ervaren.",
       "answer_core_points": [
-        "Te warm kan alcohol domineren; te koud kan aroma's en textuur onderdrukken."
+        "Temperatuur verandert waarneming van zuur, alcohol, aroma en bitterheid",
+        "Te warm: alcohol domineert, wijn smaakt alcoholisch en 'plat'",
+        "Te koud: aroma's en textuur worden onderdrukt, zuur springt eruit",
+        "Juiste temperatuur brengt balans tussen alle smaakcomponenten"
       ],
-      "answer_why": "",
+      "answer_why": "In koel klimaat verloopt fotosynthese trager: druiven hopen minder suiker op (→ lager alcohol) en behouden meer appelzuur (→ hogere zuren).",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5369,9 +5618,12 @@
       ],
       "answer_short": "Hoge zuren + laag alcohol wijst vaak op koel klimaat.",
       "answer_core_points": [
-        "In koelere omstandigheden rijpen suikers trager, waardoor alcohol lager kan blijven terwijl zuren hoger zijn."
+        "Hoge zuren + laag alcohol wijst vaak op een koel klimaat",
+        "In koel klimaat rijpen suikers trager → lager alcoholgehalte",
+        "Druiven behouden meer appelzuur → hogere zuren",
+        "Warme klimaten: hoger alcohol, lagere zuren, rijper fruit"
       ],
-      "answer_why": "",
+      "answer_why": "Grenache zorgt voor alcohol en rood fruit, Syrah voor kleur en kruidigheid, Mourvèdre voor tannine en structuur – samen een gebalanceerde warme-klimaat blend.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5391,9 +5643,12 @@
       ],
       "answer_short": "GSM geeft vaak rijpe kruidige rode blendstijl.",
       "answer_core_points": [
-        "GSM staat voor Grenache, Syrah en Mourvedre en komt vaak voor in Rhone-achtige stijlen."
+        "GSM staat voor Grenache, Syrah en Mourvèdre",
+        "Typisch voor Zuid-Rhône en warme klimaten",
+        "Grenache: rood fruit en alcohol; Syrah: kleur en kruidigheid; Mourvèdre: tannine en structuur",
+        "Geeft warme-klimaat stijl met rijp fruit, kruiden en ronde textuur"
       ],
-      "answer_why": "",
+      "answer_why": "Zinfandel (Primitivo) is genetisch identiek aan de Kroatische druif Crljenak Kaštelanski en werd via Italië naar de VS geïntroduceerd.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5413,7 +5668,10 @@
       ],
       "answer_short": "Zinfandel (VS) correspondeert met Primitivo (Italië).",
       "answer_core_points": [
-        "Zinfandel is een kernnaam in de VS en een belangrijke herkenningsterm in SDEN-context."
+        "Zinfandel is sterk geassocieerd met Californië (VS)",
+        "In Italië heet dezelfde druif Primitivo",
+        "Genetisch identiek aan Kroatische Crljenak Kaštelanski",
+        "Zinfandel geeft rode/blackberry fruit, kruiden, soms hoge alcohol"
       ],
       "answer_why": "",
       "answer_pitfall": "",
@@ -5426,7 +5684,7 @@
       "source": "SDEN Toelichting toetstermen niveau 3 (2019)",
       "question": "Waarom is irrigatie een terugkerend thema bij Chileense wijnbouw?",
       "answer": "Door droge omstandigheden in veel wijngebieden is watermanagement vaak essentieel.",
-      "explanation": "Irrigatie bepaalt in zulke regio's opbrengst, rijping en stijlbalans.",
+      "explanation": "In droge wijnbouwgebieden zoals Chili's Maipo-vallei is irrigatie uit Andes-snelwater essentieel. Het bepaalt de opbrengst, het rijpingsverloop en de balans tussen alcohol, zuur en concentratie in de wijn.",
       "tags": [
         "chili",
         "irrigatie",
@@ -5435,9 +5693,12 @@
       ],
       "answer_short": "In Chili is irrigatie vaak cruciaal door droge omstandigheden.",
       "answer_core_points": [
-        "Irrigatie bepaalt in zulke regio's opbrengst, rijping en stijlbalans."
+        "Irrigatie is essentieel in droge Chileense wijngebieden",
+        "Chili's wijnregio's liggen in semi-aride zones met weinig neerslag",
+        "Smeltwater uit de Andes wordt gebruikt voor irrigatie",
+        "Watermanagement bepaalt opbrengst, rijping en stijlbalans"
       ],
-      "answer_why": "",
+      "answer_why": "Chili's wijngebieden (bv. Maipo, Colchagua) liggen in semi-aride zones waar jaarlijkse neerslag onvoldoende is voor de wijnbouw zonder irrigatie uit smeltwater van de Andes.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5457,9 +5718,12 @@
       ],
       "answer_short": "Vintage Port is exclusiever; LBV is vaak eerder drinkbaar.",
       "answer_core_points": [
-        "Beide komen uit een enkel oogstjaar, maar de opvoeding en marktpositionering verschillen duidelijk."
+        "Vintage Port rijpt 2-3 jaar in vat en is bedoeld voor lange flesrijping",
+        "LBV rijpt 4-6 jaar in vat en is bij release al direct drinkbaar",
+        "Vintage Port is exclusiever en krijgt alleen in topjaren een declaration",
+        "LBV is breder beschikbaar, betaalbaarder en meer op vroege consumptie gericht"
       ],
-      "answer_why": "",
+      "answer_why": "Vintage Port rijpt 2-3 jaar in vat en is bedoeld voor lange flesrijping; LBV rijpt 4-6 jaar in vat en is bij release direct drinkbaar.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -5479,9 +5743,12 @@
       ],
       "answer_short": "Rijpingstermen geven wettelijke minimumrijping en stijlverwachting.",
       "answer_core_points": [
-        "Deze termen zijn juridisch gedefinieerd en ondersteunen zowel kwaliteitscontrole als consumentinformatie."
+        "Crianza, Reserva en Gran Reserva zijn wettelijk gedefinieerde Spaanse termen",
+        "Ze leggen minimale rijpingseisen vast (hout + fles)",
+        "Crianza: 2 jaar (1 in hout); Reserva: 3 jaar (1 in hout); Gran Reserva: 5 jaar (2 in hout)",
+        "Helpen consumenten stijl, kwaliteit en rijpingsniveau te verwachten"
       ],
-      "answer_why": "",
+      "answer_why": "Crianza (2 jaar, 1 in hout), Reserva (3 jaar, 1 in hout) en Gran Reserva (5 jaar, 2 in hout) geven een directe kwaliteits- en stijlindicatie op het etiket.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -6204,7 +6471,7 @@
       "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "web_research; Champagne Comité",
-      "question": "Welke Champagnedorpen zijn Grand Cru, en welke zijn Premier Cru?",
+      "question": "Hoe is de Échelle des Crus ingedeeld in de Champagne en welke dorpen zijn Grand Cru?",
       "answer": "Grand Cru (17 dorpen, 100%): Avize, Aÿ, Bouzy, Cramant, Le Mesnil, Oger, Oiry, Verzenay e.a. Premier Cru (~40 dorpen, 90%): o.a. Mareuil-sur-Ay, Vertus, Bergères. Épernay en Reims zijn steden, geen Grand Cru-dorpen.",
       "explanation": "Champagne heeft een Échelle des Crus: Grand Cru (17 dorpen, 100% prijs): Montagne de Reims: Ambonnay, Beaumont-sur-Vesle, Bouzy, Louvois, Mailly-Champagne, Puisieulx, Sillery, Verzenay, Verzy. Côte des Blancs: Avize, Chouilly, Cramant, Le Mesnil-sur-Oger, Oger, Oiry. Vallée de la Marne: Aÿ, Tours-sur-Marne. Let op: Épernay en Reims zijn GEEN Grand Cru-dorpen. Premier Cru (ca. 40 dorpen, 90-99%): o.a. Mareuil-sur-Ay, Vertus, Bergères-lès-Vertus, Avenay-Val-d'Or, Hautvillers.",
       "tags": [
@@ -10351,13 +10618,13 @@
         "classificatie",
         "wetgeving"
       ],
-      "answer_short": "Een kwaliteitsclassificatie voor chateaus in de Médoc die NIET tot de Grand Cru Classé (1855) behoren.",
+      "answer_short": "Cru Bourgeois: Médoc, niet 1855",
       "answer_core_points": [
         "Cru Bourgeois is een aparte classificatie, opgericht in 1932 en herzien in 2003/2020.",
         "Het omvat chateaus in de Médoc die goed zijn maar niet tot de oorspronkelijke 1855 Grand Cru Classés behoren.",
         "Er zijn drie niveaus: Cru Bourgeois, Cru Bourgeois Supérieur en Cru Bourgeois Exceptionnel."
       ],
-      "answer_why": "",
+      "answer_why": "Cru Bourgeois is ontstaan omdat veel Médoc-châteaux niet in de 1855 Grand Cru Classé vielen maar wel kwaliteitswijn produceerden; het biedt een breder kwaliteitskader.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10377,12 +10644,14 @@
         "syrah",
         "mourvedre"
       ],
-      "answer_short": "Gigondas ligt in de Zuidelijke Rhône en produceert voornamelijk volle, krachtige rode wijnen van Grenache, Syrah en Mourvèdre.",
+      "answer_short": "Zuid-Rhône, krachtige rode GSM",
       "answer_core_points": [
-        "Gigondas is een van de bekendste crus van de Zuidelijke Rhône, gelegen aan de voet van de Dentelles de Montmirail.",
-        "Het staat bekend om zijn robuuste, kruidige rode wijnen, vergelijkbaar met Châteauneuf-du-Pape maar vaak iets rustieker en betaalbaarder."
+        "Gigondas ligt in de Zuidelijke Rhône, aan de voet van de Dentelles de Montmirail",
+        "Het is een van de bekendste crus uit de Zuidelijke Rhône",
+        "Produceert volle, krachtige rode wijnen van Grenache, Syrah en Mourvèdre",
+        "Stijl is vergelijkbaar met Châteauneuf-du-Pape maar vaak rustieker en betaalbaarder"
       ],
-      "answer_why": "",
+      "answer_why": "Gigondas ligt aan de voet van de Dentelles de Montmirail met zuidelijke blootstelling – de kalksteenbodems en warme mistral-wind creëren ideale omstandigheden voor rijpe, krachtige Grenache-blends.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10401,13 +10670,13 @@
         "witte_wijn",
         "mousserend"
       ],
-      "answer_short": "Chenin Blanc; Vouvray kan droog, halfdroog of zoet zijn, en zowel stil als mousserend.",
+      "answer_short": "Chenin Blanc, alle zoetheidsniveaus",
       "answer_core_points": [
         "Vouvray in de Loirevallei produceert wijnen van 100% Chenin Blanc.",
         "De druif kan alle zoetheidsniveaus aan, van sec (droog) tot moelleux (zoet), en wordt ook gebruikt voor mousserende wijn (pétillant of méthode traditionnelle).",
         "De stijl hangt af van het oogstjaar en de wijnmaker."
       ],
-      "answer_why": "",
+      "answer_why": "Chenin Blanc is van nature hoog in zuur, waardoor hij zowel droge als zoete stijlen kan maken en bovendien de mousse goed kan dragen in mousserende uitvoering.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10426,13 +10695,13 @@
         "chardonnay",
         "witte_wijn"
       ],
-      "answer_short": "Pouilly-Fuissé ligt in de Mâconnais en wordt gemaakt van 100% Chardonnay.",
+      "answer_short": "Mâconnais, 100% Chardonnay",
       "answer_core_points": [
         "Pouilly-Fuissé is de bekendste appellation in de Mâconnais (zuidelijk Bourgogne).",
         "Het produceert volle, rijpe Chardonnay-wijnen (vaak met eikenhoutrijping), die kwalitatief boven de standaard Mâcon-Villages staan.",
         "Niet te verwarren met Pouilly-Fumé (Loire, Sauvignon Blanc)!"
       ],
-      "answer_why": "",
+      "answer_why": "Pouilly-Fuissé is de bekendste appellation in de Mâconnais, een van de vier Bourgogne-subregio's (naast Chablis, Côte d'Or, Côte Chalonnaise), gespecialiseerd in op hout gerijpte Chardonnay.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10451,13 +10720,13 @@
         "sur_lie",
         "wetgeving"
       ],
-      "answer_short": "Non-vintage: minimaal 15 maanden (waarvan 12 sur lie). Vintage: minimaal 3 jaar.",
+      "answer_short": "NV: 15mnd (12 sur lie); Vintage: 3jr",
       "answer_core_points": [
         "De wettelijke minimale rijping op gistcellen is essentieel voor de autolyse-smaak (brood, brioche).",
         "NV-Champagne heeft 15 maanden rijping nodig (sinds 2018 verhoogd van 12mnd), waarvan minimaal 12 maanden sur lie.",
         "Vintage-champagne heeft minimaal 36 maanden rijping sur lie nodig."
       ],
-      "answer_why": "",
+      "answer_why": "Sur lie-rijping is essentieel voor autolyse: gistcellen breken af en geven brood-, brioche- en biscuitaroma's af aan de wijn. Hoe langer de rijping, hoe complexer het aroma.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10466,7 +10735,7 @@
       "category": "champagne",
       "difficulty": "hard",
       "source": "Passion4wines proefexamen",
-      "question": "Mag er onder de AOC Champagne ook rode (stille) wijn worden geproduceerd?",
+      "question": "Bestaat er ook stille wijn uit de Champagne en hoe heet de AOC?",
       "answer": "Ja, rode stille wijn uit Champagne heet Coteaux Champenois en wordt ook geproduceerd, maar het is zeldzaam.",
       "explanation": "Coteaux Champenois is de AOC voor stille (niet-mousserende) wijn uit de Champagne-regio, zowel rood (van Pinot Noir of Pinot Meunier) als wit (van Chardonnay). Ook Rosé des Riceys is een stille rosé uit de Champagne. De meeste champagnehuizen maken echter vrijwel uitsluitend mousserende wijn.",
       "tags": [
@@ -10476,13 +10745,13 @@
         "stille_wijn",
         "aoc"
       ],
-      "answer_short": "Ja, rode stille wijn uit Champagne heet Coteaux Champenois en wordt ook geproduceerd, maar het is zeldzaam.",
+      "answer_short": "Coteaux Champenois (stille Champagne)",
       "answer_core_points": [
         "Coteaux Champenois is de AOC voor stille (niet-mousserende) wijn uit de Champagne-regio, zowel rood (van Pinot Noir of Pinot Meunier) als wit (van Chardonnay).",
         "Ook Rosé des Riceys is een stille rosé uit de Champagne.",
         "De meeste champagnehuizen maken echter vrijwel uitsluitend mousserende wijn."
       ],
-      "answer_why": "",
+      "answer_why": "De Champagne-regio heeft een lange traditie van stille wijn (voor de mousserende methode dominant werd), met Coteaux Champenois als beschermde herkomstbenaming voor die stijl.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10501,13 +10770,13 @@
         "classificatie",
         "wetgeving"
       ],
-      "answer_short": "Piëmont (Piemonte) heeft de meeste DOCG-wijnen van Italië, met 18 DOCG's.",
+      "answer_short": "Piëmont: 18 DOCG's (meeste)",
       "answer_core_points": [
         "Piëmont is de regio met de meeste DOCG-wijnen (18), waaronder Barolo, Barbaresco, Barbera d'Asti, Gattinara, Gavi, Roero, Asti Spumante en Moscato d'Asti.",
         "Ter vergelijking: Toscane heeft er 11 (o.a.",
         "Chianti Classico, Brunello, Vino Nobile, Montalcino)."
       ],
-      "answer_why": "",
+      "answer_why": "Piëmont heeft historisch de meeste DOCG's (18) vanwege de lange traditie van terroir-gedreven kwaliteitswijnen en de vroege invoering van strenge herkomstclassificatie.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10526,13 +10795,13 @@
         "blend",
         "oost-europa"
       ],
-      "answer_short": "Egri Bikavér ('Stierenbloed van Eger') is een rode wijn uit Hongarije.",
+      "answer_short": "Egri Bikavér: Hongaarse rode blend",
       "answer_core_points": [
         "Egri Bikavér is een rode blend uit de Eger-regio in Hongarije.",
         "Traditioneel werd het gemaakt van Kadarka, maar moderne versies gebruiken Kékfrankos (Blaufränkisch), Cabernet Sauvignon, Merlot en andere rassen.",
         "De naam betekent 'Stierenbloed' en verwijst naar een legende over de verdediging van Eger."
       ],
-      "answer_why": "",
+      "answer_why": "Egri Bikavér ('Stierenbloed') kreeg zijn naam door een legende over Hongaarse soldaten die het dronken voor moed tijdens de verdediging van Eger tegen de Ottomanen in 1552.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10557,7 +10826,7 @@
         "Het staat bekend om versterkte wijnen, port-stijlen en druiven als Muscat, Shiraz en Tinta Barroca.",
         "Robertson is een ander bekend district in de Klein Karoo, bekend om zijn kalkrijke bodems en uitstekende Chardonnay."
       ],
-      "answer_why": "",
+      "answer_why": "Klein Karoo is ingeklemd tussen bergketens (Langeberg, Swartberg) die regen tegenhouden, waardoor het een van de droogste wijngebieden van Zuid-Afrika is – ideaal voor versterkte wijnen.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10578,10 +10847,12 @@
       ],
       "answer_short": "Margaret River in West-Australië.",
       "answer_core_points": [
-        "Margaret River is een koel, maritiem wijngebied in West-Australië, beroemd om zijn premium Chardonnay, Cabernet Sauvignon, Sauvignon Blanc en Semillon.",
-        "Ondanks dat het slechts ~3% van de Australische wijnproductie uitmaakt, produceert het meer dan 20% van de premium wijnen van het land."
+        "Margaret River ligt in West-Australië, het uiterste zuidwesten van Australië",
+        "Heeft een koel maritiem klimaat met invloed van twee oceanen",
+        "Beroemd om premium Chardonnay, Cabernet Sauvignon, Sauvignon Blanc en Semillon",
+        "Produceert ~20% van Australische premium wijnen op slechts ~3% van de productie"
       ],
-      "answer_why": "",
+      "answer_why": "Margaret River heeft een koel maritiem klimaat met invloed van twee oceanen (Indische en Zuidelijke Oceaan), wat langzame rijping en complexe aroma's bevordert.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10600,13 +10871,13 @@
         "torrontes",
         "hoogte"
       ],
-      "answer_short": "Salta ligt in het noordwesten van Argentinië en de belangrijkste druif is Torrontés.",
+      "answer_short": "Salta (NW Argentinië), Torrontés",
       "answer_core_points": [
         "Salta is een van de hoogste wijnbouwgebieden ter wereld (tot 3000m hoogte).",
         "De regio staat vooral bekend om Torrontés Riojano, een aromatische witte druif die bloemige, Muscat-achtige wijnen produceert.",
         "Ook Malbec en Cabernet Sauvignon worden er verbouwd op de hoge Andeshellingen."
       ],
-      "answer_why": "",
+      "answer_why": "Salta's extreme hoogte (tot 3000m) zorgt voor intense UV-straling en grote temperatuurverschillen (dag/nacht), wat de aromatische concentratie in Torrontés ten goede komt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10632,7 +10903,7 @@
         "Het produceert vooral rode wijnen van Carignan, Grenache, Syrah, Mourvèdre en Cinsault.",
         "De stijl is kruidig, vol en rustiek, met aroma's van garrigue, zwart fruit en specerijen."
       ],
-      "answer_why": "",
+      "answer_why": "Corbières ligt in de Languedoc tussen Narbonne en de Pyreneeën, met een mediterraan klimaat en garrigue-vegetatie die de typisch kruidige stijl van de wijnen beïnvloedt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10657,7 +10928,7 @@
         "De intense smaken van gedroogd fruit, koffie, chocolade en melasse maken het de perfecte pairing met chocoladedesserts.",
         "Fino en Manzanilla zijn droog en passen bij hartige gerechten; Oloroso bij gerijpte kazen."
       ],
-      "answer_why": "",
+      "answer_why": "Botrytis cinerea doorboort de druivenschil, waardoor water verdampt en suikers sterk concentreren; dit vereist een specifiek microklimaat (vochtige ochtenden, droge middagen).",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10676,7 +10947,7 @@
         "pourriture_noble",
         "wijnbouw"
       ],
-      "answer_short": "Pourriture noble is Botrytis Cinerea-schimmel die onder ideale omstandigheden edele rotting veroorzaakt, wat leidt tot geconcentreerde zoete wijnen.",
+      "answer_short": "Botrytis Cinerea: edele rotting, zoet",
       "answer_core_points": [
         "Edele rotting (Botrytis Cinerea) ontstaat wanneer vochtige ochtenden worden gevolgd door droge middagen.",
         "De schimmel doorboort de druivenschil, waardoor water verdampt en suikers, zuren en aroma's concentreren.",
@@ -10780,7 +11051,7 @@
         "De smalle, hoge vorm behoudt de mousse (koolzuur) en de parels, en concentreert de aroma's bij de neus.",
         "De coupe (breed, ondiep glas) is minder geschikt omdat het koolzuur snel verloren gaat."
       ],
-      "answer_why": "",
+      "answer_why": "Magister Vini is het hoogste niveau binnen de Nederlandse wijnopleidingen (SDEN5), vergelijkbaar met een mastergraad in wijnkennis.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10805,7 +11076,7 @@
         "De titel staat boven Register Vinoloog (SDEN4) en Sommelier.",
         "Het is het hoogste niveau in de Nederlandse wijnopleidingen (SDEN5-niveau)."
       ],
-      "answer_why": "",
+      "answer_why": "Mavrud is een inheems Bulgaars ras dat dikke schillen heeft (veel tannine en kleur) en goed gedijt in het continentale klimaat van Centraal-Bulgarije.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10823,13 +11094,13 @@
         "rode_wijn",
         "oost-europa"
       ],
-      "answer_short": "Een robuuste, stevige rode wijn uit Bulgarije.",
+      "answer_short": "Robuuste Bulgaarse rode wijn",
       "answer_core_points": [
         "Mavrud is een inheems Bulgaars blauw druivenras dat voornamelijk in Centraal- en Zuid-Bulgarije wordt verbouwd.",
         "De wijn is diep donkerrood, tanninerijk, met aroma's van zwart fruit, kruiden en aardse tonen.",
         "Het heeft een goed rijpingspotentieel en wordt beschouwd als een van de beste Bulgaarse rode wijnen."
       ],
-      "answer_why": "",
+      "answer_why": "Nemea (Peloponnesos) is de belangrijkste Griekse PDO voor rood van Agiorgitiko, een druif die zowel zacht-fruitig als eikenhoutgerijpt kan worden gemaakt.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     },
@@ -10848,7 +11119,7 @@
         "rode_wijn",
         "peloponnesos"
       ],
-      "answer_short": "Een volle rode wijn uit Griekenland, gemaakt van de Agiorgitiko-druif.",
+      "answer_short": "Volle Griekse rode Agiorgitiko",
       "answer_core_points": [
         "Nemea is een van de belangrijkste Griekse wijnregio's (Peloponnesos), bekend om zijn volle, rijke rode wijnen van de Agiorgitiko-druif ('St.",
         "George').",
@@ -10879,7 +11150,7 @@
         "In Rioja heet het Tempranillo of Cencibel (La Mancha).",
         "Elders in Spanje heeft het nog meer synoniemen: Ull de Llebre (Catalonië), Tinta Roriz (Portugal) en Aragonez (Alentejo)."
       ],
-      "answer_why": "",
+      "answer_why": "Tempranillo heet in elke Spaanse regio anders; in Ribera del Duero is Tinto Fino de gangbare naam, wat verwijst naar de 'fijne rode' kwaliteit van de druif.",
       "answer_pitfall": "",
       "answer_memory_hook": ""
     }
