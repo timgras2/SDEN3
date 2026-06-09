@@ -30,6 +30,7 @@ jobs:
           mkdir -p dist
           cp index.html dist/
           cp sden3_flashcards_database.json dist/
+          cp sden3_oefenexamen.json dist/
           cp -R src dist/
           cp -R styles dist/
 
