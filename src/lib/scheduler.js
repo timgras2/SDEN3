@@ -94,32 +94,44 @@ function shuffle(items) {
   return arr;
 }
 
+const RECENT_DAYS_CUTOFF = 3;
+
+function wasReviewedRecently(progressStore, cardId, cutoffDays = RECENT_DAYS_CUTOFF) {
+  const progress = getCardProgress(progressStore, cardId);
+  if (!progress.lastReviewedAt) return false;
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - cutoffDays);
+  return new Date(progress.lastReviewedAt) > cutoff;
+}
+
 export function buildQueue(db, progressStore, setup, mode = setup.mode) {
   const cards = getFilteredCards(db, setup);
   const due = cards.filter((c) => isDue(progressStore, c.id));
   const fresh = cards.filter((c) => isNew(progressStore, c.id));
 
   if (mode === "due") {
-    return due
+    return shuffle(due).map((c) => c.id);
+  }
+
+  if (mode === "new") return shuffle(fresh).map((c) => c.id);
+
+  if (mode === "quick") {
+    const available = cards.filter((c) => !wasReviewedRecently(progressStore, c.id));
+    const pool = available.length >= 12 ? available : cards;
+    return shuffle(pool).slice(0, 12).map((c) => c.id);
+  }
+
+  if (mode === "all") return shuffle(cards).map((c) => c.id);
+
+  const dailyDue = shuffle(
+    due
       .sort(
         (a, b) =>
           new Date(getCardProgress(progressStore, a.id).dueAt).getTime() -
           new Date(getCardProgress(progressStore, b.id).dueAt).getTime()
       )
-      .map((c) => c.id);
-  }
-
-  if (mode === "new") return shuffle(fresh).map((c) => c.id);
-  if (mode === "quick") return shuffle(cards).slice(0, 12).map((c) => c.id);
-  if (mode === "all") return shuffle(cards).map((c) => c.id);
-
-  const dailyDue = due
-    .sort(
-      (a, b) =>
-        new Date(getCardProgress(progressStore, a.id).dueAt).getTime() -
-        new Date(getCardProgress(progressStore, b.id).dueAt).getTime()
-    )
-    .slice(0, 24);
+      .slice(0, 24)
+  );
 
   const fillWithNew = shuffle(fresh).slice(0, Math.max(0, 24 - dailyDue.length));
   return [...dailyDue, ...fillWithNew].map((c) => c.id);
