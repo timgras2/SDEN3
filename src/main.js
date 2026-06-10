@@ -25,6 +25,7 @@ const state = {
   answerRevealed: false,
   session: null,
   examState: null,
+  pausedSession: null,
 };
 
 function persist() {
@@ -53,6 +54,18 @@ function updateStreakAndCalendar() {
   state.progress.meta.maxStreak = Math.max(state.progress.meta.maxStreak || 0, state.progress.meta.streak || 0);
   state.progress.meta.lastStudyDate = today;
   state.progress.meta.dailyReviews[today] = Number(state.progress.meta.dailyReviews[today] || 0) + 1;
+}
+
+function modeLabel(mode) {
+  const labels = {
+    daily: "Dagelijks",
+    due: "Gepland",
+    new: "Nieuw",
+    quick: "Kort 12",
+    all: "Alles gemixt",
+    hard_marked: "Moeilijk",
+  };
+  return labels[mode] || mode;
 }
 
 function setupStats() {
@@ -98,6 +111,7 @@ function currentCard() {
 function startSession(mode = state.setup.mode) {
   const queue = buildQueue(state.db, state.progress, state.setup, mode);
 
+  state.pausedSession = null;
   state.setup.mode = mode;
   state.queue = queue;
   state.queueIndex = 0;
@@ -265,8 +279,24 @@ function renderDashboard() {
   const knownCards = stats.mastered;
   const todoCards = Math.max(0, stats.totalCards - knownCards);
 
+  const resumeHtml = state.pausedSession
+    ? `<article class="card surface" style="margin-bottom:14px;border-left:4px solid var(--accent,#e8b84b);">
+        <div class="row space-between" style="flex-wrap:wrap;gap:10px;">
+          <div>
+            <p class="eyebrow">Gepauzeerde sessie</p>
+            <p><strong>${modeLabel(state.pausedSession.mode)}</strong> &mdash; ${state.pausedSession.queueIndex}/${state.pausedSession.initialQueueSize} kaarten gedaan</p>
+          </div>
+          <div class="row" style="gap:8px;">
+            <button class="btn-primary" data-action="resume_session">Hervat</button>
+            <button class="btn-ghost" data-action="discard_session">Verwijder</button>
+          </div>
+        </div>
+      </article>`
+    : "";
+
   app.innerHTML = `
     <section class="resume-home fade-in">
+      ${resumeHtml}
       <article class="card surface resume-hero">
         <div class="resume-kicker row space-between">
           <p class="eyebrow">SDEN3 Wijnexamen</p>
@@ -411,7 +441,7 @@ function renderStudy() {
 
   app.innerHTML = `
     <section class="row space-between fade-in" style="margin-bottom:12px;">
-      <button class="btn-ghost" data-action="go_dashboard">Sessie verlaten</button>
+      <button class="btn-ghost" data-action="go_dashboard">Pauzeren</button>
       <span class="badge" aria-label="Sessievoortgang">Kaart ${sessionDone + 1} van ${initialQueueSize}</span>
     </section>
 
@@ -710,6 +740,7 @@ function onClick(event) {
 
     if (hardQueue.length === 0) return;
 
+    state.pausedSession = null;
     state.queue = hardQueue;
     state.queueIndex = 0;
     state.answerRevealed = false;
@@ -728,11 +759,50 @@ function onClick(event) {
     return;
   }
   if (action === "go_dashboard") {
+    if (state.session && state.view === "study") {
+      state.pausedSession = {
+        queue: [...state.queue],
+        queueIndex: state.queueIndex,
+        mode: state.session.mode,
+        initialQueueSize: state.session.initialQueueSize,
+        session: {
+          startedAt: state.session.startedAt,
+          mode: state.session.mode,
+          reviewed: state.session.reviewed,
+          ratings: { ...state.session.ratings },
+          uniqueReviewed: [...state.session.uniqueReviewed],
+          initialQueueSize: state.session.initialQueueSize,
+          undoStack: state.session.undoStack,
+        },
+      };
+    }
     state.view = "dashboard";
     state.session = null;
     state.queue = [];
     state.queueIndex = 0;
     state.answerRevealed = false;
+    render();
+    return;
+  }
+
+  if (action === "resume_session") {
+    const ps = state.pausedSession;
+    if (!ps) return;
+    state.queue = ps.queue;
+    state.queueIndex = ps.queueIndex;
+    state.session = {
+      ...ps.session,
+      uniqueReviewed: new Set(ps.session.uniqueReviewed),
+    };
+    state.answerRevealed = false;
+    state.pausedSession = null;
+    state.view = "study";
+    render();
+    return;
+  }
+
+  if (action === "discard_session") {
+    state.pausedSession = null;
     render();
     return;
   }
