@@ -1,4 +1,4 @@
-{
+﻿{
   "metadata": {
     "version": "1.1",
     "last_updated": "2026-06-09",
@@ -143,14 +143,8 @@
       "color": "#1F2937"
     },
     {
-      "id": "bordeaux",
-      "name": "Bordeaux",
-      "icon": "🏰",
-      "color": "#8B0000"
-    },
-    {
       "id": "frankrijk_algemeen",
-      "name": "Frankrijk Algemeen",
+      "name": "Frankrijk",
       "icon": "🇫🇷",
       "color": "#002395"
     },
@@ -428,7 +422,7 @@
     },
     {
       "id": "exam_q17",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "oefenexamen_2019",
       "question": "Welk druivenras is het meest aangeplant in de Haut-Médoc en welk in de Pomerol?",
@@ -455,7 +449,7 @@
     },
     {
       "id": "exam_q18",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "oefenexamen_2019",
       "question": "Welk château is als Premier Grand Cru Classé LATER toegevoegd aan het klassement van 1855?",
@@ -1489,7 +1483,7 @@
     },
     {
       "id": "extra_bordeaux_1",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "web_research",
       "question": "Noem de 5 Premiers Crus Classés van Bordeaux (1855)?",
@@ -1514,7 +1508,7 @@
     },
     {
       "id": "extra_bordeaux_2",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "web_research",
       "question": "Wat is het verschil tussen linkeroever en rechteroever Bordeaux?",
@@ -1539,7 +1533,7 @@
     },
     {
       "id": "extra_bordeaux_3",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "web_research",
       "question": "Welke druiven worden gebruikt voor witte Bordeaux?",
@@ -2215,7 +2209,7 @@
     },
     {
       "id": "extra_sauternes_1",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "web_research",
       "question": "Hoe ontstaat een Sauternes?",
@@ -2516,7 +2510,7 @@
     },
     {
       "id": "unique_card_id_005",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "sden_3_masterdocument",
       "question": "Welke druif domineert de blends op de Rechteroever van Bordeaux (bijv. Pomerol, St. Emilion)?",
@@ -5016,7 +5010,7 @@
     },
     {
       "id": "bordeaux_003",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Appellations",
       "question": "Welke vier appellations vormen de belangrijkste gebieden van de Médoc Left Bank?",
@@ -5043,7 +5037,7 @@
     },
     {
       "id": "bordeaux_004",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Classification 1855",
       "question": "Welk château werd in 1973 gepromoveerd van Deuxième Cru naar Premier Cru?",
@@ -5071,7 +5065,7 @@
     },
     {
       "id": "bordeaux_005",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Right Bank",
       "question": "Welke twee Right Bank appellations staan bekend om hun prestigieuze Merlot-wijnen?",
@@ -5098,7 +5092,7 @@
     },
     {
       "id": "bordeaux_006",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Saint-Émilion Classification",
       "question": "Hoe vaak wordt de classificatie van Saint-Émilion herzien?",
@@ -5124,7 +5118,7 @@
     },
     {
       "id": "bordeaux_007",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Sauternes",
       "question": "Welk proces is essentieel voor de productie van Sauternes en Barsac wijnen?",
@@ -5151,7 +5145,7 @@
     },
     {
       "id": "bordeaux_008",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Sauternes 1855",
       "question": "Welk château kreeg als enige de status 'Premier Cru Supérieur' in de Sauternes classificatie van 1855?",
@@ -5178,7 +5172,7 @@
     },
     {
       "id": "bordeaux_009",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Graves",
       "question": "Welke appellation binnen Graves produceert de beste rode en witte wijnen en bevat een Premier Cru château?",
@@ -5205,7 +5199,7 @@
     },
     {
       "id": "bordeaux_010",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "easy",
       "source": "Bordeaux Blend",
       "question": "Welke zes druivenrassen zijn toegestaan in een rode Bordeaux AOC blend?",
@@ -5231,7 +5225,7 @@
     },
     {
       "id": "bordeaux_011",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux White Wines",
       "question": "Welke twee druiven worden voornamelijk gebruikt voor droge witte Bordeaux?",
@@ -5258,7 +5252,7 @@
     },
     {
       "id": "bordeaux_012",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Pomerol",
       "question": "Waarom heeft Pomerol geen officiële classificatie?",
@@ -5285,7 +5279,7 @@
     },
     {
       "id": "bordeaux_013",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Appellations",
       "question": "Wat is het verschil tussen 'Bordeaux AOC' en 'Médoc AOC'?",
@@ -5312,7 +5306,7 @@
     },
     {
       "id": "bordeaux_014",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "easy",
       "source": "Bordeaux Geography",
       "question": "Welke twee rivieren komen samen om de Gironde te vormen in Bordeaux?",
@@ -5340,7 +5334,7 @@
     },
     {
       "id": "bordeaux_015",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Classification 1855",
       "question": "Hoeveel niveaus (tiers) heeft de rode wijn classificatie van 1855?",
@@ -5369,7 +5363,7 @@
     },
     {
       "id": "bordeaux_016",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Terroir",
       "question": "Welk type bodem kenmerkt de Left Bank van Bordeaux?",
@@ -5398,7 +5392,7 @@
     },
     {
       "id": "bordeaux_017",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Pauillac",
       "question": "Hoeveel Premier Cru châteaux liggen er in Pauillac?",
@@ -5426,7 +5420,7 @@
     },
     {
       "id": "bordeaux_018",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Saint-Émilion",
       "question": "Welke châteaux hebben de Premier Grand Cru Classé 'A' status in Saint-Émilion na de 2022 herziening?",
@@ -5453,7 +5447,7 @@
     },
     {
       "id": "bordeaux_019",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Entre-Deux-Mers",
       "question": "Welk type wijn wordt voornamelijk geproduceerd in Entre-Deux-Mers?",
@@ -5481,7 +5475,7 @@
     },
     {
       "id": "bordeaux_020",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "easy",
       "source": "Bordeaux Vintages",
       "question": "Wat is een 'millésime' in de context van Bordeaux wijn?",
@@ -5508,7 +5502,7 @@
     },
     {
       "id": "bordeaux_021",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Cru Bourgeois",
       "question": "Wat is de Cru Bourgeois classificatie en hoe verhoudt deze zich tot de 1855 classificatie?",
@@ -5535,7 +5529,7 @@
     },
     {
       "id": "bordeaux_022",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Margaux",
       "question": "Wat is het kenmerkende kwaliteitsprofiel van wijnen uit Margaux?",
@@ -5563,7 +5557,7 @@
     },
     {
       "id": "bordeaux_023",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Barrel Aging",
       "question": "Hoe noemen ze nieuwe eiken vaten in Bordeaux?",
@@ -5591,7 +5585,7 @@
     },
     {
       "id": "bordeaux_024",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "hard",
       "source": "Bordeaux Right Bank Terroir",
       "question": "Welk type bodem kenmerkt Pomerol en wat maakt deze uniek?",
@@ -5620,7 +5614,7 @@
     },
     {
       "id": "bordeaux_025",
-      "category": "bordeaux",
+      "category": "frankrijk_algemeen",
       "difficulty": "medium",
       "source": "Bordeaux Second Wines",
       "question": "Wat is een 'second wine' en waarom maken Bordeaux châteaux deze?",
