@@ -18,8 +18,8 @@ if (-not (Test-Path -LiteralPath $DatabaseFile)) {
   throw "Database file not found: $DatabaseFile"
 }
 
-$db = Get-Content -LiteralPath $DatabaseFile -Raw | ConvertFrom-Json
-$batch = Get-Content -LiteralPath $BatchFile -Raw | ConvertFrom-Json
+$db = Get-Content -LiteralPath $DatabaseFile -Raw -Encoding UTF8 | ConvertFrom-Json
+$batch = Get-Content -LiteralPath $BatchFile -Raw -Encoding UTF8 | ConvertFrom-Json
 
 $hasImportBatch = $batch.PSObject.Properties.Name -contains "import_batch"
 $hasFlashcards = $batch.PSObject.Properties.Name -contains "flashcards"
