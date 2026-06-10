@@ -1,0 +1,1070 @@
+{
+  "import_batch": {
+    "_validation": {
+      "allowed_difficulty": ["easy", "medium", "hard"],
+      "allowed_category_ids": ["proeven", "vinificatie", "serveren", "wetgeving", "bordeaux", "frankrijk_algemeen", "italie", "spanje_portugal", "duitsland", "nieuwe_wereld", "overig"],
+      "required_fields": ["id", "category", "difficulty", "source", "question", "answer", "explanation", "tags"],
+      "optional_answer_fields": ["answer_short", "answer_core_points", "answer_why", "answer_pitfall", "answer_memory_hook"]
+    },
+    "metadata": {
+      "created_at": "2026-06-09",
+      "source": "SDEN3 .md files gap analysis",
+      "notes": "New flashcards based on comparison of SDEN3/ .md files vs existing database."
+    },
+    "flashcards": [
+      {
+        "id": "batch6_001",
+        "category": "spanje_portugal",
+        "difficulty": "medium",
+        "source": "SDEN3 Spanje.md; SDEN Toelichting toetstermen niveau 3 (2019)",
+        "question": "Welke bodem is kenmerkend voor Priorat en wat maakt deze uniek?",
+        "answer": "Llicorella: donker leisteen (schist) met kwarts.",
+        "explanation": "De Llicorella-bodem in Priorat bestaat uit donker leisteen (schist) en kwartskristallen. Door de arme, onvruchtbare bodem worden de oude wijnstokken gedwongen diep te wortelen, wat leidt tot extreem lage opbrengsten en zeer geconcentreerde, mineralige wijnen. Priorat is een van de twee Spaanse regio's met de hoogste DOCa-status.",
+        "tags": ["spanje", "priorat", "llicorella", "bodem", "docas", "leisteen"],
+        "answer_short": "Llicorella: donker leisteen met kwarts.",
+        "answer_core_points": [
+          "Llicorella is donker leisteen (schist) met kwarts",
+          "Arme bodem dwingt stokken diep te wortelen",
+          "Extreem lage opbrengsten",
+          "Zeer geconcentreerde, mineralige wijnen",
+          "Priorat is een van de twee Spaanse DOCa-regio's"
+        ],
+        "answer_why": "De arme llicorella-bodem in Priorat zorgt voor lage opbrengsten en diepgewortelde stokken, wat resulteert in zeer geconcentreerde, mineralige wijnen.",
+        "answer_pitfall": "Verwar Llicorella niet met Albariza (Jerez); Llicorella is donker leisteen, Albariza is witte kalkbodem.",
+        "answer_memory_hook": "Llicorella klinkt als 'lila' + 'orella' (oor) - donkere schist."
+      },
+      {
+        "id": "batch6_002",
+        "category": "spanje_portugal",
+        "difficulty": "hard",
+        "source": "SDEN3 Spanje.md; SDEN Toelichting toetstermen niveau 3 (2019)",
+        "question": "Wat zijn de belangrijkste druivenrassen van Priorat?",
+        "answer": "Garnacha (Garnatxa) en Cariñena (Carinyena).",
+        "explanation": "Priorat gebruikt voornamelijk Garnacha (Garnatxa in het Catalaans) en Cariñena (Carinyena). De wijnen zijn donker, krachtig en complex met een uitgesproken mineraliteit door de Llicorella-bodem.",
+        "tags": ["spanje", "priorat", "garnacha", "carinena", "druiven"],
+        "answer_short": "Garnacha en Cariñena.",
+        "answer_core_points": [
+          "Garnacha (Garnatxa)",
+          "Cariñena (Carinyena)"
+        ],
+        "answer_why": "Priorat staat bekend om zijn blends van Garnacha en Cariñena, die perfect gedijen in de arme Llicorella-bodem.",
+        "answer_pitfall": "",
+        "answer_memory_hook": "Priorat = P (Garnatxa) + C (Carinyena)"
+      },
+      {
+        "id": "batch6_003",
+        "category": "spanje_portugal",
+        "difficulty": "medium",
+        "source": "SDEN3 Spanje.md",
+        "question": "Hoe heet Tempranillo lokaal in Ribera del Duero?",
+        "answer": "Tinto Fino (ook wel Tinta del País).",
+        "explanation": "In Ribera del Duero staat Tempranillo bekend als Tinto Fino of Tinta del País. De regio ligt op een hoogvlakte tot 850 meter met een extreem continentaal klimaat ('9 maanden winter, 3 maanden hel'). De wijnen bestaan voor minimaal 75% uit Tinto Fino en zijn donkerder, krachtiger met hogere zuren dan Rioja.",
+        "tags": ["spanje", "ribera_del_duero", "tinto_fino", "tempranillo", "druiven"],
+        "answer_short": "Tinto Fino of Tinta del País.",
+        "answer_core_points": [
+          "Tinto Fino of Tinta del País",
+          "Ribera del Duero ligt op hoogvlakte tot 850m",
+          "Extreem continentaal klimaat",
+          "Minimaal 75% Tinto Fino",
+          "Donkerder, krachtiger, hogere zuren dan Rioja"
+        ],
+        "answer_why": "Tempranillo heet in elke Spaanse regio anders; in Ribera del Duero is Tinto Fino de gangbare naam.",
+        "answer_pitfall": "Verwar Tinto Fino niet met Tinta de Toro; Tinta de Toro is de Tempranillo-naam in Toro.",
+        "answer_memory_hook": "Ribera del Duero -> Tinto Fino (Fino = fijn, verwijst naar kwaliteit)"
+      },
+      {
+        "id": "batch6_004",
+        "category": "spanje_portugal",
+        "difficulty": "hard",
+        "source": "SDEN3 Spanje.md",
+        "question": "Wat is het klimaat en de hoogte van Ribera del Duero?",
+        "answer": "Extreem continentaal landklimaat, hoogvlakte tot 850 meter.",
+        "explanation": "Ribera del Duero heeft een extreem continentaal klimaat, beschreven als '9 maanden winter, 3 maanden hel'. De wijngaarden liggen op 750-850 meter hoogte. Door de grote dag-nacht temperatuurverschillen zijn de wijnen donkerder, krachtiger met hogere zuren dan Rioja. Bodems bestaan uit kalk en zand.",
+        "tags": ["spanje", "ribera_del_duero", "klimaat", "hoogte", "continentaal"],
+        "answer_short": "Extreem continentaal, tot 850m hoogte.",
+        "answer_core_points": [
+          "Extreem continentaal landklimaat",
+          "'9 maanden winter, 3 maanden hel'",
+          "Wijngaarden op 750-850m",
+          "Grote dag-nacht temperatuurverschillen",
+          "Kalk- en zandbodems"
+        ],
+        "answer_why": "De extreme continentale klimaat met grote dag-nacht temperatuurverschillen zorgt voor donkere, krachtige wijnen met behoud van frisse zuren.",
+        "answer_pitfall": "Verwar het klimaat niet met Rioja (gematigd landklimaat met Atlantische invloed).",
+        "answer_memory_hook": "Ribera = 'rivieroever' - denk aan de hoge Duero-rivier."
+      },
+      {
+        "id": "batch6_005",
+        "category": "spanje_portugal",
+        "difficulty": "medium",
+        "source": "SDEN3 Spanje.md",
+        "question": "Wat voor type wijn maakt Toro DO en van welke druif?",
+        "answer": "Zeer krachtige, alcoholrijke rode wijn van Tinta de Toro (Tempranillo).",
+        "explanation": "Toro DO maakt de meest krachtige, alcoholrijke en robuuste expressie van Tempranillo in Spanje. De lokale naam voor Tempranillo is Tinta de Toro. Het extreem droge en hete continentale klimaat met arme zandbodems zorgt voor zeer geconcentreerde wijnen met een hoog alcoholpercentage.",
+        "tags": ["spanje", "toro", "tinta_de_toro", "tempranillo", "do"],
+        "answer_short": "Krachtige rode wijn van Tinta de Toro.",
+        "answer_core_points": [
+          "Meest krachtige, alcoholrijke Tempranillo van Spanje",
+          "Lokale naam: Tinta de Toro",
+          "Extreem droog en heet continentaal klimaat",
+          "Arme zandbodems",
+          "Robuuste stijl"
+        ],
+        "answer_why": "Het extreem droge en hete klimaat in Toro zorgt voor hoge suikergehaltes in de druiven, wat leidt tot hoge alcoholpercentages en zeer geconcentreerde wijnen.",
+        "answer_pitfall": "Verwar Tinta de Toro niet met Tinto Fino (Ribera del Duero) - beide zijn Tempranillo maar met verschillende lokale namen.",
+        "answer_memory_hook": "Toro = stier = krachtig en robuust."
+      },
+      {
+        "id": "batch6_006",
+        "category": "spanje_portugal",
+        "difficulty": "medium",
+        "source": "SDEN3 Spanje.md",
+        "question": "Waar staat Cigales DO bekend om?",
+        "answer": "Om gastronomische, krachtige rosés (rosados) van Garnacha en Tempranillo.",
+        "explanation": "Cigales DO ligt in Castilla y León, nabij Valladolid, en staat vooral bekend om zijn kwaliteitsrosés (rosados). De wijnen zijn krachtiger en gastronomischer dan lichte rosés uit andere regio's. Naast rosado worden er ook rode wijnen gemaakt van Tempranillo en Garnacha.",
+        "tags": ["spanje", "cigales", "rosado", "rose", "garnacha", "tempranillo", "do"],
+        "answer_short": "Krachtige rosados van Garnacha en Tempranillo.",
+        "answer_core_points": [
+          "Bekend om gastronomische, krachtige rosés (rosados)",
+          "Druiven: Garnacha en Tempranillo",
+          "Ligt in Castilla y León bij Valladolid",
+          "Krachtiger dan lichte rosés uit andere regio's"
+        ],
+        "answer_why": "Cigales heeft een continentaal klimaat dat zorgt voor geconcentreerde druiven, ideaal voor rosados met meer body en structuur.",
+        "answer_pitfall": "Verwar Cigales niet met Cigales als wijnstijl - het is een DO-regio.",
+        "answer_memory_hook": "Cigales -> rosado -> denk aan de roze zonsondergang."
+      },
+      {
+        "id": "batch6_007",
+        "category": "spanje_portugal",
+        "difficulty": "medium",
+        "source": "SDEN3 Spanje.md",
+        "question": "Wat is de unieke witte kalkbodem in Jerez (Sherry) en wat zijn de kenmerken?",
+        "answer": "Albariza: spierwitte kalkbodem met hoog kalkgehalte.",
+        "explanation": "Albariza is de beroemde spierwitte kalkbodem van het Jerez-gebied. Deze bodem heeft een hoog kalkgehalte (40-80%), houdt water vast als een spons tijdens droge periodes en reflecteert zonlicht. Albariza is essentieel voor de productie van topkwaliteit Sherry, vooral voor Fino en Manzanilla die onder flor rijpen.",
+        "tags": ["spanje", "jerez", "sherry", "albariza", "bodem"],
+        "answer_short": "Albariza: spierwitte kalkbodem.",
+        "answer_core_points": [
+          "Albariza = spierwitte kalkbodem",
+          "40-80% kalkgehalte",
+          "Houdt water vast als een spons",
+          "Reflecteert zonlicht",
+          "Essentieel voor topkwaliteit Sherry, vooral Fino/Manzanilla"
+        ],
+        "answer_why": "Albariza's vermogen om water vast te houden en zonlicht te reflecteren is cruciaal in het droge Jerez-klimaat voor de productie van kwaliteits-Sherry.",
+        "answer_pitfall": "Verwar Albariza niet met Llicorella (Priorat); Albariza is wit kalk, Llicorella is donker leisteen.",
+        "answer_memory_hook": "Albariza = wit = 'alba' (wit in het Latijn)."
+      },
+      {
+        "id": "batch6_008",
+        "category": "spanje_portugal",
+        "difficulty": "hard",
+        "source": "SDEN3 Spanje.md",
+        "question": "Wat is de minimale Verdejo-percentage voor een Rueda Verdejo?",
+        "answer": "Minimaal 85% Verdejo.",
+        "explanation": "Een Rueda Verdejo moet verplicht voor minimaal 85% uit Verdejo bestaan. De rest mag Sauvignon Blanc of andere toegestane witte druiven zijn. Nachtelijke oogst is standaard in Rueda om de frisse aroma's tegen de hitte te beschermen. Rueda is de belangrijkste witte wijnregio van Spanje.",
+        "tags": ["spanje", "rueda", "verdejo", "etiket", "wetgeving"],
+        "answer_short": "Minimaal 85% Verdejo.",
+        "answer_core_points": [
+          "Minimaal 85% Verdejo",
+          "Rest mag Sauvignon Blanc of andere toegestane witte druiven zijn",
+          "Nachtelijke oogst is standaard",
+          "Belangrijkste witte wijnregio van Spanje"
+        ],
+        "answer_why": "De 85%-regel garandeert dat de typische Verdejo-stijl behouden blijft in Rueda-wijnen.",
+        "answer_pitfall": "Verwar het percentage niet met andere Spaanse blendregels; Ribera del Duero heeft een 75% Tinto Fino-regel.",
+        "answer_memory_hook": "Rueda Verdejo = 85% (vanaf 8 + 5 = 13, denk aan 13 letters in 'Rueda Verdejo')"
+      },
+      {
+        "id": "batch6_009",
+        "category": "spanje_portugal",
+        "difficulty": "medium",
+        "source": "SDEN3 Spanje.md",
+        "question": "Welke unieke groeimethode wordt gebruikt in Rías Baixas en waarom?",
+        "answer": "De pergola-methode (parra): druiven groeien hoog boven de natte grond.",
+        "explanation": "In Rías Baixas wordt de parra (pergola) methode gebruikt. De druivenranken worden hoog boven de grond geleid om de druiven weg te houden van de natte bodem. Dit voorkomt rot en schimmels in het extreem natte Atlantische klimaat van 'Groen Spanje'. De methode zorgt ook voor betere luchtcirculatie.",
+        "tags": ["spanje", "rias_baixas", "parra", "pergola", "wijngaard"],
+        "answer_short": "Parra (pergola): druiven hoog boven de natte grond.",
+        "answer_core_points": [
+          "Parra = pergola-methode",
+          "Druiven groeien hoog boven de grond",
+          "Voorkomt rot en schimmels door natte bodem",
+          "Extreem nat Atlantisch klimaat",
+          "Betere luchtcirculatie"
+        ],
+        "answer_why": "Rías Baixas heeft een extreem nat klimaat; de parra-methode houdt de druiven droog en voorkomt schimmelziekten.",
+        "answer_pitfall": "Verwar parra niet met de Alberello-methode (struikvorming) die in droge warme gebieden wordt gebruikt.",
+        "answer_memory_hook": "Parra klinkt als 'parasol' - beschutting tegen de regen."
+      },
+      {
+        "id": "batch6_010",
+        "category": "spanje_portugal",
+        "difficulty": "medium",
+        "source": "SDEN3 Spanje.md",
+        "question": "Wat voor type appellatie is Cava DO?",
+        "answer": "Een stijl-appellatie, geen geografische regio.",
+        "explanation": "De Cava DO is een uitzonderlijke appellatie omdat het geen geografische regio is, maar een stijl-appellatie. Cava wordt gemaakt volgens de método tradicional (traditionele methode met tweede gisting op fles). Hoewel de DO verspreid is over Spanje, komt 95% van alle Cava uit de Penedès-regio (omgeving Sant Sadurní d'Anoia).",
+        "tags": ["spanje", "cava", "do", "appellatie", "wetgeving"],
+        "answer_short": "Cava DO is een stijl-appellatie.",
+        "answer_core_points": [
+          "Cava DO is een stijl-appellatie, geen geografische regio",
+          "Gemaakt via método tradicional",
+          "95% komt uit Penedès",
+          "Verspreid over meerdere regio's in Spanje"
+        ],
+        "answer_why": "In tegenstelling tot de meeste DO's die aan een geografisch gebied zijn gebonden, definieert Cava DO een productiemethode die in meerdere regio's mag worden toegepast.",
+        "answer_pitfall": "Verwar Cava DO niet met Penedès DO; Cava is een aparte stijl-DO, geen onderdeel van Penedès DO.",
+        "answer_memory_hook": "Cava = stijl-appellatie, zoals Champagne een stijl is."
+      },
+      {
+        "id": "batch6_011",
+        "category": "duitsland",
+        "difficulty": "medium",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Waarin verschilt Baden van de andere Duitse wijnregio's?",
+        "answer": "Baden is de enige Duitse regio in de warmere Europese wijnzone B.",
+        "explanation": "Baden is het meest zuidelijke en warmste wijngebied van Duitsland. Het is de enige Duitse wijnregio die is ingedeeld in de warmere Europese wijnzone B (de rest valt in zone A). Baden heeft vulkanische bodems (Kaiserstuhl) en is Duitslands belangrijkste regio voor rode wijn, met name Spätburgunder (Pinot Noir). Ook Grauburgunder, Weißburgunder en Chardonnay zijn belangrijk.",
+        "tags": ["duitsland", "baden", "wijnzone", "spatburgunder", "klimaat"],
+        "answer_short": "Baden is de enige Duitse regio in wijnzone B.",
+        "answer_core_points": [
+          "Enige Duitse regio in wijnzone B (rest zone A)",
+          "Meest zuidelijke en warmste gebied",
+          "Vulkanische bodems (Kaiserstuhl)",
+          "Duitslands belangrijkste regio voor rode wijn",
+          "Spätburgunder, Grauburgunder, Weißburgunder, Chardonnay"
+        ],
+        "answer_why": "Door zijn zuidelijke ligging en warme klimaat is Baden de enige Duitse regio die in de warmere Europese wijnzone B valt.",
+        "answer_pitfall": "Verwar 'zone B' niet met een kwaliteitsclassificatie; het is een Europese wijnbouwzone-indeling.",
+        "answer_memory_hook": "Baden = B = zone B (de enige in Duitsland)."
+      },
+      {
+        "id": "batch6_012",
+        "category": "duitsland",
+        "difficulty": "hard",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Wat is de Dornfelder-druif en waar wordt deze vooral verbouwd?",
+        "answer": "Een rood druivenras, vooral in de Pfalz.",
+        "explanation": "Dornfelder is een relatief moderne Duitse rode druivenkruising die vooral in de Pfalz wordt verbouwd. Het produceert diepdonkere, fruitige rode wijnen met zachte tannines. Dornfelder is populair vanwege zijn diepe kleur en toegankelijke stijl, in tegenstelling tot de lichtere Spätburgunder.",
+        "tags": ["duitsland", "pfalz", "dornfelder", "druiven", "rood"],
+        "answer_short": "Rode druif, vooral in de Pfalz.",
+        "answer_core_points": [
+          "Moderne Duitse rode druivenkruising",
+          "Vooral in de Pfalz",
+          "Diepdonkere, fruitige wijnen",
+          "Zachte tannines"
+        ],
+        "answer_why": "Dornfelder is populair in de Pfalz vanwege zijn diepe kleur en toegankelijke stijl, passend bij het warmere Pfalz-klimaat.",
+        "answer_pitfall": "Verwar Dornfelder niet met Spätburgunder; Dornfelder is een moderne kruising, Spätburgunder is de Duitse Pinot Noir.",
+        "answer_memory_hook": "Dornfelder -> 'doorn' + 'felder' (velden) - een stevige rode velddruif."
+      },
+      {
+        "id": "batch6_013",
+        "category": "duitsland",
+        "difficulty": "hard",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Welke witte druiven zijn typisch voor Rheinhessen naast Riesling?",
+        "answer": "Müller-Thurgau en Silvaner.",
+        "explanation": "Rheinhessen is de grootste wijnregio van Duitsland met zeer diverse bodems en microklimaten. Naast Riesling zijn Müller-Thurgau en Silvaner typische druiven voor de regio. Vroeger bekend om massaproductie (Liebfraumilch), maar nu dé regio voor dynamische, jonge producenten en topkwaliteit droge Riesling. De Roter Hang bij Nierstein is een beroemde wijngaard.",
+        "tags": ["duitsland", "rheinhessen", "muller_thurgau", "silvaner", "druiven"],
+        "answer_short": "Müller-Thurgau en Silvaner.",
+        "answer_core_points": [
+          "Müller-Thurgau",
+          "Silvaner",
+          "Naast Riesling typische druiven van Rheinhessen",
+          "Rheinhessen is grootste Duitse wijnregio"
+        ],
+        "answer_why": "Rheinhessen heeft diverse bodems die naast Riesling ook goed geschikt zijn voor Müller-Thurgau en Silvaner.",
+        "answer_pitfall": "",
+        "answer_memory_hook": "Rheinhessen -> Riesling, Müller-Thurgau, Silvaner (RMS)"
+      },
+      {
+        "id": "batch6_014",
+        "category": "duitsland",
+        "difficulty": "medium",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Wat is de Roter Hang en in welke Duitse regio ligt deze?",
+        "answer": "Rode klei-ijzerhelling bij Nierstein in Rheinhessen.",
+        "explanation": "De Roter Hang ('Rode Hellling') is een beroemde wijngaardlocatie bij Nierstein in Rheinhessen. De naam komt van de roodachtige klei-ijzerbodem. Deze steile hellingen produceren krachtige, karaktervolle Rieslingwijnen. De Roter Hang is een van de meest prestigieuze wijngaardlocaties van Rheinhessen.",
+        "tags": ["duitsland", "rheinhessen", "roter_hang", "nierstein", "wijngaard"],
+        "answer_short": "Rode klei-ijzerhelling bij Nierstein (Rheinhessen).",
+        "answer_core_points": [
+          "Ligt bij Nierstein in Rheinhessen",
+          "Rode klei-ijzerbodem",
+          "Beroemde steile helling",
+          "Krachtige, karaktervolle Rieslingwijnen"
+        ],
+        "answer_why": "De ijzerrijke rode kleibodem van de Roter Hang geeft de Rieslingwijnen een krachtig en karaktervol profiel.",
+        "answer_pitfall": "Verwar Roter Hang niet met de Rote Erde of andere Duitse wijngaardtermen.",
+        "answer_memory_hook": "Roter Hang = 'rode helling' - letterlijk de rode kleihelling."
+      },
+      {
+        "id": "batch6_015",
+        "category": "overig",
+        "difficulty": "hard",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Wat is de unieke drietrapsclassificatie van de Wachau in Oostenrijk?",
+        "answer": "Steinfeder (max 11,5%), Federspiel (11,5-12,5%), Smaragd (min 12,5%).",
+        "explanation": "De Wachau in Niederösterreich gebruikt een eigen unieke classificatie voor droge witte wijnen, gebaseerd op alcoholpercentage. Steinfeder is licht en alcoholarm (max 11,5%), vernoemd naar een fijn gras. Federspiel is elegant, klassiek (11,5-12,5%), vernoemd naar een valkeniersterm. Smaragd is complex, krachtig (min 12,5%), vernoemd naar de groene hagedis in de wijngaard.",
+        "tags": ["oostenrijk", "wachau", "classificatie", "steinfeder", "federspiel", "smaragd"],
+        "answer_short": "Steinfeder (max 11,5%), Federspiel (11,5-12,5%), Smaragd (min 12,5%).",
+        "answer_core_points": [
+          "Steinfeder: max 11,5% alcohol, licht en elegant",
+          "Federspiel: 11,5-12,5% alcohol, klassiek en gastronomisch",
+          "Smaragd: min 12,5% alcohol, complex en bewaarbaar",
+          "Uniek systeem van de Wachau, niet hetzelfde als DAC"
+        ],
+        "answer_why": "De Wachau heeft een eigen classificatie omdat ze vonden dat het nationale DAC-systeem niet paste bij hun unieke wijnstijlen.",
+        "answer_pitfall": "Verwar de Wachau-classificatie niet met de Prädikatswein-hiërarchie (Kabinett-Spätlese-Auslese). De Wachau gebruikt alcoholpercentage, Duitsland gebruikt mostgewicht.",
+        "answer_memory_hook": "S (Smaragd) = Swarovski = groen, kostbaar en krachtig. F (Federspiel) = Flessenbier? Nee, Feder = veer, elegant."
+      },
+      {
+        "id": "batch6_016",
+        "category": "duitsland",
+        "difficulty": "medium",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Welke rode druif is het meest aangeplant in Oostenrijk?",
+        "answer": "Zweigelt.",
+        "explanation": "Zweigelt is de meest aangeplante rode druif van Oostenrijk. Het is een kruising van Blaufränkisch en St. Laurent, gemaakt door Dr. Fritz Zweigelt in 1922. Zweigelt produceert fruitige, zachte rode wijnen met kersenaroma's. De kwalitatief meest serieuze rode wijn komt echter van Blaufränkisch, vooral uit Mittelburgenland (ook wel 'Blaufränkischland' genoemd).",
+        "tags": ["oostenrijk", "zweigelt", "druiven", "rood", "meest_aangeplant"],
+        "answer_short": "Zweigelt.",
+        "answer_core_points": [
+          "Meest aangeplante rode druif van Oostenrijk",
+          "Kruising van Blaufränkisch en St. Laurent",
+          "Gemaakt door Dr. Fritz Zweigelt (1922)",
+          "Fruitige, zachte rode wijnen met kersenaroma's"
+        ],
+        "answer_why": "Zweigelt is populair vanwege zijn betrouwbaarheid, vroege rijping en toegankelijke, fruitige wijnstijl.",
+        "answer_pitfall": "Zweigelt is de meest aangeplante, maar Blaufränkisch wordt beschouwd als de kwalitatief beste rode druif van Oostenrijk.",
+        "answer_memory_hook": "Zweigelt klinkt als 'Zwei' (twee) = kruising van twee druiven: Blaufränkisch + St. Laurent."
+      },
+      {
+        "id": "batch6_017",
+        "category": "duitsland",
+        "difficulty": "medium",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Waarom staat Mittelburgenland ook bekend als 'Blaufränkischland'?",
+        "answer": "Omdat Blaufränkisch de dominante en kwalitatief beste druif is.",
+        "explanation": "Mittelburgenland in Oostenrijk staat bekend als 'Blaufränkischland' omdat Blaufränkisch hier de dominante druif is. Blaufränkisch wordt beschouwd als de kwalitatief meest serieuze en krachtige rode wijn van Oostenrijk, met een uitstekende structuur en bewaarpotentieel. Mittelburgenland heeft zijn eigen DAC-status.",
+        "tags": ["oostenrijk", "blaufrankisch", "mittelburgenland", "druiven", "rood"],
+        "answer_short": "Blaufränkisch is de dominante topdruif.",
+        "answer_core_points": [
+          "Mittelburgenland = Blaufränkischland",
+          "Blaufränkisch is de dominante druif",
+          "Kwalitatief meest serieuze rode wijn van Oostenrijk",
+          "Krachtig met uitstekende structuur",
+          "Mittelburgenland heeft DAC-status"
+        ],
+        "answer_why": "Het warme pannonische klimaat van Mittelburgenland is ideaal voor Blaufränkisch, dat hier zijn beste kwaliteit bereikt.",
+        "answer_pitfall": "Verwar Blaufränkisch niet met Zweigelt; Zweigelt is een kruising van Blaufränkisch en St. Laurent.",
+        "answer_memory_hook": "Blaufränkisch -> 'blauw' + 'Frankisch' - de blauwe Frankische druif."
+      },
+      {
+        "id": "batch6_018",
+        "category": "overig",
+        "difficulty": "hard",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Wat is Ausbruch en waar wordt deze Oostenrijkse specialiteit gemaakt?",
+        "answer": "Edelzoete wijn gemaakt van door botrytis aangetaste druiven rond de Neusiedlersee (Burgenland).",
+        "explanation": "Ausbruch is een edelzoete Oostenrijkse wijnspecialiteit uit de regio rond de Neusiedlersee in Burgenland. De ondiepe Neusiedlersee zorgt voor een extreem hoge luchtvochtigheid, wat perfecte omstandigheden creëert voor botrytis (edele rotting). Ausbruch zit qua zoetheid tussen Beerenauslese en Trockenbeerenauslese in. Het is een traditionele specialiteit die al eeuwen wordt gemaakt.",
+        "tags": ["oostenrijk", "burgenland", "ausbruch", "neusiedlersee", "botrytis", "zoet"],
+        "answer_short": "Edelzoete botrytiswijn uit Burgenland (Neusiedlersee).",
+        "answer_core_points": [
+          "Edelzoete wijn uit Burgenland",
+          "Gemaakt rond de Neusiedlersee",
+          "Hoge luchtvochtigheid door ondiepe meer",
+          "Botrytis (edele rotting)",
+          "Zoetheid tussen BA en TBA"
+        ],
+        "answer_why": "De unieke combinatie van het ondiepe Neusiedlersee-meer en vochtige lucht creëert perfecte botrytisomstandigheden voor Ausbruch.",
+        "answer_pitfall": "Verwar Ausbruch niet met Auslese; Ausbruch is een Oostenrijkse specialiteit, Auslese is een Duitse Prädikatswein-level.",
+        "answer_memory_hook": "Ausbruch = 'uitbraak' - de botrytis breekt uit in de wijngaard."
+      },
+      {
+        "id": "batch6_019",
+        "category": "overig",
+        "difficulty": "hard",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Waar staat Steiermark (Styria) in Oostenrijk om bekend?",
+        "answer": "Om loepzuivere, aromatische witte wijnen, vooral Sauvignon Blanc.",
+        "explanation": "Steiermark (Styria) in het zuiden van Oostenrijk heeft een submediterraan klimaat met veel neerslag en zeer steile, groene heuvels. De regio staat bekend om loepzuivere, aromatische, knisperend frisse witte wijnen. Vooral Sauvignon Blanc heeft hier een wereldstatus opgebouwd. Belangrijke DAC's zijn Südsteiermark DAC en Vulkanland Steiermark DAC.",
+        "tags": ["oostenrijk", "steiermark", "styria", "sauvignon_blanc", "dac"],
+        "answer_short": "Aromatische witte wijnen, vooral Sauvignon Blanc.",
+        "answer_core_points": [
+          "Submediterraan klimaat met veel neerslag",
+          "Zeer steile, groene heuvels",
+          "Loepzuivere, aromatische, frisse witte wijnen",
+          "Sauvignon Blanc van wereldklasse",
+          "Südsteiermark DAC en Vulkanland Steiermark DAC"
+        ],
+        "answer_why": "Het submediterrane klimaat met voldoende neerslag en koele nachten zorgt voor intense aroma's en frisse zuren in de witte wijnen.",
+        "answer_pitfall": "Verwar Steiermark niet met de Stiermarkse wijnstijl; het is de Nederlandse naam voor Stiermarken (Styria).",
+        "answer_memory_hook": "Steiermark = 'Steiermarkt' - denk aan de groene, steile heuvels."
+      },
+      {
+        "id": "batch6_020",
+        "category": "overig",
+        "difficulty": "medium",
+        "source": "SDEN3 Duitsland & Oostenrijk.md",
+        "question": "Wat was de eerste DAC in Oostenrijk en van welke druif?",
+        "answer": "Weinviertel DAC (2002), uitsluitend Grüner Veltliner.",
+        "explanation": "Weinviertel was de allereerste DAC (Districtus Austriae Controllatus) in Oostenrijk, geïntroduceerd in 2002. DAC is het Oostenrijkse herkomstsysteem, vergelijkbaar met de Franse AOC. Weinviertel DAC mag alleen Grüner Veltliner zijn, met het typische peperige karakter dat bekendstaat als 'Pfefferl'. Sindsdien hebben veel andere regio's ook DAC-status gekregen.",
+        "tags": ["oostenrijk", "weinviertel", "dac", "gruner_veltliner", "pfefferl"],
+        "answer_short": "Weinviertel DAC (2002) voor Grüner Veltliner.",
+        "answer_core_points": [
+          "Eerste DAC in 2002",
+          "Weinviertel",
+          "Uitsluitend Grüner Veltliner",
+          "Typisch peperig karakter: Pfefferl",
+          "DAC = Oostenrijks herkomstsysteem"
+        ],
+        "answer_why": "Weinviertel kreeg als eerste DAC-status om de typische Grüner Veltliner-stijl van de regio te beschermen.",
+        "answer_pitfall": "Verwar DAC niet met DOCG (Italiaans) of AOC (Frans); DAC is het Oostenrijkse systeem.",
+        "answer_memory_hook": "Weinviertel = 'Wijnkwartier' - eerste DAC in 2002."
+      },
+      {
+        "id": "batch6_021",
+        "category": "frankrijk_algemeen",
+        "difficulty": "medium",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Wat zijn de belangrijkste druivenrassen van de Savoie?",
+        "answer": "Wit: Jacquère (75%), Altesse. Rood: Gamay, Mondeuse.",
+        "explanation": "De Savoie-regio in de Franse Alpen gebruikt wit druivenras Jacquère voor ongeveer 75% van de productie. Jacquère geeft lichte, frisse, minerale witte wijnen. Altesse is een andere witte druif van hogere kwaliteit. Voor rood worden Gamay en de lokale specialiteit Mondeuse gebruikt. De regio staat bekend om zijn alpine wijnen met frisse zuren.",
+        "tags": ["frankrijk", "savoie", "jacquere", "altesse", "mondeuse", "druiven"],
+        "answer_short": "Jacquère (75%), Altesse (wit); Gamay, Mondeuse (rood).",
+        "answer_core_points": [
+          "Jacquère: 75% van de productie, lichte frisse witte wijn",
+          "Altesse: witte druif van hogere kwaliteit",
+          "Gamay: rode druif",
+          "Mondeuse: lokale rode specialiteit",
+          "Alpine wijnen met frisse zuren"
+        ],
+        "answer_why": "Het alpine klimaat van de Savoie is perfect voor Jacquère, dat een lichte, frisse wijn produceert met minerale tonen.",
+        "answer_pitfall": "Verwar Mondeuse niet met Monastrell (Mourvèdre); Mondeuse is een unieke Savoie-druif.",
+        "answer_memory_hook": "Savoie -> 75% Jacquère (Jacques = 75% van de tijd?). Gamay + Mondeuse voor rood."
+      },
+      {
+        "id": "batch6_022",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Welke rode druiven zijn typisch voor de Jura naast Pinot Noir?",
+        "answer": "Poulsard en Trousseau.",
+        "explanation": "Naast Pinot Noir gebruikt de Jura ook de lokale rode druiven Poulsard en Trousseau. Poulsard is een lichte, bleke rode druif die vaak wordt gebruikt voor lichte rode wijnen en rosés, maar ook als component in de beroemde Vin Jaune-assemblage. Trousseau is krachtiger en geeft meer gestructureerde rode wijnen. De Jura is ook bekend om Savagnin (wit) en Chardonnay.",
+        "tags": ["frankrijk", "jura", "poulsard", "trousseau", "druiven", "rood"],
+        "answer_short": "Poulsard en Trousseau.",
+        "answer_core_points": [
+          "Poulsard: lichte, bleke rode druif",
+          "Trousseau: krachtiger, meer gestructureerd",
+          "Naast Pinot Noir de rode druiven van de Jura",
+          "Jura ook bekend om Savagnin (wit) en Chardonnay"
+        ],
+        "answer_why": "Poulsard en Trousseau zijn lokale Jura-druiven die zich hebben aangepast aan het koele landklimaat met mergelbodems.",
+        "answer_pitfall": "Verwar Poulsard niet met Pulsar; Poulsard is de bleke rode Jura-druif.",
+        "answer_memory_hook": "Poulsard = bleek (P = Pale). Trousseau = krachtig (T = Tough)."
+      },
+      {
+        "id": "batch6_023",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Wat is Beaumes-de-Venise en wat is de specialiteit?",
+        "answer": "Een Zuid-Rhône appellatie, bekend om VDN (Vin Doux Naturel) van Muscat blanc à petits grains.",
+        "explanation": "Beaumes-de-Venise is een appellatie in de Zuid-Rhône. Het staat vooral bekend om zijn Vin Doux Naturel (versterkte zoete wijn) gemaakt van de Muscat blanc à petits grains-druif. Naast de zoete VDN worden er ook rode wijnen geproduceerd onder de appellatie. De VDN wordt gemaakt door de gisting te stoppen met alcohol om de natuurlijke zoetheid te behouden.",
+        "tags": ["frankrijk", "rhone", "beaumes_de_venise", "vdn", "muscat", "zoet"],
+        "answer_short": "VDN van Muscat blanc à petits grains.",
+        "answer_core_points": [
+          "Appellatie in de Zuid-Rhône",
+          "Bekend om Vin Doux Naturel (VDN)",
+          "Gemaakt van Muscat blanc à petits grains",
+          "Zoete, versterkte wijn"
+        ],
+        "answer_why": "Het warme mediterrane klimaat van de Zuid-Rhône is perfect voor het produceren van zoete Muscat-wijnen.",
+        "answer_pitfall": "Verwar Beaumes-de-Venise niet met Banyuls (een andere Franse VDN uit Languedoc-Roussillon).",
+        "answer_memory_hook": "Beaumes-de-Venise = Mooi van Venetië? Muscat = muskaatnoot."
+      },
+      {
+        "id": "batch6_024",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Wat is de minimale blend-samenstelling voor Gigondas (Zuid-Rhône)?",
+        "answer": "Minstens 50% Grenache + 15% Syrah of Mourvèdre.",
+        "explanation": "Gigondas in de Zuid-Rhône heeft specifieke blendregels: de rode wijn moet voor minstens 50% uit Grenache bestaan en daarnaast minstens 15% Syrah of Mourvèdre bevatten. Andere toegestane druiven zijn Cinsault, Carignan en andere Rhône-variëteiten. Gigondas ligt aan de voet van de Dentelles de Montmirail en staat bekend om krachtige, kruidige rode wijnen.",
+        "tags": ["frankrijk", "rhone", "gigondas", "grenache", "blend", "wetgeving"],
+        "answer_short": "Min. 50% Grenache + min. 15% Syrah of Mourvèdre.",
+        "answer_core_points": [
+          "Minimaal 50% Grenache",
+          "Minimaal 15% Syrah of Mourvèdre",
+          "Andere toegestaan: Cinsault, Carignan",
+          "Krachtige, kruidige rode wijnen",
+          "Ligt aan voet van Dentelles de Montmirail"
+        ],
+        "answer_why": "De blendregels van Gigondas garanderen dat de wijn het typische Zuid-Rhône karakter behoudt met Grenache als basis.",
+        "answer_pitfall": "Verwar Gigondas blendregels niet met Châteauneuf-du-Pape (13-18 druiven toegestaan).",
+        "answer_memory_hook": "Gigondas = 50% Grenache + 15% Syrah/Mourvèdre (denk: G = 50, S/M = 15)."
+      },
+      {
+        "id": "batch6_025",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Welke druiven mogen op een Alsace Grand Cru staan en wat is de uitzondering?",
+        "answer": "Alleen Riesling, Gewurztraminer, Pinot Gris en Muscat. Uitzondering: Sylvaner op Grand Cru Zotzenberg.",
+        "explanation": "Van de 51 Alsace Grand Crus mogen slechts vier 'edele' druiven op het etiket staan: Riesling, Gewurztraminer, Pinot Gris en Muscat. De enige uitzondering is Grand Cru Zotzenberg, waar ook Sylvaner mag worden gebruikt. Dit komt doordat Zotzenberg een historische reputatie heeft voor Sylvaner. Alle andere Grand Crus zijn exclusief voor de vier edele druiven.",
+        "tags": ["frankrijk", "alsace", "grand_cru", "sylvaner", "zotzenberg"],
+        "answer_short": "Riesling, Gewurztraminer, Pinot Gris, Muscat. Uitzondering: Sylvaner (Zotzenberg).",
+        "answer_core_points": [
+          "Riesling, Gewurztraminer, Pinot Gris, Muscat = 4 edele druiven",
+          "51 Alsace Grand Crus",
+          "Alleen deze 4 druiven zijn toegestaan op Grand Cru-etiket",
+          "Uitzondering: Grand Cru Zotzenberg voor Sylvaner"
+        ],
+        "answer_why": "De Alsace Grand Cru-status is exclusief voor de vier edele druiven om de kwaliteit en het prestige te beschermen, met een historische uitzondering voor Zotzenberg.",
+        "answer_pitfall": "Verwar de Grand Cru druiven niet met Alsace AOC druiven (daar zijn meer druiven toegestaan).",
+        "answer_memory_hook": "Grand Cru Alsace = R G P M (Riesling, Gewurztraminer, Pinot Gris, Muscat) + Z voor Zotzenberg (Sylvaner)."
+      },
+      {
+        "id": "batch6_026",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Noem de 10 Beaujolais Crus.",
+        "answer": "Saint-Amour, Fleurie, Moulin-à-Vent, Morgon, Juliénas, Chénas, Chiroubles, Régnié, Brouilly, Côte de Brouilly.",
+        "explanation": "De 10 Beaujolais Crus zijn (van noord naar zuid): Saint-Amour, Juliénas, Chénas, Moulin-à-Vent, Fleurie, Chiroubles, Morgon, Régnié, Brouilly en Côte de Brouilly. De vier belangrijkste voor het examen zijn: Saint-Amour, Fleurie, Moulin-à-Vent en Morgon. Deze crus produceren de beste en meest karaktervolle Gamay-wijnen van de regio.",
+        "tags": ["frankrijk", "beaujolais", "crus", "gamay", "10_crus"],
+        "answer_short": "Saint-Amour, Fleurie, Moulin-à-Vent, Morgon, Juliénas, Chénas, Chiroubles, Régnié, Brouilly, Côte de Brouilly.",
+        "answer_core_points": [
+          "10 Beaujolais Crus: Saint-Amour, Juliénas, Chénas, Moulin-à-Vent, Fleurie, Chiroubles, Morgon, Régnié, Brouilly, Côte de Brouilly",
+          "Alle 10 produceren 100% Gamay",
+          "Belangrijkste 4: Saint-Amour, Fleurie, Moulin-à-Vent, Morgon",
+          "Geen 'Beaujolais' of 'Beaujolais-Villages' op etiket, alleen de cru-naam"
+        ],
+        "answer_why": "De 10 crus vertegenwoordigen de beste wijngaardlocaties in Beaujolais, elk met een eigen terroir en stijl.",
+        "answer_pitfall": "Verwar de 10 crus niet met Beaujolais-Villages (een niveau lager) of simpele Beaujolais AOC.",
+        "answer_memory_hook": "Ezelsbrug: Sommige Flessen Maken Morgon Juliën Chénas, Chiroubles, Régnié, Brouilly, Côte de Brouilly. Of: Saint-Amour Fleurie Moulin-à-Vent - liefde, bloemen, windmolen."
+      },
+      {
+        "id": "batch6_027",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Noem drie belangrijke dorpsappellaties uit de Côte de Nuits (Bourgogne).",
+        "answer": "Gevrey-Chambertin, Chambolle-Musigny, Vosne-Romanée.",
+        "explanation": "De Côte de Nuits in Bourgogne is beroemd om zijn rode wijnen van Pinot Noir. Belangrijke dorpsappellaties zijn: Gevrey-Chambertin (krachtig), Chambolle-Musigny (elegant), Vougeot (met het beroemde Château de Clos Vougeot), Vosne-Romanée (met Domaine de la Romanée-Conti) en Nuits-Saint-Georges (stevig en gestructureerd). De witte wijnappellaties liggen vooral in de Côte de Beaune.",
+        "tags": ["frankrijk", "bourgogne", "cote_de_nuits", "dorpsappellaties", "pinot_noir"],
+        "answer_short": "Gevrey-Chambertin, Chambolle-Musigny, Vougeot, Vosne-Romanée, Nuits-Saint-Georges.",
+        "answer_core_points": [
+          "Côte de Nuits = rode wijn (Pinot Noir)",
+          "Gevrey-Chambertin: krachtig en robuust",
+          "Chambolle-Musigny: elegant en verfijnd",
+          "Vougeot: Clos Vougeot, historisch kasteel",
+          "Vosne-Romanée: Domaine de la Romanée-Conti",
+          "Nuits-Saint-Georges: stevig en gestructureerd"
+        ],
+        "answer_why": "Côte de Nuits heeft de meest prestigieuze rode-wijndorpen van Bourgogne, met Grand Crus zoals Chambertin en Romanée-Conti.",
+        "answer_pitfall": "Verwar Côte de Nuits niet met Côte de Beaune (beter voor witte wijn van Chardonnay).",
+        "answer_memory_hook": "Côte de Nuits: Gevrey-Chambertin, Chambolle-Musigny, Vougeot, Vosne-Romanée, Nuits (GCCVVN)."
+      },
+      {
+        "id": "batch6_028",
+        "category": "frankrijk_algemeen",
+        "difficulty": "medium",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Wat zijn de twee belangrijkste bodemtypes van de Loire?",
+        "answer": "Tuffeau (krijt) en Silex (vuursteen).",
+        "explanation": "De Loire heeft twee belangrijke bodemtypes. Tuffeau is een zachte witte kalksteenbodem (krijt) die vooral voorkomt in de centrale Loire (Vouvray, Saumur). Deze bodem geeft mineraliteit en frisheid. Silex (vuursteen) komt voor in Sancerre en Pouilly-Fumé en geeft de wijnen een kenmerkende vuursteen-mineraliteit en strakke zuren.",
+        "tags": ["frankrijk", "loire", "tuffeau", "silex", "bodem"],
+        "answer_short": "Tuffeau (krijt) en Silex (vuursteen).",
+        "answer_core_points": [
+          "Tuffeau: zachte witte kalksteen/krijt",
+          "Tuffeau in Vouvray, Saumur (centrale Loire)",
+          "Silex: vuursteen",
+          "Silex in Sancerre, Pouilly-Fumé",
+          "Beide geven mineraliteit aan de wijnen"
+        ],
+        "answer_why": "De Loire-bodems bepalen sterk het karakter van de wijnen: Tuffeau geeft zachtheid, Silex geeft vuursteen-mineraliteit.",
+        "answer_pitfall": "Verwar Tuffeau niet met Kimmeridgien (Chablis); beide zijn kalkbodems maar Kimmeridgien bevat fossielen.",
+        "answer_memory_hook": "Tuffeau = Tuff (zacht als kalk). Silex = Silicon = vuursteen."
+      },
+      {
+        "id": "batch6_029",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Wat zijn de vier subregio's van de Champagne en hun specialiteit?",
+        "answer": "Montagne de Reims (Pinot Noir), Côte des Blancs (Chardonnay), Vallée de la Marne (Pinot Meunier), Côte des Bar (Pinot Noir).",
+        "explanation": "Champagne heeft vier belangrijke subregio's: Montagne de Reims is bekend om Pinot Noir voor structuur; Côte des Blancs is het domein van Chardonnay voor elegantie en finesse; Vallée de la Marne is het hart van Pinot Meunier voor fruitigheid; Côte des Bar (meer zuidelijk, in de Aube) produceert ook voornamelijk Pinot Noir. De krijtbodem (kalk) is overal de basis.",
+        "tags": ["frankrijk", "champagne", "subregios", "montagne_de_reims", "cote_des_blancs", "vallee_de_la_marne"],
+        "answer_short": "Montagne de Reims (PN), Côte des Blancs (CH), Vallée de la Marne (PM), Côte des Bar (PN).",
+        "answer_core_points": [
+          "Montagne de Reims: Pinot Noir (structuur, body)",
+          "Côte des Blancs: Chardonnay (elegantie, finesse)",
+          "Vallée de la Marne: Pinot Meunier (fruitigheid)",
+          "Côte des Bar: Pinot Noir (zuidelijk, Aube)",
+          "Krijtbodem is overal de basis"
+        ],
+        "answer_why": "Elke Champagne-subregio heeft een eigen specialiteit door de combinatie van bodem, microklimaat en traditie.",
+        "answer_pitfall": "Verwar de subregio's niet met de kwaliteitsclassificatie (Grand Cru, Premier Cru).",
+        "answer_memory_hook": "Champagne regio's: MR (Montagne = Pinot Noir), CdBl (Blancs = Chardonnay), VM (Vallée = Meunier), CdBa (Bar = Pinot Noir)."
+      },
+      {
+        "id": "batch6_030",
+        "category": "frankrijk_algemeen",
+        "difficulty": "hard",
+        "source": "SDEN3 Frankrijk.md",
+        "question": "Wat zijn de minimale rijpingseisen voor Non-Vintage en Vintage Champagne?",
+        "answer": "NV: min. 15 maanden (waarvan 12 op lie). Vintage: min. 3 jaar op lie.",
+        "explanation": "Champagne heeft strikte rijpingseisen op de gistcellen (sur lie). Non-Vintage Champagne moet minimaal 15 maanden rijpen, waarvan minstens 12 maanden op de lie (gistcellen). Vintage Champagne (één jaargang) moet minimaal 3 jaar op de lie rijpen. De lange rijping op lie geeft Champagne zijn kenmerkende brioche- en biscuitaroma's.",
+        "tags": ["frankrijk", "champagne", "rijping", "non_vintage", "vintage", "lie"],
+        "answer_short": "NV: 15 mnd (12 op lie). Vintage: 3 jaar op lie.",
+        "answer_core_points": [
+          "Non-Vintage: minimaal 15 maanden totaal",
+          "NV: waarvan 12 maanden op lie (gistcellen)",
+          "Vintage: minimaal 3 jaar op lie",
+          "Rijping op lie geeft brioche/biscuitaroma's"
+        ],
+        "answer_why": "De lange rijping op lie zorgt voor autolyse, wat de typische Champagne-aroma's van brioche en biscuit ontwikkelt.",
+        "answer_pitfall": "Verwar de minimale rijping niet met de prestigecuvées die vaak veel langer rijpen (bv. Dom Pérignon 7+ jaar).",
+        "answer_memory_hook": "NV = 15 maanden (1+5=6, helft? Nee, 12 op lie). Vintage = 3 jaar (V = 3 in Romeinse cijfers? V = 5, maar Vintage = 3 jaar)."
+      },
+      {
+        "id": "batch6_031",
+        "category": "italie",
+        "difficulty": "medium",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat betekenen de termen 'Riserva' en 'Superiore' op een Italiaans wijnlabel?",
+        "answer": "Riserva = langere houtrijping dan standaard. Superiore = hoger alcoholpercentage en vaak strengere regels.",
+        "explanation": "Riserva is een Italiaanse etiketaanduiding die aangeeft dat de wijn langer heeft gerijpt (meestal in hout) dan de standaard DOCG/DOC-vereisten. De exacte duur verschilt per regio (bv. Barolo Riserva = 5+ jaar totaal). Superiore betekent dat de wijn een hoger minimum alcoholpercentage heeft dan de standaard DOC/DOCG en vaak strengere productieregels. Classico verwijst naar het oorspronkelijke kerngebied.",
+        "tags": ["italie", "riserva", "superiore", "etiket", "wetgeving", "classificatie"],
+        "answer_short": "Riserva = langer gerijpt. Superiore = hoger alcoholpercentage.",
+        "answer_core_points": [
+          "Riserva: langere houtrijping dan de DOC/DOCG-standaard",
+          "Riserva duur verschilt per regio",
+          "Superiore: hoger minimum alcoholpercentage",
+          "Superiore: vaak strengere productieregels",
+          "Classico = oorspronkelijk kerngebied (andere term)"
+        ],
+        "answer_why": "Riserva en Superiore zijn kwaliteitsaanduidingen binnen het Italiaanse DOC/DOCG-systeem die strengere eisen stellen aan de wijn.",
+        "answer_pitfall": "Verwar Riserva niet met Riserva Speciale (Port) of Reserva (Spaans). Elk land heeft zijn eigen terminologie.",
+        "answer_memory_hook": "Riserva = Reserve = extra rijping. Superiore = Super = hoger alcohol."
+      },
+      {
+        "id": "batch6_032",
+        "category": "italie",
+        "difficulty": "medium",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat is Nebbiolo d'Alba en hoe verhoudt het zich tot Barolo en Barbaresco?",
+        "answer": "Nebbiolo d'Alba is een lichtere, toegankelijkere Nebbiolo uit de Alba-regio.",
+        "explanation": "Nebbiolo d'Alba DOC is een Nebbiolo-wijn uit een groter gebied rond Alba dan Barolo of Barbaresco. De wijn is vaak lichter, minder tanninerijk en eerder drinkbaar dan Barolo of Barbaresco. Het heeft kortere minimale rijpingseisen: 1 jaar (waarvan 6 maanden in hout), terwijl Barolo 3 jaar (18 maanden in hout) en Barbaresco 2 jaar (9 maanden in hout) vereist.",
+        "tags": ["italie", "piemonte", "nebbiolo", "nebbiolo_d_alba", "barolo", "barbaresco"],
+        "answer_short": "Lichtere, toegankelijkere Nebbiolo met kortere rijping.",
+        "answer_core_points": [
+          "Ligging: groter gebied rond Alba",
+          "Lichter en minder tanninerijk dan Barolo/Barbaresco",
+          "Kortere rijping: 1 jaar (6 mnd hout)",
+          "Eerder drinkbaar",
+          "DOC-status"
+        ],
+        "answer_why": "Nebbiolo d'Alba heeft soepelere regels en een groter productiegebied, wat leidt tot een toegankelijkere stijl.",
+        "answer_pitfall": "Nebbiolo d'Alba is niet hetzelfde als Barolo of Barbaresco; het is een aparte DOC met eigen regels.",
+        "answer_memory_hook": "Nebbiolo d'Alba = Nebbiolo voor 'daily drinking' (d'Alba = van Alba)."
+      },
+      {
+        "id": "batch6_033",
+        "category": "italie",
+        "difficulty": "medium",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat zijn de drie belangrijkste Barbera-appellaties?",
+        "answer": "Barbera d'Alba, Barbera d'Asti, Barbera del Monferrato.",
+        "explanation": "Barbera is na Sangiovese de belangrijkste rode druif van Italië. De drie belangrijkste appellaties zijn: Barbera d'Alba (uit de regio Alba in Piemonte, vaak krachtiger), Barbera d'Asti (uit Asti, vaak de elegantste en meest verfijnde) en Barbera del Monferrato (uit Monferrato, klassieke stijl). Barbera heeft van nature hoge zuren en lage tannines, wat het een veelzijdige voedselwijn maakt.",
+        "tags": ["italie", "piemonte", "barbera", "druiven", "appellaties"],
+        "answer_short": "Barbera d'Alba, Barbera d'Asti, Barbera del Monferrato.",
+        "answer_core_points": [
+          "Barbera d'Alba: krachtiger, uit Alba-regio",
+          "Barbera d'Asti: elegant en verfijnd",
+          "Barbera del Monferrato: klassieke stijl",
+          "Hoge zuren, lage tannines",
+          "Na Sangiovese belangrijkste rode druif"
+        ],
+        "answer_why": "Barbera is populair vanwege zijn hoge zuren en lage tannines, wat het een ideale voedselwijn maakt.",
+        "answer_pitfall": "Verwar Barbera d'Alba niet met Nebbiolo d'Alba; Barbera en Nebbiolo zijn verschillende druiven.",
+        "answer_memory_hook": "Barbera = B (Alba, Asti, Monferrato). Drie B's."
+      },
+      {
+        "id": "batch6_034",
+        "category": "italie",
+        "difficulty": "hard",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat is het verschil in druk tussen Prosecco Spumante en Prosecco Frizzante?",
+        "answer": "Spumante: 3-6 bar. Frizzante: 1-2,5 bar.",
+        "explanation": "Prosecco wordt op twee manieren gemaakt: Spumante (volledig mousserend) met een druk van 3 tot 6 bar, en Frizzante (half-mousserend) met een druk van 1 tot 2,5 bar. Beide worden gemaakt volgens de Charmat-methode (drukvergisting in grote stalen tanks) van de Glera-druif. Spumante is de bekendste en meest geëxporteerde stijl.",
+        "tags": ["italie", "veneto", "prosecco", "spumante", "frizzante", "druk"],
+        "answer_short": "Spumante: 3-6 bar. Frizzante: 1-2,5 bar.",
+        "answer_core_points": [
+          "Spumante: 3-6 bar druk",
+          "Frizzante: 1-2,5 bar druk",
+          "Beide via Charmat-methode",
+          "Beide van Glera-druif"
+        ],
+        "answer_why": "Het verschil in druk bepaalt de stijl: Spumante is volledig mousserend, Frizzante is zacht mousserend.",
+        "answer_pitfall": "Verwar Prosecco Spumante niet met Champagne (die een hogere druk heeft, ca. 5-6 bar, maar via traditionele methode).",
+        "answer_memory_hook": "Spumante = 3-6 bar (S = 3e letter? S = 6?). Frizzante = 1-2,5 bar (F = 1? F = fris, laag)."
+      },
+      {
+        "id": "batch6_035",
+        "category": "italie",
+        "difficulty": "hard",
+        "source": "SDEN3 Italië.md",
+        "question": "Welk wijnhuis heeft zijn eigen DOC (Bolgheri Sassicaia) en wat is het verhaal?",
+        "answer": "Tenuta San Guido, maker van Sassicaia. Sinds 2013 heeft het een eigen DOC: Bolgheri Sassicaia DOC.",
+        "explanation": "Sassicaia, gemaakt door wijnhuis Tenuta San Guido in Bolgheri (Toscane), was oorspronkelijk een IGT Super Tuscan omdat het Franse druiven (Cabernet Sauvignon, Cabernet Franc) gebruikte buiten de DOC-regels om. Na jaren van succes kreeg Sassicaia in 2013 een eigen DOC: Bolgheri Sassicaia DOC, een subzone van Bolgheri DOC. Dit is een unieke erkenning voor één wijn.",
+        "tags": ["italie", "toscane", "sassicaia", "bolgheri", "super_tuscan", "doc"],
+        "answer_short": "Tenuta San Guido (Sassicaia). Eigen DOC: Bolgheri Sassicaia (sinds 2013).",
+        "answer_core_points": [
+          "Wijnhuis: Tenuta San Guido",
+          "Wijn: Sassicaia (Cabernet Sauvignon/Cabernet Franc blend)",
+          "Eigen DOC: Bolgheri Sassicaia DOC (sinds 2013)",
+          "Was oorspronkelijk een IGT Super Tuscan",
+          "Unieke erkenning voor één wijn"
+        ],
+        "answer_why": "Sassicaia's eigen DOC is een unieke uitzondering in Italië, als erkenning voor de historische en kwalitatieve status van deze wijn.",
+        "answer_pitfall": "Sassicaia is niet langer een IGT; het heeft sinds 2013 een eigen DOC.",
+        "answer_memory_hook": "Sassicaia = eigen DOC. S = Speciale Status."
+      },
+      {
+        "id": "batch6_036",
+        "category": "italie",
+        "difficulty": "hard",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat is Montefalco Sagrantino DOCG?",
+        "answer": "Een DOCG uit Umbrië, gemaakt van 100% Sagrantino-druif.",
+        "explanation": "Montefalco Sagrantino DOCG is een rode wijn uit Umbrië (Midden-Italië), gemaakt van 100% Sagrantino-druiven. Sagrantino is een inheemse Umbrische druif met zeer hoge tannines en uitstekend bewaarpotentieel. De wijn is krachtig, complex en donker. Er is ook een Montefalco Rosso DOC (met Sangiovese, Sagrantino en Merlot).",
+        "tags": ["italie", "umbrie", "sagrantino", "montefalco", "docg", "rood"],
+        "answer_short": "DOCG uit Umbrië, 100% Sagrantino.",
+        "answer_core_points": [
+          "Regio: Umbrië (Midden-Italië)",
+          "Druif: 100% Sagrantino",
+          "Inheemse Umbrische druif",
+          "Zeer hoge tannines",
+          "Uitstekend bewaarpotentieel"
+        ],
+        "answer_why": "Sagrantino heeft van nature een zeer hoog tanninegehalte, wat zorgt voor krachtige, langlevende wijnen.",
+        "answer_pitfall": "Verwar Montefalco Sagrantino DOCG niet met Montefalco Rosso DOC (blend met Sangiovese).",
+        "answer_memory_hook": "Sagrantino = 'sagra' (feest) + 'tino' = feestwijn met veel tannine."
+      },
+      {
+        "id": "batch6_037",
+        "category": "italie",
+        "difficulty": "hard",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat is Salice Salentino DOC?",
+        "answer": "Rode wijn uit Puglia (Salento) van de Negroamaro-druif.",
+        "explanation": "Salice Salentino DOC is een rode wijn uit Puglia, geproduceerd in de Salento-regio (de 'hak van de laars'). De wijn wordt voornamelijk gemaakt van Negroamaro (minimaal 80%), een inheemse druif die goed gedijt in het hete, droge klimaat van Puglia. De wijnen zijn vol, zacht, met donker fruit en kruidige tonen.",
+        "tags": ["italie", "puglia", "salice_salentino", "negroamaro", "doc", "rood"],
+        "answer_short": "Puglia rode wijn van Negroamaro uit Salento.",
+        "answer_core_points": [
+          "DOC uit Puglia",
+          "Ligt in Salento ('hak van de laars')",
+          "Minimaal 80% Negroamaro",
+          "Volle, zachte rode wijn",
+          "Donker fruit en kruidige tonen"
+        ],
+        "answer_why": "Het warme, droge klimaat van Puglia is perfect voor Negroamaro, dat volle, zachte wijnen produceert.",
+        "answer_pitfall": "Verwar Salice Salentino niet met Primitivo di Manduria (ook Puglia, maar van Primitivo/Zinfandel).",
+        "answer_memory_hook": "Salice Salentino = 'zoute Salento' - Negroamaro = 'zwart bitter'."
+      },
+      {
+        "id": "batch6_038",
+        "category": "italie",
+        "difficulty": "medium",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat is Grillo en waar wordt het voornamelijk verbouwd?",
+        "answer": "Grillo is een wit druivenras uit Sicilië.",
+        "explanation": "Grillo is een inheems wit druivenras uit Sicilië. Het was historisch een van de belangrijkste druiven voor Marsala (zoete versterkte wijn), maar wordt tegenwoordig steeds meer gebruikt voor droge, aromatische witte wijnen. Grillo produceert wijnen met tonen van citrus, tropisch fruit en een lichte bitterheid in de afdronk. Samen met Carricante (Etna) is het een van de belangrijkste witte Siciliaanse druiven.",
+        "tags": ["italie", "sicilie", "grillo", "druiven", "wit"],
+        "answer_short": "Witte Siciliaanse druif.",
+        "answer_core_points": [
+          "Inheems wit druivenras uit Sicilië",
+          "Historisch gebruikt voor Marsala",
+          "Nu ook voor droge aromatische witte wijn",
+          "Citrus, tropisch fruit, lichte bitterheid",
+          "Belangrijkste witte druif van Sicilië (naast Carricante)"
+        ],
+        "answer_why": "Grillo is een veelzijdige druif die zowel voor versterkte (Marsala) als voor droge wijnen wordt gebruikt.",
+        "answer_pitfall": "Verwar Grillo niet met Grechetto (Umbrië) of Greco (Campania).",
+        "answer_memory_hook": "Grillo = 'krekel' - het geluid van Sicilië in de zomer."
+      },
+      {
+        "id": "batch6_039",
+        "category": "italie",
+        "difficulty": "hard",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat zijn Rosso Conero en Rosso Piceno?",
+        "answer": "Twee rode wijnen uit Marche: Rosso Conero (Montepulciano, Sangiovese) en Rosso Piceno (Montepulciano, Sangiovese).",
+        "explanation": "Rosso Conero DOCG en Rosso Piceno DOC zijn twee rode wijnen uit de regio Marche. Rosso Conero komt van de Monte Conero aan de kust bij Ancona, met Montepulciano (min. 85%) en eventueel Sangiovese. Rosso Piceno komt uit het achterland en bevat Montepulciano en Sangiovese (samen min. 60%). Beide zijn volle, fruitige rode wijnen.",
+        "tags": ["italie", "marche", "rosso_conero", "rosso_piceno", "montepulciano", "rood"],
+        "answer_short": "Twee rode DOC's uit Marche van Montepulciano en Sangiovese.",
+        "answer_core_points": [
+          "Regio: Marche",
+          "Rosso Conero: min. 85% Montepulciano (DOCG)",
+          "Rosso Piceno: Montepulciano + Sangiovese (DOC)",
+          "Rosso Conero van kust, Rosso Piceno uit achterland"
+        ],
+        "answer_why": "De Marche-regio produceert zowel kust- als binnenlandrode wijnen van dezelfde druiven, maar met verschillende stijlen.",
+        "answer_pitfall": "Verwar Rosso Conero niet met Rosso di Montalcino (Toscane, Sangiovese).",
+        "answer_memory_hook": "Conero = aan de kust (C = Coast). Piceno = Picenum (oude naam)."
+      },
+      {
+        "id": "batch6_040",
+        "category": "italie",
+        "difficulty": "medium",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat is Lambrusco en uit welke regio komt het?",
+        "answer": "Lambrusco is een mousserende rode wijn uit Emilia-Romagna.",
+        "explanation": "Lambrusco is een rode (of rosé) mousserende wijn uit Emilia-Romagna, gemaakt van de Lambrusco-druif. Het wordt meestal gemaakt in een droge (secco) of zoete (dolce/amabile) stijl, met een lichte mousse (frizzante). Lambrusco is vaak laag in alcohol en wordt gekoeld geserveerd. Het is de typische foodwijn bij de vette, rijke keuken van Emilia-Romagna.",
+        "tags": ["italie", "emilia_romagna", "lambrusco", "mousserend", "rood"],
+        "answer_short": "Mousserende rode wijn uit Emilia-Romagna.",
+        "answer_core_points": [
+          "Regio: Emilia-Romagna",
+          "Druif: Lambrusco",
+          "Rode mousserende wijn (frizzante)",
+          "Droog (secco) of zoet (dolce/amabile)",
+          "Laag alcohol, gekoeld serveren"
+        ],
+        "answer_why": "Lambrusco's frisse zuren en lichte mousse maken het een perfecte match voor de vette keuken van Emilia-Romagna.",
+        "answer_pitfall": "Verwar Lambrusco niet met Brachetto d'Acqui (Piemonte, zoet rood mousserend).",
+        "answer_memory_hook": "Lambrusco = de rode 'cola' van Italië - licht, fruitig, mousserend."
+      },
+      {
+        "id": "batch6_041",
+        "category": "italie",
+        "difficulty": "hard",
+        "source": "SDEN3 Italië.md",
+        "question": "Welke druiven zijn toegestaan naast Chardonnay in Franciacorta?",
+        "answer": "Pinot Nero (Pinot Noir) en Pinot Bianco.",
+        "explanation": "Franciacorta is de Italiaanse 'Champagne' uit Lombardije, gemaakt via de metodo classico (traditionele methode). De toegestane druiven zijn Chardonnay, Pinot Nero (Pinot Noir) en Pinot Bianco. Franciacorta heeft strikte regels: minimaal 25 maanden rijping op lie voor NV en 60 maanden voor Riserva.",
+        "tags": ["italie", "lombardije", "franciacorta", "metodo_classico", "mousserend"],
+        "answer_short": "Pinot Nero (Pinot Noir) en Pinot Bianco.",
+        "answer_core_points": [
+          "Franciacorta uit Lombardije",
+          "Metodo Classico (traditionele methode)",
+          "Druiven: Chardonnay, Pinot Nero, Pinot Bianco",
+          "NV: 25 mnd op lie, Riserva: 60 mnd"
+        ],
+        "answer_why": "Franciacorta is de belangrijkste Italiaanse mousserende wijn gemaakt via de traditionele methode, met eigen strikte regels.",
+        "answer_pitfall": "Verwar Franciacorta met Prosecco; Franciacorta gebruikt metodo classico, Prosecco gebruikt Charmat-methode.",
+        "answer_memory_hook": "Franciacorta = Italiaanse Champagne (F = Fancy, C = Classico)."
+      },
+      {
+        "id": "batch6_042",
+        "category": "italie",
+        "difficulty": "medium",
+        "source": "SDEN3 Italië.md",
+        "question": "Wat is Marsala en wat voor type wijn is het?",
+        "answer": "Marsala is een versterkte wijn (VIP) uit Sicilië.",
+        "explanation": "Marsala is een versterkte wijn (Vino Liquoroso) uit Sicilië, vergelijkbaar met Sherry of Port. Het wordt gemaakt van lokale druiven zoals Grillo, Catarratto en Inzolia. Marsala varieert van droog (secco) tot zoet (dolce) en van goud (oro) tot robijn (rubino). Het wordt gerijpt in een solera-systeem en kent classificaties zoals Fine (1 jaar), Superiore (2 jaar) en Vergine (5+ jaar).",
+        "tags": ["italie", "sicilie", "marsala", "versterkt", "vip"],
+        "answer_short": "Versterkte wijn uit Sicilië.",
+        "answer_core_points": [
+          "Versterkte wijn (Vino Liquoroso)",
+          "Uit Sicilië",
+          "Druiven: Grillo, Catarratto, Inzolia",
+          "Droog tot zoet",
+          "Gerijpt in solera-systeem",
+          "Classificaties: Fine, Superiore, Vergine"
+        ],
+        "answer_why": "Marsala werd historisch ontwikkeld als alternatief voor Sherry en Port, gebruikmakend van Siciliaanse druiven.",
+        "answer_pitfall": "Marsala is geen DOCG maar een DOC; verwar het niet met de Spaanse Sherry.",
+        "answer_memory_hook": "Marsala = Madeira-achtig? Nee, Marsala is Siciliaans, zoet of droog, in solera."
+      },
+      {
+        "id": "batch6_043",
+        "category": "nieuwe_wereld",
+        "difficulty": "medium",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat is de Terra Rossa-bodem en waar komt deze voor?",
+        "answer": "Terra Rossa is een rode ijzerrijke kleibodem over kalksteen, uniek in Coonawarra (Australië).",
+        "explanation": "Terra Rossa is een kenmerkende rode bodem in Coonawarra, Zuid-Australië. Het bestaat uit een laag rode, ijzerrijke klei over kalksteen. De bodem is ideaal voor Cabernet Sauvignon, de iconische druif van Coonawarra. Het koelere klimaat van Coonawarra (beïnvloed door de Zuidelijke Oceaan) combineert met de Terra Rossa voor elegante, gestructureerde rode wijnen met muntachtige tonen.",
+        "tags": ["australie", "coonawarra", "terra_rossa", "bodem", "cabernet_sauvignon"],
+        "answer_short": "Rode ijzerrijke kleibodem over kalksteen in Coonawarra.",
+        "answer_core_points": [
+          "Coonawarra, Zuid-Australië",
+          "Rode ijzerrijke klei over kalksteen",
+          "Ideaal voor Cabernet Sauvignon",
+          "Koeler klimaat door Zuidelijke Oceaan",
+          "Elegante, gestructureerde wijnen met muntachtige tonen"
+        ],
+        "answer_why": "De Terra Rossa-bodem combineert goede drainage (kalksteen) met waterretentie (ijzerklei), perfect voor wijnbouw.",
+        "answer_pitfall": "Verwar Terra Rossa niet met Albariza (Jerez, wit kalk) of Llicorella (Priorat, donker leisteen).",
+        "answer_memory_hook": "Terra Rossa = 'rode aarde' - denk aan de rode klei boven witte kalksteen."
+      },
+      {
+        "id": "batch6_044",
+        "category": "nieuwe_wereld",
+        "difficulty": "medium",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat is de Yarra Valley en waar staat het bekend om?",
+        "answer": "Australische wijnregio in Victoria, bekend om Pinot Noir en Chardonnay.",
+        "explanation": "Yarra Valley is een koelere wijnregio in Victoria, Australië. Het staat bekend om elegante Pinot Noir en hoogwaardige Chardonnay, evenals mousserende wijnen. Het koelere klimaat door de ligging dicht bij de oceaan zorgt voor frisse zuren en verfijnde aroma's, in contrast met de warmere Australische regio's zoals Barossa. Samen met Mornington Peninsula vormt het de koelere wijnstreken van Victoria.",
+        "tags": ["australie", "yarra_valley", "victoria", "pinot_noir", "chardonnay"],
+        "answer_short": "Koelere Victoria-regio voor Pinot Noir en Chardonnay.",
+        "answer_core_points": [
+          "Regio: Victoria, Australië",
+          "Koel klimaat",
+          "Bekend om Pinot Noir en Chardonnay",
+          "Ook mousserende wijn van topkwaliteit",
+          "Frisse zuren en verfijning"
+        ],
+        "answer_why": "Het koelere klimaat van Yarra Valley is ideaal voor Pinot Noir en Chardonnay, druiven die frisse zuren nodig hebben.",
+        "answer_pitfall": "Verwar Yarra Valley niet met Hunter Valley (NSW, bekend om Sémillon en Shiraz).",
+        "answer_memory_hook": "Yarra = Y (Yarra) voor Young, frisse wijnen. Valley = koele vallei."
+      },
+      {
+        "id": "batch6_045",
+        "category": "nieuwe_wereld",
+        "difficulty": "hard",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat is Casablanca Valley en welke invloed heeft de Humboldtstroom?",
+        "answer": "Casablanca Valley is een koele kustregio in Chili, gekoeld door de Humboldtstroom.",
+        "explanation": "Casablanca Valley ligt aan de Chileense kust, dicht bij Valparaíso. De koude Humboldtstroom uit de Antarctische oceaan stroomt langs de Chileense kust en zorgt voor extreme koeling, waardoor Casablanca Valley ondanks zijn relatief lage breedtegraad een koel klimaat heeft. Dit maakt het ideaal voor Sauvignon Blanc en Chardonnay. De Humboldtstroom is essentieel voor de Chileense wijnbouw in kustregio's.",
+        "tags": ["chili", "casablanca_valley", "humboldtstroom", "klimaat", "kust"],
+        "answer_short": "Koele Chileense kustregio, gekoeld door de Humboldtstroom.",
+        "answer_core_points": [
+          "Casablanca Valley = kustregio Chili",
+          "Gekoeld door Humboldtstroom (Antarctische stroom)",
+          "Ideaal voor Sauvignon Blanc en Chardonnay",
+          "Humboldtstroom cruciaal voor Chileense kustwijnbouw"
+        ],
+        "answer_why": "Zonder de Humboldtstroom zou het te warm zijn voor wijnbouw in Casablanca Valley; de stroom maakt koelere druiven mogelijk.",
+        "answer_pitfall": "Verwar Casablanca Valley niet met Maipo Valley (warmer, bekend om Cabernet Sauvignon).",
+        "answer_memory_hook": "Humboldt = 'hum' (koel) + 'oldt' - de koude zeestroom uit Antarctica."
+      },
+      {
+        "id": "batch6_046",
+        "category": "nieuwe_wereld",
+        "difficulty": "hard",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat zijn Walker Bay, Elgin en Swartland in Zuid-Afrika?",
+        "answer": "Belangrijke wijnregio's naast Stellenbosch: Walker Bay (Pinot Noir), Elgin (koel, wit), Swartland (krachtig rood).",
+        "explanation": "Walker Bay is een kustregio in Zuid-Afrika, bekend om Pinot Noir en Chardonnay (sterk gekoeld door de Benguelastroom). Elgin ligt hoger en is een van de koelste regio's, uitstekend voor Sauvignon Blanc en Chardonnay. Swartland is een meer continentaal gebied met een warmer klimaat, bekend om krachtige rode wijnen (Shiraz, Cabernet) en oude wijnstokken (Chenin Blanc).",
+        "tags": ["zuid_afrika", "walker_bay", "elgin", "swartland", "regios"],
+        "answer_short": "Walker Bay (PN, CH), Elgin (koel wit), Swartland (krachtig rood).",
+        "answer_core_points": [
+          "Walker Bay: kustregio, Pinot Noir, Chardonnay, Benguelastroom",
+          "Elgin: hooggelegen, koel, Sauvignon Blanc, Chardonnay",
+          "Swartland: continentaal, Shiraz, Cabernet, oude Chenin Blanc",
+          "Klimaat varieert van koel kust tot warm continentaal"
+        ],
+        "answer_why": "De Benguelastroom koelt Walker Bay en Elgin, terwijl Swartland landinwaarts ligt en warmer is.",
+        "answer_pitfall": "Verwar Swartland niet met Swartberg (bergketen).",
+        "answer_memory_hook": "Walker Bay = walvisbaai (koel). Swartland = zwart land (warm)."
+      },
+      {
+        "id": "batch6_047",
+        "category": "nieuwe_wereld",
+        "difficulty": "medium",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat is Hawke's Bay in Nieuw-Zeeland en waarvoor staat het bekend?",
+        "answer": "Wijnregio op het Noordeiland, bekend om Syrah en rode blends.",
+        "explanation": "Hawke's Bay is de oudste en op een na grootste wijnregio van Nieuw-Zeeland, gelegen op het Noordeiland. Het heeft een warmer, droger klimaat dan Marlborough en staat bekend om krachtige rode wijnen, vooral Syrah (vaak vergeleken met Côte-Rôtie), Cabernet Sauvignon en Merlot blends. Ook Chardonnay en Viognier zijn belangrijk. Hawke's Bay heeft de Gimblett Gravels, een beroemde kiezelbodem.",
+        "tags": ["nieuw_zeeland", "hawkes_bay", "syrah", "noordeiland", "rood"],
+        "answer_short": "Noordeiland, bekend om Syrah en rode blends.",
+        "answer_core_points": [
+          "Op het Noordeiland",
+          "Oudste en op 1 na grootste regio van NZ",
+          "Warmer, droger dan Marlborough",
+          "Bekend om Syrah (Côte-Rôtie-stijl)",
+          "Gimblett Gravels kiezelbodem"
+        ],
+        "answer_why": "Hawke's Bay's warmere klimaat maakt het geschikt voor rode druiven zoals Syrah, in tegenstelling tot het koelere Marlborough.",
+        "answer_pitfall": "Verwar Hawke's Bay niet met Marlborough (Zuideiland, beroemd om Sauvignon Blanc).",
+        "answer_memory_hook": "Hawke's Bay = H(awke) = Heet(er) = rode wijn."
+      },
+      {
+        "id": "batch6_048",
+        "category": "nieuwe_wereld",
+        "difficulty": "hard",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat is de Pacific-mist en hoe beïnvloedt dit de Californische wijnbouw?",
+        "answer": "Koude zeemist die via bergpassen (gaps) 's avonds de wijngaarden in stroomt en koelt.",
+        "explanation": "De Pacific-mist is een essentieel koelingsmechanisme in Californië. Overdag worden de dalen zoals Napa en Sonoma zeer heet, maar 's avonds wordt de koude zeemist van de Stille Oceaan door gaten (gaps) in de kustgebergten het land ingezogen. Deze mist koelt de wijngaarden 's nachts snel af, wat zorgt voor een groot dag-nacht temperatuurverschil. Dit behoudt de frisse zuren en aroma's in de druiven.",
+        "tags": ["vs", "californie", "pacific_mist", "napa", "klimaat"],
+        "answer_short": "Koude zeemist door berggaten die 's avonds koelt.",
+        "answer_core_points": [
+          "Koude zeemist van de Stille Oceaan",
+          "Wordt via gaten (gaps) in bergen het land ingezogen",
+          "Koelt 's avonds de hete dalen (Napa, Sonoma)",
+          "Groot dag-nacht temperatuurverschil",
+          "Behoud van frisse zuren en aroma's"
+        ],
+        "answer_why": "De Pacific-mist is cruciaal omdat het de hitte van de dag compenseert, waardoor druiven hun zuurgraad behouden in een anders te warm klimaat.",
+        "answer_pitfall": "De mist is niet hetzelfde als regen; het is een koelend mechanisme, geen neerslag.",
+        "answer_memory_hook": "Pacific mist = 'pacific' (vredig) + 'mist' - denk aan de mist die 's avonds binnenrolt."
+      },
+      {
+        "id": "batch6_049",
+        "category": "nieuwe_wereld",
+        "difficulty": "hard",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat is uniek aan de hoogte van wijngaarden in Salta (Argentinië)?",
+        "answer": "Wijngaarden tot boven 2.000 meter, de hoogste ter wereld.",
+        "explanation": "In Salta, met name Cafayate, liggen wijngaarden op extreme hoogtes tot boven de 2.000 meter. Dit zijn de hoogste wijngaarden ter wereld. De enorme hoogte zorgt voor koele nachten (groot dag-nachtverschil), intense zonnestraling en frisse zuren, ondanks het warme, droge continentale klimaat. De iconische witte druif is Torrontés, die hier zijn beste kwaliteit bereikt.",
+        "tags": ["argentinië", "salta", "cafayate", "hoogte", "torrontes"],
+        "answer_short": "Wijngaarden tot 2.000m+, de hoogste ter wereld.",
+        "answer_core_points": [
+          "Salta (Cafayate) in Noord-Argentinië",
+          "Wijngaarden tot boven 2.000 meter",
+          "Hoogste wijngaarden ter wereld",
+          "Koele nachten door hoogte",
+          "Intense zonnestraling",
+          "Torrontés is iconische witte druif"
+        ],
+        "answer_why": "De extreme hoogte compenseert het warme klimaat: koele nachten behouden de zuren, terwijl de intense zon de aroma's ontwikkelt.",
+        "answer_pitfall": "Verwar Salta niet met Mendoza; Mendoza ligt ook hoog (600-1.500m) maar Salta is extremer (2.000m+).",
+        "answer_memory_hook": "Salta = hoog (2.000m). S = Sky-high."
+      },
+      {
+        "id": "batch6_050",
+        "category": "nieuwe_wereld",
+        "difficulty": "hard",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Wat is de Benguelastroom en welke invloed heeft deze op Zuid-Afrikaanse wijnbouw?",
+        "answer": "Koude zeestroom uit Antarctica die de kustregio's van Zuid-Afrika koelt.",
+        "explanation": "De Benguelastroom is een koude oceaanstroom die vanuit Antarctica langs de westkust van Zuid-Afrika stroomt. Deze stroom koelt de kustregio's zoals Walker Bay, Stellenbosch en Elgin aanzienlijk af, waardoor wijnbouw mogelijk is in een anders te warm klimaat. De South-Easter (wind) versterkt dit koelende effect. Zonder de Benguelastroom zouden deze kustregio's te heet zijn voor premium wijnbouw.",
+        "tags": ["zuid_afrika", "benguelastroom", "klimaat", "kust", "zeestroom"],
+        "answer_short": "Koude Antarctische zeestroom die Zuid-Afrikaanse kust koelt.",
+        "answer_core_points": [
+          "Koude zeestroom uit Antarctica",
+          "Stroomt langs westkust Zuid-Afrika",
+          "Koelt kustregio's: Walker Bay, Stellenbosch, Elgin",
+          "South-Easter wind versterkt koeling",
+          "Cruciaal voor premium wijnbouw in kustgebieden"
+        ],
+        "answer_why": "De Benguelastroom is essentieel omdat het de temperaturen in kustregio's verlaagt, wat nodig is voor kwaliteitswijnbouw.",
+        "answer_pitfall": "Verwar Benguelastroom niet met Humboldtstroom (Chili); beide zijn koude zeestromen maar aan verschillende kusten.",
+        "answer_memory_hook": "Benguela = 'Benga' + 'ela' - denk aan de koude stroom uit Antarctica."
+      },
+      {
+        "id": "batch6_051",
+        "category": "nieuwe_wereld",
+        "difficulty": "hard",
+        "source": "SDEN3 Nieuwe wereld.md",
+        "question": "Waarom wordt Central Otago beschouwd als een uniek continentale wijnregio?",
+        "answer": "Het is de meest zuidelijke wijnregio ter wereld en de enige met een continentaal klimaat in Nieuw-Zeeland.",
+        "explanation": "Central Otago op het Zuideiland van Nieuw-Zeeland is de meest zuidelijke wijnregio ter wereld. In tegenstelling tot de rest van Nieuw-Zeeland (dat maritiem klimaat heeft), heeft Central Otago een continentaal klimaat met hete zomers, koude winters en grote dag-nacht temperatuurverschillen. Dit komt door de ligging in een regenachtige bergkom, beschut tegen de oceaan. Het is perfect voor Pinot Noir.",
+        "tags": ["nieuw_zeeland", "central_otago", "continentaal", "pinot_noir", "zuidelijk"],
+        "answer_short": "Meest zuidelijke en enige continentale wijnregio ter wereld.",
+        "answer_core_points": [
+          "Meest zuidelijke wijnregio ter wereld",
+          "Enige Nieuw-Zeelandse regio met continentaal klimaat",
+          "Hete zomers, koude winters",
+          "Grote dag-nacht temperatuurverschillen",
+          "Perfect voor Pinot Noir"
+        ],
+        "answer_why": "Central Otago's ligging in een beschutte bergkom geeft het een continentaal klimaat, uniek voor Nieuw-Zeeland en de wereld op deze breedtegraad.",
+        "answer_pitfall": "Nieuw-Zeeland is overwegend maritiem; Central Otago is de uitzondering met een continentaal klimaat.",
+        "answer_memory_hook": "Central Otago = CO = Continental Only (de enige continentale)."
+      }
+    ]
+  }
+}
